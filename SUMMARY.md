@@ -2,7 +2,7 @@
 
 * [ZK Servidores™](README.md)
 
-## Regras & Normas de Conduta <a id="regras-e-normas-de-conduta"></a>
+## 📚 \| Regras & Normas de Conduta <a id="regras-e-normas-de-conduta"></a>
 
 * [Regras & Normas de Conduta](regras-e-normas-de-conduta/regras-e-normas-de-conduta.md)
 
@@ -14,7 +14,7 @@
 * [Dicas para players com privilégios](planos-e-privilegios/dicas-para-players-com-privilegios.md)
 * [Comandos disponíveis nos servidores](planos-e-privilegios/comandos-dos-players-com-privilegios.md)
 
-## F.A.Q - BASE DE CONHECIMENTO
+## ❔ \| F.A.Q - BASE DE CONHECIMENTO <a id="f.a.q-base-de-conhecimento"></a>
 
 * [Como gravar demo dentro dos servidores](f.a.q-base-de-conhecimento/como-gravar-demos-dentro-dos-servidores.md)
 * [Problemas com perca de FPS](f.a.q-base-de-conhecimento/problemas-com-perca-de-fps.md)
@@ -25,11 +25,11 @@
   * [Corrigir Erro Retrying Public](f.a.q-base-de-conhecimento/bug-servidores-csgo/corrigir-erro-retrying-public.md)
   * [CSGO crasha e dá o erro HOST\_ERROR RECURSIVELY ENTERED](f.a.q-base-de-conhecimento/bug-servidores-csgo/csgo-crasha-e-da-o-erro-host_error-recursively-entered.md)
 
-## Changelog
+## 🚧 \| Changelog <a id="changelog"></a>
 
 * [Changelog](changelog/changelog.md)
 
-## SUPORTE
+## 🙋 \| SUPORTE <a id="suporte"></a>
 
 * [Discord](https://discord.gg/SQ9eVqq)
 * [Grupo Steam](https://steamcommunity.com/groups/zkservidores)
