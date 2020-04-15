@@ -1,0 +1,33 @@
+# CSGO crasha e dá o erro HOST\_ERROR RECURSIVELY ENTERED
+
+Verificando na Deep Web isso se trata de um erro de IPV4, solução que encontramos, resetar ele.
+
+Então siga esses passos e veja se resolve:
+
+* Abra seu **Prompt de Comando como Administrador**, segue uma print de exemplo: 
+
+![Prompt de Comand](../../.gitbook/assets/image%20%284%29.png)
+
+* Aberto seu **CMD** digite esses comandos um por um e aperte enter: 
+  * **`ipconfig /flushdns`** 
+  * **`netsh int ipv4 reset`** 
+  * **`netsh int ipv6 reset`** 
+  * **`netsh winhttp reset`** 
+  * **`proxy netsh winsock reset`**
+  *  **`ipconfig /registerdns`**
+* Abra agora o **Executar**, segue um print de exemplo: 
+
+![Win+R](../../.gitbook/assets/image%20%283%29.png)
+
+_**OBS: Caso queira um atalho, basta clicar em seu teclado `Win+R`.**_
+
+* Feito tudo isso digite o comando dentro do **Executar:** `steam://flushconfig`
+
+![](../../.gitbook/assets/image.png)
+
+Feito tudo isso, teste novamente se conectar no servidor.
+
+Geralmente depois de tudo feito ainda é preciso reiniciar o computador.
+
+_**Obrigado ao @\[💎\] Alimento=Cachaça\| MOD \| pelo feedback.**_ 😘 
+
