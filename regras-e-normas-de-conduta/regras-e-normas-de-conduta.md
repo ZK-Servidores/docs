@@ -8,7 +8,7 @@ description: >-
 
 ## FINALIDADE
 
-1. Para maior segurança e conforto para os players que frequentam nossos servidores foi elaborado estas **Regras & Normas de Conduta**, contendo informações para que possam aproveitar o máximo de nossos servidores e o descumprimento de qualquer uma delas gera punições em nossos servidores.
+1. Para maior segurança e conforto para os players que frequentam nossa comunidade foi elaborado estas **Regras & Normas de Conduta**, contendo informações para que possam aproveitar o máximo de nossos servidores e o descumprimento de qualquer uma delas gera punições em nossos servidores.
 
 ## ANTI-CHEATS
 
@@ -61,18 +61,6 @@ description: >-
    1. Players pegos usando qualquer tipo de programa que de vantagens em cima de outros players serão banidos no ato.
    2. Se você sentir que está sendo tratado de forma injusta, você deve entrar em contato conosco para que possamos verificar e chegar a um veredito.
 
-## VIPS
-
-1. Únicos players autorizados a vender os VIPS são os DONOS e SUB-DONOS e pelos sites e redes sociais oficias da **ZK Servidores™**, qualquer outro player que lhe oferecer está tentando lhe enganar.
-   1. Recomendamos sempre entrar em contato pelo nosso Discord Oficial, assim podemos garantir a segurança em sua compra.
-   2. Para identificar um DONO ou SUB-DONO basta verificar se o mesmo tem umas das TAGS em nossos servidores.
-   3. Caso aconteça de alguém está se passando por um DONO ou SUB-DONO, ou vendendo nossos VIPS sem autorização ou permissão entre em contato conosco e nos informem para que possamos aplicar a punição adequada ao player.
-2. Nos reservamos no direito de fazer qualquer alteração/remoção nos VIPS quando acharmos necessário.
-3. VIPS tem prazo de 30 dias ou de acordo com o plano contratado pelo player, depois disso deve ser adquirido novamente ou terão seus privilégios removidos.
-   1. Qualquer pagamento acima ou abaixo do valor especificado nos planos existentes, sem aviso prévio, combinado, será considerado como uma doação.
-   2. Prazo de ativação dos privilégios é de até 24 horas úteis. _**\(Não incluso Finais de Semana ou Feriados\)**_
-   3. VIPS depois de ativado em uma Steam não poderão ser transferidos para outra conta Steam em hipótese alguma.
-
 ## POLÍTICA DE CANCELAMENTO & DEVOLUÇÃO DO DINHEIRO
 
 1. Temos a certeza que você irá gostar de nosso VIP, e por isso oferecemos garantia de reembolso total de 7 dias corridos. Ficaremos tristes em ver você ir, mas não faremos nenhuma pergunta, verifique se está apto a solicitar a devolução do dinheiro:
@@ -91,14 +79,26 @@ description: >-
 ## NORMAS GERAIS DE CONDUTA
 
 1. Bom senso sempre.
-2. Quando for falar com alguém se lembre de ter respeito e educação, trate os outros como gostaria de ser tratado.
+2. Quando for falar com alguém lembre-se de ter respeito e educação, trate os outros como gostaria de ser tratado.
 3. Torna-se proibido:
-   1. Utilizar qualquer tipo de BUG nos servidores;
+   1. Utilizar qualquer tipo de BUG e/ou Glicthes nos servidores;
    2. Passar-se por qualquer player com privilégios;
    3. Abuso de MIC e/ou CHAT nos servidores;
 4. Fazer sempre o objetivo do mapa/modo de jogo.
-5. Perfis Privados são muito bem-vindos para jogar em nossos servidores, afinal você tem direito a sua privacidade.
+5. Perfis Privados são muito bem-vindos para jogar em nossos servidores, afinal você tem direito a sua privacidade. _**\(Porém avisamos que isso pode prejudicar sua jogatina, já que nossos servidores fazem verificações automatias nos perfil dos players\)**_
 6. Players sem Status Prime são muito bem-vindos para jogar em nossos servidores, porém todos são marcados com uma **TAG \[ Nom-Prime \]** automaticamente e só podem se conectar com contas que tenham mais de 30 dias no CSGO e Perfil Steam Público.
+
+## VIP
+
+1. Únicos players autorizados a vender **VIP** são os DONOS e SUB-DONOS e pelos sites e redes sociais oficias da **ZK Servidores™**, qualquer outro player que lhe oferecer está tentando lhe enganar.
+   1. Recomendamos sempre entrar em contato pelo nosso [**Discord Oficial**](https://discord.gg/SQ9eVqq), assim podemos garantir a segurança em sua compra.
+   2. Para identificar um DONO ou SUB-DONO basta verificar se o mesmo tem umas das TAGS em nossos servidores.
+   3. Caso aconteça de alguém está se passando por um DONO ou SUB-DONO, ou vendendo VIP sem autorização ou permissão entre em contato conosco e nos informem para que possamos aplicar a punição adequada ao player.
+2. Nos reservamos no direito de fazer qualquer alteração/remoção no VIP se acharmos necessário.
+3. VIP tem prazo de 1 mês _**\(30 dias\)**_ ou de acordo com o plano contratado pelo player, depois disso deve ser adquirido novamente ou terão seus privilégios removidos.
+   1. Qualquer pagamento acima ou abaixo do valor especificado nos planos existentes, sem aviso prévio ou combinado, será considerado como uma doação.
+   2. Prazo de ativação dos privilégios é de até 24 horas úteis. _**\(Não incluso Finais de Semana ou Feriados\)**_
+   3. VIPS depois de ativado em uma Steam não poderão ser transferidos para outra conta Steam em hipótese alguma.
 
 ## CONDUTA DE PLAYERS COM PRIVILÉGIOS
 
@@ -106,7 +106,7 @@ description: >-
 2. Proibido mutar, kickar, banir ou qualquer tipo de punição em players que não estejam quebrando nossas **Regras & Normas de Conduta**.
 3. Qualquer briga, desavença entre players não serão toleradas, e ambos serão punidos caso ocorra qualquer problema.
 4. Extremamente proibido alterar qualquer configuração dos servidores sob qualquer hipótese;
-5. Players com privilégios advertidos por quebrarem as **Regras & Normas de Conduta** devem apenas aceitar, caso retruque ou provoque mais intrigas sofrerão punições ou até mesmo perder seus privilégios.
+5. Players com privilégios advertidos pela administração por quebrarem as **Regras & Normas de Conduta** devem apenas aceitar, caso retruque ou provoque mais intrigas sofrerão punições ou até mesmo perder seus privilégios.
 6. Players com privilégios não estão salvos das **Regras & Normas de Conduta**, caso venha quebrar qualquer regra sofrerá uma punição ou até mesmo perder seus privilégios e não terão devolução do dinheiro sob hipótese alguma como previsto nas **Regras & Normas de Conduta.**
 
    .
@@ -114,7 +114,7 @@ description: >-
 ## REGRAS SERVIDORES COMPETITIVO
 
 1. Torna-se proibido:
-   1. SPEC usar qualquer meio de comunicação com algum player que esteja jogando nos times CT ou T para passar informações do game – CALL;
+   1. Players usar qualquer meio de comunicação para passar informações do game _**- CALL**_;
    2. Plantar C4 no Round Faca;
    3. Enrolar no Round Faca;
    4. Atrapalhar, trolar o game dos demais players;
@@ -124,22 +124,23 @@ description: >-
 ## REGRAS SERVIDORES ARENA 1V1
 
 1. Torna-se proibido:
-   1. Falar posição de outros players enquanto estiver morto;
+   1. Players usar qualquer meio de comunicação para passar informações do game _**- CALL**_;
    2. Atrapalhar o game de outros players;
 
 ## REGRAS SERVIDORES SURF
 
 1. Torna-se proibido:
-   1. Camperar; _\(+8 segundos\)_
-   2. Matar na área de BuyZone;
-   3. Usar qualquer meio de comunicação para passar informações dos players;
+   1. Camperar; _**\(+8 segundos\)**_
+   2. Matar na Área de BuyZone;
+   3. Players usar qualquer meio de comunicação para passar informações do game _**- CALL**_;
    4. Atrapalhar ou trolhar o game de outros players;
-   5. Sendo os últimos players vivo enrolar para fazer o objetivo do game.
+   5. Sendo os últimos players vivos enrolar para fazer o objetivo do game.
+2. Players que não realizarem o objetivo do game estarão levando slay, caso continue levaram ban.
 
 ## DENÚNCIAS
 
-1. Se está com suspeita de algum player, ou gostaria de denunciar algum por quebrar as nossas Regras & Normas de Conduta, basta entrar em contato conosco.
-2. Para que possamos verificar a denúncia nos enviem as seguintes informações.
+1. Se está com suspeita de algum player, ou gostaria de denunciar alguém por quebrar as nossas **Regras & Normas de Conduta**, basta enviar um [report](https://www.zkservidores.com/sourcebans/index.php?p=submit) para que possamos verificar.
+2. Para que possamos verificar o report nos enviem as seguintes informações.
    1. **Steam\_URL do Suspeito;**
    2. **Motivo da Denúncia;**
    3. **Provas;** _**\(Vídeos/Imagens\)**_
@@ -147,9 +148,10 @@ description: >-
          1. Válido ressaltar que toda denúncia deve ser feita com no máximo 48hs do ocorrido para ser analisada, a punição será definida através de uma decisão dos administradores e cabe somente aos administradores decidir se haverá uma punição.
          2. Tempo para que possamos verificar a denúncia é de 1 a 3 dias úteis, dependo do grau da denúncia tendo um tempo maior.
          3. Feito a denúncia basta aguarda, se comprovado que ele esteja quebrando as **Regras & Normas de Conduta** o mesmo sofrerá punição adequada.
-         4. A decisão sobre ser “culpado/banido”, deve ser unânime entre os administradores.
+         4. A decisão sobre ser _**“culpado/banido”**_, deve ser unânime entre os administradores.
 3. Players banidos permanentemente por uso de qualquer programa, não terão direito a remoção de banimento em hipótese alguma como previsto nas **Regras & Normas de Conduta.**
 4. Denúncias falsas, com o intuito de prejudicar outros players apenas, não serão toleradas, e o denunciante será punido.
+5. Para realizar um report basta [clicar aqui](https://www.zkservidores.com/sourcebans/index.php?p=submit).
 
 ## INFORMAÇÕES GERAIS
 
@@ -166,7 +168,8 @@ Nos reservamos do direito de fazer qualquer alteração em nossas **Regras & Nor
 ## CONTATO
 
 **Tendo qualquer dúvida não hesite em entrar em contato conosco:  
-DISCORD:** [**discord.gg/SQ9eVqq**](https://discord.gg/SQ9eVqq)  
+DISCORD:** [**zkservidores.com/discord**](https://discord.gg/SQ9eVqq)  
 **GRUPO STEAM:** [**steamcommunity.com/groups/zkservidores**](https://steamcommunity.com/groups/zkservidores)  
-**EMAIL:** [**contato@zkservidores.com**](mailto:contato@zkservidores.com)
+**EMAIL:** [**contato@zkservidores.com**](mailto:contato@zkservidores.com)  
+**WHASTAPP:** [**zkservidores.com/whatsapp**](https://wa.me/551146756442)\*\*\*\*
 
