@@ -34,4 +34,5 @@
 * [Discord](https://discord.gg/SQ9eVqq)
 * [Grupo Steam](https://steamcommunity.com/groups/zkservidores)
 * [Email](mailto:contato@zkservidores.com)
+* [WhatsApp](https://wa.me/551146756442)
 
