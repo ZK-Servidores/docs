@@ -31,8 +31,8 @@
 
 ## 🙋 \| SUPORTE <a id="suporte"></a>
 
-* [Discord](https://discord.gg/SQ9eVqq)
 * [Grupo Steam](https://steamcommunity.com/groups/zkservidores)
+* [Discord](https://discord.gg/SQ9eVqq)
 * [Email](mailto:contato@zkservidores.com)
 * [WhatsApp](https://wa.me/551146756442)
 
