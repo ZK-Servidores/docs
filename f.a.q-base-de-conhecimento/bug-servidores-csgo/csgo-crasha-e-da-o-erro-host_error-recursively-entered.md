@@ -9,25 +9,25 @@ Então siga esses passos e veja se resolve:
 ![Prompt de Comand](../../.gitbook/assets/image%20%284%29.png)
 
 * Aberto seu **CMD** digite esses comandos um por um e aperte enter: 
-  * **`ipconfig /flushdns`** 
-  * **`netsh int ipv4 reset`** 
-  * **`netsh int ipv6 reset`** 
-  * **`netsh winhttp reset`** 
+  * **`ipconfig /flushdns`**
+  * **`netsh int ipv4 reset`**
+  * **`netsh int ipv6 reset`**
+  * **`netsh winhttp reset`**
   * **`proxy netsh winsock reset`**
-  *  **`ipconfig /registerdns`**
+  * **`ipconfig /registerdns`**
 * Abra agora o **Executar**, segue um print de exemplo: 
 
-![Win+R](../../.gitbook/assets/image%20%283%29.png)
+![OBS: Caso queira um atalho, basta clicar em seu teclado Win+R.](../../.gitbook/assets/image%20%283%29.png)
 
-_**OBS: Caso queira um atalho, basta clicar em seu teclado `Win+R`.**_
-
-* Feito tudo isso digite o comando dentro do **Executar:** `steam://flushconfig`
+Feito isso digite o comando dentro do **Executar:** `steam://flushconfig`
 
 ![](../../.gitbook/assets/image.png)
 
-Feito tudo isso, teste novamente se conectar no servidor.
-
 Geralmente depois de tudo feito ainda é preciso reiniciar o computador.
+
+Feito tudo isso, teste novamente se conectando no servidor. 
+
+Tendo qualquer dúvida, problema não hesite em nos contatar!
 
 _**Obrigado ao @\[💎\] Alimento=Cachaça\| MOD \| pelo feedback.**_ 😘 
 
