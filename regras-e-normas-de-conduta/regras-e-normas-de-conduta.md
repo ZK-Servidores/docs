@@ -141,9 +141,11 @@ description: >-
 
 1. Se está com suspeita de algum player, ou gostaria de denunciar alguém por quebrar as nossas **Regras & Normas de Conduta**, basta enviar um [report](https://www.zkservidores.com/sourcebans/index.php?p=submit) para que possamos verificar.
 2. Para que possamos verificar o report nos enviem as seguintes informações.
-   1. **Steam\_URL do Suspeito;**
-   2. **Motivo da Denúncia;**
-   3. **Provas;** _**\(Vídeos/Imagens\)**_
+   1. **Steam Suspeito;**
+   2. **Nick do Suspeito:**
+   3. **Motivo da Denúncia;**
+   4. **Provas;** _**\(Vídeos/Imagens\)**_
+   5. **Servidor**_**;**_
       1. Lembre-se de fornece o máximo de informações, assim o processo de verificação é mais rápido.
          1. Válido ressaltar que toda denúncia deve ser feita com no máximo 48hs do ocorrido para ser analisada, a punição será definida através de uma decisão dos administradores e cabe somente aos administradores decidir se haverá uma punição.
          2. Tempo para que possamos verificar a denúncia é de 1 a 3 dias úteis, dependo do grau da denúncia tendo um tempo maior.
