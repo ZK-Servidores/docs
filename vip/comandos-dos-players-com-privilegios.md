@@ -33,6 +33,8 @@ Segue a lista de comandos que nossa administração/moderação pode usar para c
 
 Todos esses comandos estão no **Menu Administrativo**, para acessar basta digitar no chat **\`!admin\`** para abrir o menu.
 
+_**OBS: Alguns desses comandos exigem o cargo de ADMIN e/ou MOD para serem usados.**_
+
 Lembramos que estes comandos só devem ser usado caso um player quebre nossas [**Regras & Normas de Conduta**](https://zkservidores.com/regras.pdf), ****qualquer tipo de abuso o player esta sujeito a perde os privilégios.
 
 ## Privilégios em todos servidores
@@ -40,7 +42,7 @@ Lembramos que estes comandos só devem ser usado caso um player quebre nossas [*
 Segue a lista de comandos que nossos players com privilégios tem acesso.
 
 * **`sm_sprays`** - Acesso ao menu de Sprays, use a tecla **"E"** depois de escolher um spray para usar;
-* **`sm_music`** - Acesso ao menu de Music Kit MVP;
+* **`sm_music`** - Acesso ao menu de Music Kit oficial Valve;
 * **`sm_skins`** - Acesso ao menu de Skins de Players;
 * **`sm_mm`** - Acesso ao menu de Patentes;
 * **`sm_coins`** - Acesso ao menu de Coins;
@@ -52,23 +54,33 @@ Segue a lista de comandos que nossos players com privilégios tem acesso.
 
 * **`sm_hats`** **-** Acesso ao menu de Máscaras & Acessórios;
 * **`sm_cw`** - Acesso ao menu Custom Weapons;
+* **`sm_emotes`** - Acesso ao menu de Danças & Emotes do Fortnite;
+* **`sm_mvp`** - Acesso ao menu de Músicas de MVP;
 
 ## Comandos dos privilégios nos servidores JailBreak
 
 * **`sm_hats`** **-** Acesso ao menu de Máscaras & Acessórios;
 * **`sm_cw`** - Acesso ao menu Custom Weapons;
 * **`sm_paraquedas`** - Acesso ao menu de Paraquedas;
+* **`sm_emotes`** - Acesso ao menu de Danças & Emotes do Fortnite;
+* **`sm_mvp`** - Acesso ao menu de Músicas de MVP;
 
 ## Comandos dos privilégios nos servidores Surf PvP
 
 * **`sm_hats`** **-** Acesso ao menu de Máscaras & Acessórios;
 * **`sm_cw`** - Acesso ao menu Custom Weapons;
+* **`sm_emotes`** - Acesso ao menu de Danças & Emotes do Fortnite;
+* **`sm_fov`** - Acesso a opção de trocar o FOV;
+* **`sm_mvp`** - Acesso ao menu de Músicas de MVP;
 
 ## Comandos dos privilégios nos servidores AWP Only
 
 * **`sm_hats`** **-** Acesso ao menu de Máscaras & Acessórios;
 * **`sm_cw`** - Acesso ao menu Custom Weapons;
 * **`sm_paraquedas`** - Acesso ao menu de Paraquedas;
+* **`sm_emotes`** - Acesso ao menu de Danças & Emotes do Fortnite;
+* **`sm_fov`** - Acesso a opção de trocar o FOV;
+* **`sm_mvp`** - Acesso ao menu de Músicas de MVP;
 
 ## 
 

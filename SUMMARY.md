@@ -6,13 +6,12 @@
 
 * [Regras & Normas de Conduta](regras-e-normas-de-conduta/regras-e-normas-de-conduta.md)
 
-## Planos & Privilégios <a id="planos-e-privilegios"></a>
+## ⭐ \| VIP <a id="vip"></a>
 
 * [Comprar VIP](https://discord.gg/SQ9eVqq)
-* [Comprar MOD](https://discord.gg/SQ9eVqq)
-* [Formas de Pagamento](planos-e-privilegios/formas-de-pagamento.md)
-* [Dicas para players com privilégios](planos-e-privilegios/dicas-para-players-com-privilegios.md)
-* [Comandos disponíveis nos servidores](planos-e-privilegios/comandos-dos-players-com-privilegios.md)
+* [Formas de Pagamento](vip/formas-de-pagamento.md)
+* [Dicas para players com privilégios](vip/dicas-para-players-com-privilegios.md)
+* [Comandos disponíveis nos servidores](vip/comandos-dos-players-com-privilegios.md)
 
 ## ❔ \| F.A.Q - BASE DE CONHECIMENTO <a id="f.a.q-base-de-conhecimento"></a>
 
