@@ -11,16 +11,17 @@ _Lembramos que todos os comandos **"sm\_"** podem ser usados no chat, substituin
 * **`sm_ws`** - Abre o menu de Skins de Armas;
 * **`sm_knife`** - Abre o menu de Facas;
 * **`sm_gloves`** - Abre o menu de Luvas;
+* **`sm_lvl`** - Abre o menu do Rank.
 * **`sm_steam`** - Informa o link de nosso Grupo Steam;
 * **`sm_discord`** - Informa o link de nosso Discord;
 * **`sm_youtube`** - Informa o link de nosso Youtube;
 * **`sm_whatsapp`** - Informa o link de nosso WhatsApp;
 
-**E muitos outros comandos.**
+**E muitos outros comandos...**
 
 ## Comandos de administração nos servidores
 
-Segue a lista de comandos que nossa administração/moderação pode usar para controlar os servidores.
+Segue a lista de comandos que nossa administração pode usar para controlar os servidores.
 
 * **`sm_kick "NICK" "MOTIVO"`** - Comando para kickar player;
 * **`sm_ban "NICK" "MINUTO" "MOTIVO"`** - Comando para banir player;
@@ -48,32 +49,34 @@ Segue a lista de comandos que nossos players com privilégios tem acesso.
 * **`sm_coins`** - Acesso ao menu de Coins;
 * **`sm_profile`** - Acesso ao menu de Profile Level;
 
-## **Comandos dos privilégios nos servidores Competitivo**
+## **Privilégios nos servidores Competitivo**
 
-## Comandos dos privilégios nos servidores Arena 1v1
+## **Privilégios** nos servidores Arena 1v1
 
 * **`sm_hats`** **-** Acesso ao menu de Máscaras & Acessórios;
 * **`sm_cw`** - Acesso ao menu Custom Weapons;
 * **`sm_emotes`** - Acesso ao menu de Danças & Emotes do Fortnite;
 * **`sm_mvp`** - Acesso ao menu de Músicas de MVP;
 
-## Comandos dos privilégios nos servidores JailBreak
+## **Privilégios** nos servidores JailBreak
 
 * **`sm_hats`** **-** Acesso ao menu de Máscaras & Acessórios;
 * **`sm_cw`** - Acesso ao menu Custom Weapons;
 * **`sm_paraquedas`** - Acesso ao menu de Paraquedas;
 * **`sm_emotes`** - Acesso ao menu de Danças & Emotes do Fortnite;
 * **`sm_mvp`** - Acesso ao menu de Músicas de MVP;
+* **`sm_tp`** - Acesso a visão de terceira pessoa;
 
-## Comandos dos privilégios nos servidores Surf PvP
+## **Privilégios** nos servidores Surf PvP
 
 * **`sm_hats`** **-** Acesso ao menu de Máscaras & Acessórios;
 * **`sm_cw`** - Acesso ao menu Custom Weapons;
 * **`sm_emotes`** - Acesso ao menu de Danças & Emotes do Fortnite;
 * **`sm_fov`** - Acesso a opção de trocar o FOV;
 * **`sm_mvp`** - Acesso ao menu de Músicas de MVP;
+* **`sm_tp`** - Acesso a visão de terceira pessoa;
 
-## Comandos dos privilégios nos servidores AWP Only
+## **Privilégios** nos servidores AWP Only
 
 * **`sm_hats`** **-** Acesso ao menu de Máscaras & Acessórios;
 * **`sm_cw`** - Acesso ao menu Custom Weapons;
@@ -81,6 +84,7 @@ Segue a lista de comandos que nossos players com privilégios tem acesso.
 * **`sm_emotes`** - Acesso ao menu de Danças & Emotes do Fortnite;
 * **`sm_fov`** - Acesso a opção de trocar o FOV;
 * **`sm_mvp`** - Acesso ao menu de Músicas de MVP;
+* **`sm_tp`** - Acesso a visão de terceira pessoa;
 
 ## 
 
