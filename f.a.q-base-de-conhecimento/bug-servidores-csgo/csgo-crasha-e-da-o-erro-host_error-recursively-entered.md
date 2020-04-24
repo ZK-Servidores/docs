@@ -1,4 +1,4 @@
-# CSGO crasha e dá o erro HOST\_ERROR RECURSIVELY ENTERED
+# Corrigir Erro HOST\_ERROR RECURSIVELY ENTERED
 
 Verificando na Deep Web isso se trata de um erro de IPV4 e/ou IPV6, solução que encontramos, resetar eles.
 

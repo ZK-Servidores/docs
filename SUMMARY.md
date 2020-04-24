@@ -22,7 +22,7 @@
   * [Não consegue fazer download dos arquivos dos servidores \| Caixa Error Gigante](f.a.q-base-de-conhecimento/bug-servidores-csgo/nao-consegue-fazer-download-dos-arquivos-dos-servidores-or-caixa-error-gigante.md)
   * [Erro de download do mapa quando tento entrar nos servidores](f.a.q-base-de-conhecimento/bug-servidores-csgo/erro-de-download-do-mapa-quando-tento-entrar-nos-servidores.md)
   * [Corrigir Erro Retrying Public](f.a.q-base-de-conhecimento/bug-servidores-csgo/corrigir-erro-retrying-public.md)
-  * [CSGO crasha e dá o erro HOST\_ERROR RECURSIVELY ENTERED](f.a.q-base-de-conhecimento/bug-servidores-csgo/csgo-crasha-e-da-o-erro-host_error-recursively-entered.md)
+  * [Corrigir Erro HOST\_ERROR RECURSIVELY ENTERED](f.a.q-base-de-conhecimento/bug-servidores-csgo/csgo-crasha-e-da-o-erro-host_error-recursively-entered.md)
 
 ## 🚧 \| Changelog <a id="changelog"></a>
 
