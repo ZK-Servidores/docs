@@ -4,6 +4,8 @@ Verificando na Deep Web isso se trata de um erro de IPV4 e/ou IPV6, solução qu
 
 Então siga esses passos e veja se resolve:
 
+**Primeiro de tudo, dele o mapa de seu CSGO que esta causando este problema. Caso não saiba como recomendamos da uma** [**lida aqui**](https://docs.zkservidores.com/f.a.q-base-de-conhecimento/bug-servidores-csgo/jogo-fecha-sozinho-ao-tentar-me-conectar-nos-servidores)**.**
+
 * Abra seu **Prompt de Comando como Administrador**, segue uma print de exemplo: 
 
 ![Prompt de Comand](../../.gitbook/assets/image%20%286%29.png)
