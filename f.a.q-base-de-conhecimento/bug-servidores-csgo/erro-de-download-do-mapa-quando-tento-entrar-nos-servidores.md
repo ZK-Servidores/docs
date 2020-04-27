@@ -4,7 +4,7 @@ Este problema é devido a configuração do próprio CS:GO, alguns de nossos map
 
 Basta ir em **Biblioteca -&gt; Clicar com o botão direito do mouse sobre o CS:GO -&gt; Propriedades -&gt; Definir opções de inicialização**
 
-![](../../.gitbook/assets/image%20%285%29.png)
+![](../../.gitbook/assets/image%20%287%29.png)
 
 Tendo qualquer dúvida, problema não hesite em nos contatar!
 

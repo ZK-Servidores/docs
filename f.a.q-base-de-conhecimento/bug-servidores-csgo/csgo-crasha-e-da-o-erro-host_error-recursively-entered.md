@@ -6,7 +6,7 @@ Então siga esses passos e veja se resolve:
 
 * Abra seu **Prompt de Comando como Administrador**, segue uma print de exemplo: 
 
-![Prompt de Comand](../../.gitbook/assets/image%20%284%29.png)
+![Prompt de Comand](../../.gitbook/assets/image%20%286%29.png)
 
 * Aberto seu **CMD** digite esses comandos um por um e aperte enter: 
   * **`ipconfig /flushdns`**
@@ -17,11 +17,11 @@ Então siga esses passos e veja se resolve:
   * **`ipconfig /registerdns`**
 * Abra agora o **Executar**, segue um print de exemplo: 
 
-![OBS: Caso queira um atalho, basta clicar em seu teclado Win+R.](../../.gitbook/assets/image%20%283%29.png)
+![OBS: Caso queira um atalho, basta clicar em seu teclado Win+R.](../../.gitbook/assets/image%20%285%29.png)
 
 Feito isso digite o comando dentro do **Executar:** `steam://flushconfig`
 
-![](../../.gitbook/assets/image.png)
+![](../../.gitbook/assets/image%20%282%29.png)
 
 Geralmente depois de tudo feito ainda é preciso reiniciar o computador.
 

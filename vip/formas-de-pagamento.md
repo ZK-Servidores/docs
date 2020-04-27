@@ -15,5 +15,5 @@ description: Saiba as formas de pagamentos que aceitamos.
 * Gift Card Steam & Skins;
   * _**Acréscimo de 15% devido as Taxas do Mercado Steam;**_
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](../.gitbook/assets/image%20%284%29.png)
 

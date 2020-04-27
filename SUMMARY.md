@@ -23,6 +23,7 @@
   * [Erro de download do mapa quando tento entrar nos servidores](f.a.q-base-de-conhecimento/bug-servidores-csgo/erro-de-download-do-mapa-quando-tento-entrar-nos-servidores.md)
   * [Corrigir Erro Retrying Public](f.a.q-base-de-conhecimento/bug-servidores-csgo/corrigir-erro-retrying-public.md)
   * [Corrigir Erro HOST\_ERROR RECURSIVELY ENTERED](f.a.q-base-de-conhecimento/bug-servidores-csgo/csgo-crasha-e-da-o-erro-host_error-recursively-entered.md)
+  * [Jogo fecha sozinho ao tentar me conectar nos servidores](f.a.q-base-de-conhecimento/bug-servidores-csgo/jogo-fecha-sozinho-ao-tentar-me-conectar-nos-servidores.md)
 
 ## 🚧 \| Changelog <a id="changelog"></a>
 

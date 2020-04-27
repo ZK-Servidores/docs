@@ -4,7 +4,7 @@ Como sabe em nossos servidores temos vários arquivos que customizam players, sk
 
 Não fazendo download a entrada em nossos servidores pode ser negada, já que os servidores irá expulsar você automaticamente pois falta arquivos, ou a famosa caixa de **ERROR GIGANTE**.
 
-![ERROR GIGANTE](../../.gitbook/assets/image%20%287%29.png)
+![ERROR GIGANTE](../../.gitbook/assets/image%20%289%29.png)
 
 Para fazer download é simples, basta se conectar em nossos servidores que o download é automático, mas se por algum motivo não esteja fazendo download certifique-se que os seguintes comandos estejam configurados corretamente em seu CSGO:
 

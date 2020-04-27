@@ -11,7 +11,7 @@ Este problema acontece em MM e outros servidores da comunidade que tiverem muito
 * Na **Steam**, vá ao menu **Biblioteca**, clique com o **botão direito no CS:GO**, vá em **Propriedades &gt; Geral &gt; clique no botão Definir Opções de Onicialização**.
 * Adicione o seguinte comando: `+clientport 270XX` **\(no XX coloque um numero entre 01 e 99, o número inicial pode ser de 20 a 50, exemplo `+clientport 27040`\)** após inserir o comando clique em ok e abra o jogo.
 
-![](../../.gitbook/assets/image%20%286%29.png)
+![](../../.gitbook/assets/image%20%288%29.png)
 
 _**OBS: Esta solução só funciona ao inicializar o jogo através do menu Biblioteca, fazer com jogo já aberto não funciona.**_
 
