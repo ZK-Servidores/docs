@@ -8,7 +8,7 @@
 
 ## ⭐ \| VIP <a id="vip"></a>
 
-* [Comprar VIP](https://discord.gg/SQ9eVqq)
+* [Adquira VIP](https://discord.gg/SQ9eVqq)
 * [Formas de Pagamento](vip/formas-de-pagamento.md)
 * [Dicas para players com privilégios](vip/dicas-para-players-com-privilegios.md)
 * [Comandos disponíveis nos servidores](vip/comandos-dos-players-com-privilegios.md)
