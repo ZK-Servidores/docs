@@ -4,7 +4,7 @@ description: Segue a lista de comandos disponíveis em nossos servidores.
 
 # Comandos disponíveis nos servidores
 
-_Lembramos que todos os comandos **"sm\_"** podem ser usados no chat, substituindo o **"sm\_" por "!"** antes dos comandos._
+_Lembramos que todos os comandos **"sm\_"** podem ser usados no chat, substituindo o **"sm\_"**_ por _**"!"** antes dos comandos._
 
 ## Comandos liberado para todos players
 
@@ -23,11 +23,11 @@ _Lembramos que todos os comandos **"sm\_"** podem ser usados no chat, substituin
 
 Segue a lista de comandos que nossa administração pode usar para controlar os servidores.
 
-* **`sm_kick "NICK" "MOTIVO"`** - Comando para kickar player;
-* **`sm_ban "NICK" "MINUTO" "MOTIVO"`** - Comando para banir player;
-* **`sm_mute "NICK" "MINUTO" "MOTIVO"`** - Comando para mutar MIC do player;
-* **`sm_gag "NICK" "MINUTOS "MOTIVO"`** - Comando para mutar CHAT do player;
-* **`sm_silence "NICK" "MINUTO" "MOTIVO"`** - Comando para mutar MIC & CHAT do player;
+* **`sm_kick`** - Comando para kickar player;
+* **`sm_ban`** - Comando para banir player;
+* **`sm_mute`** - Comando para mutar MIC do player;
+* **`sm_gag`** - Comando para mutar CHAT do player;
+* **`sm_silence`** - Comando para mutar MIC & CHAT do player;
 * **`sm_slay "NICK"`** - Comando para dar kill no player;
 * **`sm_slap "NICK" "DANO"`** - Comando para dar tapa no player, se não informar um numero não tira danos;
 * **`sm_votemap "MAP1" "MAP2" "MAP3"`** - Comando para criar uma votação de mapas, sugerimos sempre incluir 3 mapas para que os players possam ter uma variedade para escolher.
@@ -44,7 +44,7 @@ Segue a lista de comandos que nossos players com privilégios tem acesso.
 
 * **`sm_sprays`** - Acesso ao menu de Sprays, use a tecla **"E"** depois de escolher um spray para usar;
 * **`sm_music`** - Acesso ao menu de Music Kit oficial Valve;
-* **`sm_skins`** - Acesso ao menu de Skins de Players;
+* **`sm_agents`** - Acesso ao menu de Skins de Agents do CSGO;
 * **`sm_mm`** - Acesso ao menu de Patentes;
 * **`sm_coins`** - Acesso ao menu de Coins;
 * **`sm_profile`** - Acesso ao menu de Profile Level;
