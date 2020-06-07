@@ -4,7 +4,7 @@ description: Melhores Servidores da Comunidade BR
 
 # ZK Servidores™
 
-Esses são nossos **Documentos**, aqui você pode encontrar todas as informações das dúvidas que possa ter em nossos **Servidores & Site**.
+Aqui se encontra nossa documentação, com ela você pode encontrar todas as informações das dúvidas e problemas que possa ter em nossos **Servidores & Site**.
 
 ## **Redes Sociais**
 
