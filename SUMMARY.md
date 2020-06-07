@@ -18,7 +18,7 @@
 * [Problemas com perca de FPS](f.a.q-base-de-conhecimento/problemas-com-perca-de-fps.md)
 * [Como gravar demo dentro dos servidores](f.a.q-base-de-conhecimento/como-gravar-demos-dentro-dos-servidores.md)
 * [Coleção de Mapas dos Servidores](f.a.q-base-de-conhecimento/colecao-de-mapas-dos-servidores.md)
-* [BUG Servidores](f.a.q-base-de-conhecimento/bug-servidores-csgo/README.md)
+* [BUG Servidores CSGO](f.a.q-base-de-conhecimento/bug-servidores-csgo/README.md)
   * [Não consegue fazer download dos arquivos dos servidores \| Caixa Error Gigante](f.a.q-base-de-conhecimento/bug-servidores-csgo/nao-consegue-fazer-download-dos-arquivos-dos-servidores-or-caixa-error-gigante.md)
   * [Erro de download do mapa quando tento entrar nos servidores](f.a.q-base-de-conhecimento/bug-servidores-csgo/erro-de-download-do-mapa-quando-tento-entrar-nos-servidores.md)
   * [Corrigir Erro Retrying Public](f.a.q-base-de-conhecimento/bug-servidores-csgo/corrigir-erro-retrying-public.md)

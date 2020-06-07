@@ -4,5 +4,5 @@ description: >-
   servidores.
 ---
 
-# BUG Servidores
+# BUG Servidores CSGO
 
