@@ -75,7 +75,7 @@ Segue a lista de comandos que nossos players com privilégios tem acesso.
 * **`!mvp`** - Acesso ao menu de Músicas de MVP;
 * **`!tp`** - Acesso a visão de terceira pessoa;
 
-## **PRIVILÉGIOS NOS SERVIDORES JAILBREAK** + GANGUE/LOJA
+## **PRIVILÉGIOS NOS SERVIDORES JAILBREAK**
 
 * **`!hats`** **-** Acesso ao menu de Máscaras & Acessórios;
 * **`!cw`** - Acesso ao menu Custom Weapons;

@@ -140,7 +140,7 @@ description: >-
    5. Sendo os últimos players vivos enrolar para fazer o objetivo do game;
 2. Players que não realizarem o objetivo do game estarão levando slay, caso continue levaram ban.
 
-## REGRAS SERVIDORES JAILBREAK + GANGUE/LOJA
+## REGRAS SERVIDORES JAILBREAK
 
 ### REGRAS GERAIS
 
