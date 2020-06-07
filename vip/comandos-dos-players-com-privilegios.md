@@ -4,33 +4,31 @@ description: Segue a lista de comandos disponíveis em nossos servidores.
 
 # Comandos disponíveis nos servidores
 
-_Lembramos que todos os comandos **"sm\_"** podem ser usados no chat, substituindo o **"sm\_"**_ por _**"!"** antes dos comandos._
+## COMANDOS LIBERADO PARA TODOS PLAYERS
 
-## Comandos liberado para todos players
-
-* **`sm_ws`** - Abre o menu de Skins de Armas;
-* **`sm_knife`** - Abre o menu de Facas;
-* **`sm_gloves`** - Abre o menu de Luvas;
-* **`sm_lvl`** - Abre o menu do Rank.
-* **`sm_steam`** - Informa o link de nosso Grupo Steam;
-* **`sm_discord`** - Informa o link de nosso Discord;
-* **`sm_youtube`** - Informa o link de nosso Youtube;
-* **`sm_whatsapp`** - Informa o link de nosso WhatsApp;
+* **`!ws`** - Abre o menu de Skins de Armas;
+* **`!knife`** - Abre o menu de Facas;
+* **`!gloves`** - Abre o menu de Luvas;
+* **`!lvl`** - Abre o menu do Rank.
+* **`!steam`** - Informa o link de nosso Grupo Steam;
+* **`!discord`** - Informa o link de nosso Discord;
+* **`!youtube`** - Informa o link de nosso Youtube;
+* **`!whatsapp`** - Informa o link de nosso WhatsApp;
 
 **E muitos outros comandos...**
 
-## Comandos de administração nos servidores
+## COMANDOS DE ADMINISTRAÇÃO NOS SERVIDORES
 
 Segue a lista de comandos que nossa administração pode usar para controlar os servidores.
 
-* **`sm_kick`** - Comando para kickar player;
-* **`sm_ban`** - Comando para banir player;
-* **`sm_mute`** - Comando para mutar MIC do player;
-* **`sm_gag`** - Comando para mutar CHAT do player;
-* **`sm_silence`** - Comando para mutar MIC & CHAT do player;
-* **`sm_slay "NICK"`** - Comando para dar kill no player;
-* **`sm_slap "NICK" "DANO"`** - Comando para dar tapa no player, se não informar um numero não tira danos;
-* **`sm_votemap "MAP1" "MAP2" "MAP3"`** - Comando para criar uma votação de mapas, sugerimos sempre incluir 3 mapas para que os players possam ter uma variedade para escolher.
+* **`!kick`** - Comando para kickar player;
+* **`!ban`** - Comando para banir player;
+* **`!mute`** - Comando para mutar MIC do player;
+* **`!gag`** - Comando para mutar CHAT do player;
+* **`!silence`** - Comando para mutar MIC & CHAT do player;
+* **`!slay "NICK"`** - Comando para dar kill no player;
+* **`!slap "NICK" "DANO"`** - Comando para dar tapa no player, se não informar um numero não tira danos;
+* **`!votemap "MAP1" "MAP2" "MAP3"`** - Comando para criar uma votação de mapas, sugerimos sempre incluir 3 mapas para que os players possam ter uma variedade para escolher.
 
 Todos esses comandos estão no **Menu Administrativo**, para acessar basta digitar no chat **\`!admin\`** para abrir o menu.
 
@@ -38,63 +36,51 @@ _**OBS: Alguns desses comandos exigem o cargo de ADMIN e/ou MOD para serem usado
 
 Lembramos que estes comandos só devem ser usado caso um player quebre nossas [**Regras & Normas de Conduta**](https://zkservidores.com/regras.pdf), ****qualquer tipo de abuso o player esta sujeito a perde os privilégios.
 
-## Privilégios em todos servidores
+## PRIVILÉGIOS EM TODOS SERVIDORES
 
 Segue a lista de comandos que nossos players com privilégios tem acesso.
 
-* **`sm_sprays`** - Acesso ao menu de Sprays, use a tecla **"E"** depois de escolher um spray para usar;
-* **`sm_music`** - Acesso ao menu de Music Kit oficial Valve;
-* **`sm_agents`** - Acesso ao menu de Skins de Agents do CSGO;
-* **`sm_mm`** - Acesso ao menu de Patentes;
-* **`sm_coins`** - Acesso ao menu de Coins;
-* **`sm_profile`** - Acesso ao menu de Profile Level;
+* **`!sprays`** - Acesso ao menu de Sprays, use a tecla **"E"** depois de escolher um spray para usar;
+* **`!music`** - Acesso ao menu de Music Kit oficial Valve;
+* **`!agents`** - Acesso ao menu de Skins de Agents do CSGO;
+* **`!mm`** - Acesso ao menu de Patentes;
+* **`!coins`** - Acesso ao menu de Coins;
+* **`!profile`** - Acesso ao menu de Profile Level;
 
-## **Privilégios nos servidores Competitivo**
+## **PRIVILÉGIOS NOS SERVIDORES COMPETITIVO**
 
-## **Privilégios** nos servidores Arena 1v1
+## **PRIVILÉGIOS NOS SERVIDORES ARENA 1V1**
 
-* **`sm_hats`** **-** Acesso ao menu de Máscaras & Acessórios;
-* **`sm_cw`** - Acesso ao menu Custom Weapons;
-* **`sm_emotes`** - Acesso ao menu de Danças & Emotes do Fortnite;
-* **`sm_mvp`** - Acesso ao menu de Músicas de MVP;
+* **`!hats`** **-** Acesso ao menu de Máscaras & Acessórios;
+* **`!cw`** - Acesso ao menu Custom Weapons;
+* **`!emotes`** - Acesso ao menu de Danças & Emotes do Fortnite;
+* **`!mvp`** - Acesso ao menu de Músicas de MVP;
 
-## **Privilégios** nos servidores JailBreak
+## **PRIVILÉGIOS NOS SERVIDORES** AWP ONLY
 
-* **`sm_hats`** **-** Acesso ao menu de Máscaras & Acessórios;
-* **`sm_cw`** - Acesso ao menu Custom Weapons;
-* **`sm_paraquedas`** - Acesso ao menu de Paraquedas;
-* **`sm_emotes`** - Acesso ao menu de Danças & Emotes do Fortnite;
-* **`sm_mvp`** - Acesso ao menu de Músicas de MVP;
-* **`sm_tp`** - Acesso a visão de terceira pessoa;
+* **`!hats`** **-** Acesso ao menu de Máscaras & Acessórios;
+* **`!cw`** - Acesso ao menu Custom Weapons;
+* **`!paraquedas`** - Acesso ao menu de Paraquedas;
+* **`!emotes`** - Acesso ao menu de Danças & Emotes do Fortnite;
+* **`!fov`** - Acesso a opção de trocar o FOV;
+* **`!mvp`** - Acesso ao menu de Músicas de MVP;
+* **`!tp`** - Acesso a visão de terceira pessoa;
 
-## **Privilégios** nos servidores Surf PvP
+## **PRIVILÉGIOS NOS SERVIDORES SURF PVP**
 
-* **`sm_hats`** **-** Acesso ao menu de Máscaras & Acessórios;
-* **`sm_cw`** - Acesso ao menu Custom Weapons;
-* **`sm_emotes`** - Acesso ao menu de Danças & Emotes do Fortnite;
-* **`sm_fov`** - Acesso a opção de trocar o FOV;
-* **`sm_mvp`** - Acesso ao menu de Músicas de MVP;
-* **`sm_tp`** - Acesso a visão de terceira pessoa;
+* **`!hats`** **-** Acesso ao menu de Máscaras & Acessórios;
+* **`!cw`** - Acesso ao menu Custom Weapons;
+* **`!emotes`** - Acesso ao menu de Danças & Emotes do Fortnite;
+* **`!fov`** - Acesso a opção de trocar o FOV;
+* **`!mvp`** - Acesso ao menu de Músicas de MVP;
+* **`!tp`** - Acesso a visão de terceira pessoa;
 
-## **Privilégios** nos servidores AWP Only
+## **PRIVILÉGIOS NOS SERVIDORES JAILBREAK** + GANGUE/LOJA
 
-* **`sm_hats`** **-** Acesso ao menu de Máscaras & Acessórios;
-* **`sm_cw`** - Acesso ao menu Custom Weapons;
-* **`sm_paraquedas`** - Acesso ao menu de Paraquedas;
-* **`sm_emotes`** - Acesso ao menu de Danças & Emotes do Fortnite;
-* **`sm_fov`** - Acesso a opção de trocar o FOV;
-* **`sm_mvp`** - Acesso ao menu de Músicas de MVP;
-* **`sm_tp`** - Acesso a visão de terceira pessoa;
-
-## 
-
-
-
-
-
-
-
-
-
-
+* **`!hats`** **-** Acesso ao menu de Máscaras & Acessórios;
+* **`!cw`** - Acesso ao menu Custom Weapons;
+* **`!paraquedas`** - Acesso ao menu de Paraquedas;
+* **`!emotes`** - Acesso ao menu de Danças & Emotes do Fortnite;
+* **`!mvp`** - Acesso ao menu de Músicas de MVP;
+* **`!tp`** - Acesso a visão de terceira pessoa;
 
