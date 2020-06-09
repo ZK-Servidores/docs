@@ -1,5 +1,5 @@
 ---
-description: Lista de todas as alterações feitas em nossa comunidade.
+description: Lista de todas as alterações feitas em nosso Site & Servidores.
 ---
 
 # Changelog
