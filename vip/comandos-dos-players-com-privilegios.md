@@ -9,7 +9,8 @@ description: Segue a lista de comandos disponíveis em nossos servidores.
 * **`!ws`** - Abre o menu de Skins de Armas;
 * **`!knife`** - Abre o menu de Facas;
 * **`!gloves`** - Abre o menu de Luvas;
-* **`!lvl`** - Abre o menu do Rank.
+* **`!lvl`** - Abre o menu do Rank;
+* **`!vip`** - Abre o menu VIP;
 * **`!steam`** - Informa o link de nosso Grupo Steam;
 * **`!discord`** - Informa o link de nosso Discord;
 * **`!youtube`** - Informa o link de nosso Youtube;
