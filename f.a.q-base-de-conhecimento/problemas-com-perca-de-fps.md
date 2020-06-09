@@ -8,7 +8,7 @@ Depois adicione `-novid` nas **Opções de Inicialização do CSGO**.
 
 Uma alternativa seria adicionar também `-noubershader` nas **Opções de Inicialização do CSGO**.
 
-_**Lembrando que este comando ajuda mais usuários de hardware Intel antigos, caso piore sua situação, remova este comando novamente.**_
+- _Lembrando que este comando ajuda mais usuários de hardware Intel antigos, caso piore sua situação, remova este comando novamente._
 
 _**Agradecimentos ao @\[👑\] Xavão \| ADMIN \| pelo feedback.**_ 😘 
 
