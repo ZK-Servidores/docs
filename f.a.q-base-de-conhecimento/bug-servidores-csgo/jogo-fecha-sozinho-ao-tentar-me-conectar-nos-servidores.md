@@ -1,4 +1,4 @@
-# Jogo fecha sozinho ao tentar me conectar nos servidores
+# Jogo fecha sozinho ao tentar me conectar no servidor
 
 Isso pode ser que seu mapa, o mesmo que esta tentando se conectar no servidor esteja corrompido, quebrado. Para resolver precisamos deletar o mapa e verificar a integridade do game, vamos lá.
 
