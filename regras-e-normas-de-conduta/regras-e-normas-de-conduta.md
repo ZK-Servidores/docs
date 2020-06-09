@@ -76,7 +76,7 @@ description: >-
    2. Caso haja pedido de reembolso depois de 7 dias corridos o pedido de reembolso é cancelado automaticamente e os players continua com seus privilégios até o fim do mesmo.
    3. Players banidos VAC não tem direito a reembolso em hipótese alguma.
    4. Players banidos nos servidores por quebrar as **Regras & Normas de Conduta** não tem direito a reembolso em hipótese alguma.
-2. Players abusando dos privilégios, benefícios, serão banidos e se necessário terão os mesmos removidos e sem direito a reembolso, sob hipótese alguma como previsto em nossas **Regras & Normas de Conduta**.
+2. Players abusando dos privilégios serão banidos e se necessário terão os mesmos removidos e sem direito a reembolso, sob hipótese alguma como previsto em nossas **Regras & Normas de Conduta**.
 
 ## VIP
 
@@ -100,7 +100,7 @@ description: >-
    3. Abuso de MIC e/ou CHAT nos servidores;
 4. Fazer sempre o objetivo do mapa/modo de jogo.
 5. Perfis Privados são muito bem-vindos para jogar em nossos servidores, afinal você tem direito a sua privacidade. _**\(Porém avisamos que isso pode prejudicar sua jogatina, já que nossos servidores fazem verificações automatias nos perfil dos players\)**_
-6. Players sem Status Prime são muito bem-vindos para jogar em nossos servidores, porém todos são marcados com uma **TAG \[ Nom-Prime \]** automaticamente e só podem se conectar com contas que tenham mais de 90 horas no CSGO e Perfil Steam Público.
+6. Players sem Status Prime são muito bem-vindos para jogar em nossos servidores, porém todos são marcados com uma **TAG \[ Nom-Prime \]** automaticamente e só podem se conectar com contas que tenham mais de 100 horas no CSGO.
 
 ## CONDUTA DE PLAYERS COM PRIVILÉGIOS
 
@@ -129,6 +129,15 @@ description: >-
    1. Players usar qualquer meio de comunicação para passar informações do game _**- CALL**_;
    2. Atrapalhar o game de outros players;
    3. Enrolar/Trolar o round;
+
+## REGRAS SERVIDORES AWP ONLY
+
+1. Torna-se proibido:
+   1. Camperar; _**\(+15 segundos\)**_
+   2. Players usar qualquer meio de comunicação para passar informações do game _**- CALL**_;
+   3. Atrapalhar ou trolhar o game de outros players;
+   4. Sendo os últimos players vivos enrolar para fazer o objetivo do game;
+2. Players que não realizarem o objetivo do game estarão levando slay, caso continue levaram ban.
 
 ## REGRAS SERVIDORES SURF PVP
 
