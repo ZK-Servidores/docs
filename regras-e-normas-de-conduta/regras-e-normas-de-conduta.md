@@ -129,6 +129,7 @@ description: >-
    1. Players usar qualquer meio de comunicação para passar informações do game _**- CALL**_;
    2. Atrapalhar o game de outros players;
    3. Enrolar/Trolar o round;
+2. Players que não realizarem o objetivo do game estarão levando slay, caso continue levaram ban.
 
 ## REGRAS SERVIDORES AWP ONLY
 
