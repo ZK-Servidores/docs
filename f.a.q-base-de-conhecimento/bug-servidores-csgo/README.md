@@ -1,7 +1,5 @@
 ---
-description: >-
-  Aqui tem a solução de alguns BUGS que pode encontrar dento de nossos
-  servidores.
+description: Aqui tem a solução de alguns BUGS que pode acontecer em nossos servidores.
 ---
 
 # BUG Servidores CSGO
