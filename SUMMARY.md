@@ -2,16 +2,16 @@
 
 * [ZK Servidores™](README.md)
 
-## 📚 \| Regras & Normas de Conduta <a id="regras-e-normas-de-conduta"></a>
+## 📕 \| Regras & Normas de Conduta <a id="regras-e-normas-de-conduta"></a>
 
 * [Regras & Normas de Conduta](regras-e-normas-de-conduta/regras-e-normas-de-conduta.md)
 
-## ⭐ \| VIP <a id="vip"></a>
+## 🌟 \| ADQUIRA VIP <a id="adquira-vip"></a>
 
 * [Adquira VIP](https://discord.gg/SQ9eVqq)
-* [Formas de Pagamento](vip/formas-de-pagamento.md)
-* [Dicas para players com privilégios](vip/dicas-para-players-com-privilegios.md)
-* [Comandos disponíveis nos servidores](vip/comandos-dos-players-com-privilegios.md)
+* [Formas de Pagamento](adquira-vip/formas-de-pagamento.md)
+* [Dicas para players com privilégios](adquira-vip/dicas-para-players-com-privilegios.md)
+* [Comandos disponíveis nos servidores](adquira-vip/comandos-dos-players-com-privilegios.md)
 
 ## ❔ \| F.A.Q - BASE DE CONHECIMENTO <a id="f.a.q-base-de-conhecimento"></a>
 
