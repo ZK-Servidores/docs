@@ -6,6 +6,27 @@ description: >-
 
 # Regras & Normas de Conduta
 
+## FINALIDADE
+
+1. Para maior segurança e conforto para os players que frequentam nossa comunidade foi elaborado estas **Regras & Normas de Conduta**, contendo informações para que possam aproveitar o máximo de nossos servidores e o descumprimento de qualquer uma delas gera punições em nossos servidores.
+
+## ANTI-CHEATS
+
+1. Nossos servidores possuem Anti-Cheats ativados para a maior segurança dos players que frequentam os servidores:
+   1. Sistema **Valve Anti-Trapaça** _**\(conhecido também por VAC, do inglês Valve Anti-Cheat\)**_ é um sistema automatizado projetado para detectar trapaças instaladas nos computadores dos players. Se um player se conectar a um servidor protegido por VAC usando um computador com trapaças identificáveis instaladas, o sistema VAC banirá o player de jogar em servidores protegidos por VAC do jogo em questão no futuro.
+      1. O sistema VAC detecta trapaças com segurança usando as suas assinaturas de trapaça. Qualquer modificação de terceiros a um jogo projetada para dar a um jogador vantagem sobre outro é classificada como trapaça ou **"hack"** e acionará um banimento VAC. Isso inclui modificações aos principais arquivos _executáveis **\(EXEs\)**_ e bibliotecas de ligação dinâmica _**\(DLLs\)**._
+   2. Como uma forma de segurança a mais, proibimos a entrada de players banidos por VAC, independente do jogo que ele levou o banimento, ou até mesmo se tiver alguma outra proibição em sua conta Steam_._
+   3. Sistema **Anti-Cheat Ingame**, desenvolvido para ser um Anti-Trapaça _**drag and drop**._
+
+## IDIOMA
+
+1. Em nossos servidores usamos o idioma **Português-BR**, então utilize ele.
+
+## PALAVRAS DOS DONOS & SUB-DONOS É LEI
+
+1. Assim como no seu dia a dia você segue as leis e ela é a palavra final, você como player em nossos servidores deve seguir nossas **Regras & Normas de Conduta** e obedecer sem queixas.
+2. Caso não esteja de acordo com nossos termos ou não lhe agrada, existe sempre a opção de jogar em outros servidores.
+
 ## LEGISLAÇÃO BRASILEIRA
 
 1. Você deve seguir as leis brasileiras quando estiver jogando em nossos servidores.
