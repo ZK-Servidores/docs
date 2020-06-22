@@ -6,27 +6,6 @@ description: >-
 
 # Regras & Normas de Conduta
 
-## CONDUTA DE PLAYERS COM PRIVILÉGIOS
-
-1. Slot reservado é um privilégio dos players que compraram e apenas deles, players que kickarem para dar vaga para players sem privilégios serão punidos.
-2. Proibido mutar, kickar, banir ou qualquer tipo de punição em players que não estejam quebrando nossas **Regras & Normas de Conduta**.
-3. Qualquer briga, desavença entre players não serão toleradas, e ambos serão punidos caso ocorra qualquer problema.
-4. Extremamente proibido alterar qualquer configuração dos servidores sob qualquer hipótese;
-5. Players com privilégios advertidos pela administração por quebrarem as **Regras & Normas de Conduta** devem apenas aceitar, caso retruque ou provoque mais intrigas sofrerão punições ou até mesmo perder seus privilégios.
-6. Players com privilégios não estão salvos das **Regras & Normas de Conduta**, caso venha quebrar qualquer regra sofrerá uma punição ou até mesmo perder seus privilégios e não terão devolução do dinheiro sob hipótese alguma como previsto nas **Regras & Normas de Conduta.**
-
-   .
-
-## REGRAS SERVIDORES COMPETITIVO
-
-1. Torna-se proibido:
-   1. Players usar qualquer meio de comunicação para passar informações do game _**- CALL**_;
-   2. Plantar C4 no Round Faca;
-   3. Enrolar/Trolar no Round Faca;
-   4. Atrapalhar, trolar o game dos demais players;
-2. Players que não derem Ready serão kickados automaticamente sem aviso prévio.
-3. Antes de iniciar o Competitivo temos o Round Faca, ele deve ser tirado onde todos players combinarem, lembre-se use o bom senso.
-
 ## REGRAS SERVIDORES ARENA 1V1
 
 1. Torna-se proibido:

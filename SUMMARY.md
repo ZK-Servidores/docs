@@ -19,6 +19,9 @@
 * [Política de Cancelamento & Devolução do Dinheiro](regras-e-normas-de-conduta/politica-de-cancelamento-and-devolucao-do-dinheiro.md)
 * [VIP](regras-e-normas-de-conduta/vip.md)
 * [Normas Gerais de Conduta](regras-e-normas-de-conduta/normas-gerais-de-conduta.md)
+* [Conduta de Players com Privilégios](regras-e-normas-de-conduta/conduta-de-players-com-privilegios.md)
+* [Regras dos Servidores](regras-e-normas-de-conduta/regras-dos-servidores/README.md)
+  * [Servidores Competitivo](regras-e-normas-de-conduta/regras-dos-servidores/servidores-competitivo.md)
 
 ## 🌟 \| ADQUIRA VIP <a id="adquira-vip"></a>
 
