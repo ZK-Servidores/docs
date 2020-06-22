@@ -6,12 +6,6 @@ description: >-
 
 # Regras & Normas de Conduta
 
-## 
-
-## IDIOMA
-
-1. Em nossos servidores usamos o idioma **Português-BR**, então utilize ele.
-
 ## PALAVRA DOS DONOS & SUB-DONOS É LEI
 
 1. Assim como no seu dia a dia você segue as leis e ela é a palavra final, você como player em nossos servidores deve seguir nossas **Regras & Normas de Conduta** e obedecer sem queixas.

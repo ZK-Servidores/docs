@@ -7,6 +7,7 @@
 * [Regras & Normas de Conduta](regras-e-normas-de-conduta/regras-e-normas-de-conduta.md)
 * [Finalidade](regras-e-normas-de-conduta/finalidade.md)
 * [Anti-Cheats](regras-e-normas-de-conduta/anti-cheats.md)
+* [Idioma](regras-e-normas-de-conduta/idioma.md)
 
 ## 🌟 \| ADQUIRA VIP <a id="adquira-vip"></a>
 
