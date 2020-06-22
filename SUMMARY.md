@@ -8,6 +8,7 @@
 * [Finalidade](regras-e-normas-de-conduta/finalidade.md)
 * [Anti-Cheats](regras-e-normas-de-conduta/anti-cheats.md)
 * [Idioma](regras-e-normas-de-conduta/idioma.md)
+* [Palavras dos Donos & Sub-Donos é lei](regras-e-normas-de-conduta/palavras-dos-donos-and-sub-donos-e-lei.md)
 
 ## 🌟 \| ADQUIRA VIP <a id="adquira-vip"></a>
 
