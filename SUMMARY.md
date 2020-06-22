@@ -4,7 +4,6 @@
 
 ## 📕 \| Regras & Normas de Conduta <a id="regras-e-normas-de-conduta"></a>
 
-* [Regras & Normas de Conduta](regras-e-normas-de-conduta/regras-e-normas-de-conduta.md)
 * [Finalidade](regras-e-normas-de-conduta/finalidade.md)
 * [Anti-Cheats](regras-e-normas-de-conduta/anti-cheats.md)
 * [Idioma](regras-e-normas-de-conduta/idioma.md)
@@ -21,12 +20,13 @@
 * [Normas Gerais de Conduta](regras-e-normas-de-conduta/normas-gerais-de-conduta.md)
 * [Conduta de Players com Privilégios](regras-e-normas-de-conduta/conduta-de-players-com-privilegios.md)
 * [Regras dos Servidores](regras-e-normas-de-conduta/regras-dos-servidores/README.md)
-  * [Denúncias](regras-e-normas-de-conduta/regras-dos-servidores/denuncias.md)
   * [Servidores Competitivo](regras-e-normas-de-conduta/regras-dos-servidores/servidores-competitivo.md)
   * [Servidores Arena 1v1](regras-e-normas-de-conduta/regras-dos-servidores/servidores-arena-1v1.md)
   * [Servidores AWP Only](regras-e-normas-de-conduta/regras-dos-servidores/servidores-awp-only.md)
   * [Servidores Surf PvP](regras-e-normas-de-conduta/regras-dos-servidores/servidores-surf-pvp.md)
   * [Servidores JailBreak](regras-e-normas-de-conduta/regras-dos-servidores/servidores-jailbreak.md)
+* [Denúncias](regras-e-normas-de-conduta/denuncias.md)
+* [Informações Gerais](regras-e-normas-de-conduta/regras-e-normas-de-conduta.md)
 
 ## 🌟 \| ADQUIRA VIP <a id="adquira-vip"></a>
 
