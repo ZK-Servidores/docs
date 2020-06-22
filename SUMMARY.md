@@ -4,9 +4,9 @@
 
 ## 📕 \| Regras & Normas de Conduta <a id="regras-e-normas-de-conduta"></a>
 
-* [Regras & Normas de Conduta](regras-e-normas-de-conduta/regras-e-normas-de-conduta/README.md)
-  * [Finalidade](regras-e-normas-de-conduta/regras-e-normas-de-conduta/finalidade.md)
-  * [Anti-Cheats](regras-e-normas-de-conduta/regras-e-normas-de-conduta/anti-cheats.md)
+* [Regras & Normas de Conduta](regras-e-normas-de-conduta/regras-e-normas-de-conduta.md)
+* [Finalidade](regras-e-normas-de-conduta/finalidade.md)
+* [Anti-Cheats](regras-e-normas-de-conduta/anti-cheats.md)
 
 ## 🌟 \| ADQUIRA VIP <a id="adquira-vip"></a>
 
