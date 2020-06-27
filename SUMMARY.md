@@ -7,7 +7,7 @@
 * [Adquira VIP](https://discord.gg/SQ9eVqq)
 * [Formas de Pagamento](adquira-vip/formas-de-pagamento.md)
 * [Dicas para players com privilégios](adquira-vip/dicas-para-players-com-privilegios.md)
-* [Comandos disponíveis nos servidores](adquira-vip/comandos-dos-players-com-privilegios.md)
+* [Comandos disponíveis nos servidores](adquira-vip/comandos-disponiveis-nos-servidores.md)
 
 ## ❔ \| F.A.Q - BASE DE CONHECIMENTO <a id="f.a.q-base-de-conhecimento"></a>
 
