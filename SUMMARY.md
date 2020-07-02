@@ -23,8 +23,6 @@
 
 ## 📕 \| Regras & Normas de Conduta <a id="regras-e-normas-de-conduta"></a>
 
-* [📕 \| Regras & Normas de Conduta](regras-e-normas-de-conduta/or-regras-and-normas-de-conduta/README.md)
-  * [Finalidade](regras-e-normas-de-conduta/or-regras-and-normas-de-conduta/finalidade.md)
 * [Anti-Cheats](regras-e-normas-de-conduta/anti-cheats.md)
 * [Idioma](regras-e-normas-de-conduta/idioma.md)
 * [Palavras dos Donos & Sub-Donos é lei](regras-e-normas-de-conduta/palavras-dos-donos-and-sub-donos-e-lei.md)
@@ -47,6 +45,11 @@
   * [Servidores JailBreak](regras-e-normas-de-conduta/regras-dos-servidores/servidores-jailbreak.md)
 * [Denúncias](regras-e-normas-de-conduta/denuncias.md)
 * [Informações Gerais](regras-e-normas-de-conduta/regras-e-normas-de-conduta.md)
+
+---
+
+* [📕 \| Regras & Normas de Conduta](or-regras-and-normas-de-conduta/README.md)
+  * [Finalidade](or-regras-and-normas-de-conduta/finalidade.md)
 
 ## 🙋 \| SUPORTE <a id="suporte"></a>
 
