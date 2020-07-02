@@ -1,4 +1,4 @@
-# Todos Servidores
+# Regras Gerais
 
 Bom senso sempre.
 
