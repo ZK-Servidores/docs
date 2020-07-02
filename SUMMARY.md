@@ -1,11 +1,16 @@
 # Table of contents
 
 * [ZK Servidores™](README.md)
-* [🌟 \| ADQUIRA VIP](https-discord.gg-sq9evqq/README.md)
-  * [🌟 \| ADQUIRA VIP](https://discord.gg/SQ9eVqq)
-  * [Formas de Pagamento](https-discord.gg-sq9evqq/formas-de-pagamento.md)
-  * [Dicas para players com privilégios](https-discord.gg-sq9evqq/dicas-para-players-com-privilegios.md)
-  * [Comandos disponíveis nos servidores](https-discord.gg-sq9evqq/comandos-disponiveis-nos-servidores.md)
+
+## 🌟 \| ADQUIRA VIP <a id="adquira-vip"></a>
+
+* [Adquira VIP](https://discord.gg/SQ9eVqq)
+* [Formas de Pagamento](adquira-vip/formas-de-pagamento.md)
+* [Dicas para players com privilégios](adquira-vip/dicas-para-players-com-privilegios.md)
+* [Comandos disponíveis nos servidores](adquira-vip/comandos-disponiveis-nos-servidores.md)
+
+---
+
 * [📕 \| Regras & Normas de Conduta](regras-e-normas-de-conduta/README.md)
   * [Finalidade](regras-e-normas-de-conduta/finalidade.md)
   * [Anti-Cheats](regras-e-normas-de-conduta/anti-cheats.md)
