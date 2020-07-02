@@ -21,35 +21,34 @@
   * [Corrigir Erro HOST\_ERROR RECURSIVELY ENTERED](f.a.q-base-de-conhecimento/bug-servidores-csgo/csgo-crasha-e-da-o-erro-host_error-recursively-entered.md)
   * [Jogo fecha sozinho ao tentar me conectar no servidor](f.a.q-base-de-conhecimento/bug-servidores-csgo/jogo-fecha-sozinho-ao-tentar-me-conectar-nos-servidores.md)
 
-## 📕 \| Regras & Normas de Conduta <a id="regras-e-normas-de-conduta"></a>
-
-* [Anti-Cheats](regras-e-normas-de-conduta/anti-cheats.md)
-* [Idioma](regras-e-normas-de-conduta/idioma.md)
-* [Palavras dos Donos & Sub-Donos é lei](regras-e-normas-de-conduta/palavras-dos-donos-and-sub-donos-e-lei.md)
-* [Legislação Brasileira](regras-e-normas-de-conduta/legislacao-brasileira.md)
-* [Trocas & Negociações](regras-e-normas-de-conduta/trocas-and-negociacoes.md)
-* [Publicidade & Propaganda](regras-e-normas-de-conduta/publicidade-and-propaganda.md)
-* [Política & Religião](regras-e-normas-de-conduta/politica-and-religiao.md)
-* [Nomes, Nicks & Tags](regras-e-normas-de-conduta/nomes-nicks-and-tags.md)
-* [Programas Proibidos](regras-e-normas-de-conduta/programas-proibidos.md)
-* [Política de Advertências & Banimentos](regras-e-normas-de-conduta/politica-de-advertencias-and-banimentos.md)
-* [Política de Cancelamento & Devolução do Dinheiro](regras-e-normas-de-conduta/politica-de-cancelamento-and-devolucao-do-dinheiro.md)
-* [VIP](regras-e-normas-de-conduta/vip.md)
-* [Normas Gerais de Conduta](regras-e-normas-de-conduta/normas-gerais-de-conduta.md)
-* [Conduta de Players com Privilégios](regras-e-normas-de-conduta/conduta-de-players-com-privilegios.md)
-* [Regras dos Servidores](regras-e-normas-de-conduta/regras-dos-servidores/README.md)
-  * [Servidores Competitivo](regras-e-normas-de-conduta/regras-dos-servidores/servidores-competitivo.md)
-  * [Servidores Arena 1v1](regras-e-normas-de-conduta/regras-dos-servidores/servidores-arena-1v1.md)
-  * [Servidores AWP Only](regras-e-normas-de-conduta/regras-dos-servidores/servidores-awp-only.md)
-  * [Servidores Surf PvP](regras-e-normas-de-conduta/regras-dos-servidores/servidores-surf-pvp.md)
-  * [Servidores JailBreak](regras-e-normas-de-conduta/regras-dos-servidores/servidores-jailbreak.md)
-* [Denúncias](regras-e-normas-de-conduta/denuncias.md)
-* [Informações Gerais](regras-e-normas-de-conduta/regras-e-normas-de-conduta.md)
-
 ---
 
 * [📕 \| Regras & Normas de Conduta](or-regras-and-normas-de-conduta/README.md)
   * [Finalidade](or-regras-and-normas-de-conduta/finalidade.md)
+  * [Anti-Cheats](or-regras-and-normas-de-conduta/anti-cheats.md)
+  * [Idioma](or-regras-and-normas-de-conduta/idioma.md)
+  * [Palavras dos Donos & Sub-Donos é lei](or-regras-and-normas-de-conduta/palavras-dos-donos-and-sub-donos-e-lei.md)
+  * [Legislação Brasileira](or-regras-and-normas-de-conduta/legislacao-brasileira.md)
+  * [Trocas & Negociações](or-regras-and-normas-de-conduta/trocas-and-negociacoes.md)
+  * [Publicidade & Propaganda](or-regras-and-normas-de-conduta/publicidade-and-propaganda.md)
+  * [Política & Religião](or-regras-and-normas-de-conduta/politica-and-religiao.md)
+  * [Nomes, Nicks & Tags](or-regras-and-normas-de-conduta/nomes-nicks-and-tags.md)
+  * [Programas Proibidos](or-regras-and-normas-de-conduta/programas-proibidos.md)
+  * [Política de Advertências & Banimentos](or-regras-and-normas-de-conduta/politica-de-advertencias-and-banimentos.md)
+  * [Política de Cancelamento & Devolução do Dinheiro](or-regras-and-normas-de-conduta/politica-de-cancelamento-and-devolucao-do-dinheiro.md)
+  * [VIP](or-regras-and-normas-de-conduta/vip.md)
+  * [Normas Gerais de Conduta](or-regras-and-normas-de-conduta/normas-gerais-de-conduta.md)
+  * [Conduta de Players com Privilégios](or-regras-and-normas-de-conduta/conduta-de-players-com-privilegios.md)
+  * [Regras dos Servidores](or-regras-and-normas-de-conduta/regras-dos-servidores/README.md)
+    * [Servidores Competitivo](or-regras-and-normas-de-conduta/regras-dos-servidores/servidores-competitivo.md)
+    * [Servidores Arena 1v1](or-regras-and-normas-de-conduta/regras-dos-servidores/servidores-arena-1v1.md)
+    * [Servidores AWP Only](or-regras-and-normas-de-conduta/regras-dos-servidores/servidores-awp-only.md)
+    * [Servidores Surf PvP](or-regras-and-normas-de-conduta/regras-dos-servidores/servidores-surf-pvp.md)
+    * [Servidores JailBreak](or-regras-and-normas-de-conduta/regras-dos-servidores/servidores-jailbreak.md)
+  * [Denúncias](or-regras-and-normas-de-conduta/denuncias.md)
+  * [Informações Gerais](or-regras-and-normas-de-conduta/regras-e-normas-de-conduta.md)
+
+## 📕 \| Regras & Normas de Conduta <a id="regras-e-normas-de-conduta"></a>
 
 ## 🙋 \| SUPORTE <a id="suporte"></a>
 
