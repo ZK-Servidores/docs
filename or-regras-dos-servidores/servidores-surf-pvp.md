@@ -1,4 +1,4 @@
-# Servidores Surf PvP
+# Surf PvP
 
 Torna-se proibido:
 

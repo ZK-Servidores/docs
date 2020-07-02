@@ -1,4 +1,4 @@
-# Servidores Competitivo
+# Competitivo
 
 Torna-se proibido:
 

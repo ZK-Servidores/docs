@@ -1,4 +1,4 @@
-# Servidores Arena 1v1
+# Arena 1v1
 
 Torna-se proibido:
 

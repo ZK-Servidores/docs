@@ -1,4 +1,4 @@
-# Servidores JailBreak
+# JailBreak
 
 ## REGRAS GERAIS
 

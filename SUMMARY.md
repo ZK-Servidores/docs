@@ -32,11 +32,11 @@
 
 ## 📕 \| Regras dos Servidores
 
-* [Servidores Competitivo](or-regras-dos-servidores/servidores-competitivo.md)
-* [Servidores Arena 1v1](or-regras-dos-servidores/servidores-arena-1v1.md)
-* [Servidores AWP Only](or-regras-dos-servidores/servidores-awp-only.md)
-* [Servidores Surf PvP](or-regras-dos-servidores/servidores-surf-pvp.md)
-* [Servidores JailBreak](or-regras-dos-servidores/servidores-jailbreak.md)
+* [Competitivo](or-regras-dos-servidores/servidores-competitivo.md)
+* [Arena 1v1](or-regras-dos-servidores/servidores-arena-1v1.md)
+* [AWP Only](or-regras-dos-servidores/servidores-awp-only.md)
+* [Surf PvP](or-regras-dos-servidores/servidores-surf-pvp.md)
+* [JailBreak](or-regras-dos-servidores/servidores-jailbreak.md)
 
 ## 🙋 \| SUPORTE <a id="suporte"></a>
 
