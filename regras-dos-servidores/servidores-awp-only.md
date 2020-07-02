@@ -1,4 +1,4 @@
-# AWP Only
+# Servidores AWP Only
 
 Torna-se proibido:
 
