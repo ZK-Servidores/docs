@@ -11,7 +11,7 @@
 
 ---
 
-* [📕 Normas de Conduta](regras-e-normas-de-conduta/README.md)
+* [📕Termos & Normas de Conduta](regras-e-normas-de-conduta/README.md)
   * [Finalidade](regras-e-normas-de-conduta/finalidade.md)
   * [Anti-Cheats](regras-e-normas-de-conduta/anti-cheats.md)
   * [Idioma](regras-e-normas-de-conduta/idioma.md)
@@ -25,13 +25,13 @@
   * [Política de Advertências & Banimentos](regras-e-normas-de-conduta/politica-de-advertencias-and-banimentos.md)
   * [Política de Cancelamento & Devolução do Dinheiro](regras-e-normas-de-conduta/politica-de-cancelamento-and-devolucao-do-dinheiro.md)
   * [VIP](regras-e-normas-de-conduta/vip.md)
-  * [Normas Gerais de Conduta](regras-e-normas-de-conduta/normas-gerais-de-conduta.md)
   * [Conduta de Players com Privilégios](regras-e-normas-de-conduta/conduta-de-players-com-privilegios.md)
   * [Denúncias](regras-e-normas-de-conduta/denuncias.md)
   * [Informações Gerais](regras-e-normas-de-conduta/regras-e-normas-de-conduta.md)
 
 ## 📕 \| Regras dos Servidores
 
+* [Gerais](or-regras-dos-servidores/normas-gerais-de-conduta.md)
 * [Competitivo](or-regras-dos-servidores/servidores-competitivo.md)
 * [Arena 1v1](or-regras-dos-servidores/servidores-arena-1v1.md)
 * [AWP Only](or-regras-dos-servidores/servidores-awp-only.md)

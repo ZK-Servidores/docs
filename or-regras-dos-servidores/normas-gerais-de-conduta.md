@@ -1,4 +1,4 @@
-# Normas Gerais de Conduta
+# Gerais
 
 Bom senso sempre.
 
