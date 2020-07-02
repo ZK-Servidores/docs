@@ -9,6 +9,15 @@
 * [Dicas para players com privilégios](adquira-vip/dicas-para-players-com-privilegios.md)
 * [Comandos disponíveis nos servidores](adquira-vip/comandos-disponiveis-nos-servidores.md)
 
+## 📕 \| Regras dos Servidores <a id="regras-dos-servidores"></a>
+
+* [Todos Servidores](regras-dos-servidores/todos-servidores.md)
+* [Servidores Competitivo](regras-dos-servidores/servidores-competitivo.md)
+* [Servidores Arena 1v1](regras-dos-servidores/servidores-arena-1v1.md)
+* [Servidores AWP Only](regras-dos-servidores/servidores-awp-only.md)
+* [Servidores Surf PvP](regras-dos-servidores/servidores-surf-pvp.md)
+* [Servidores JailBreak](regras-dos-servidores/servidores-jailbreak.md)
+
 ---
 
 * [📕Termos & Normas de Conduta](termos-e-normas-de-conduta/README.md)
@@ -28,15 +37,6 @@
   * [Conduta de Players com Privilégios](termos-e-normas-de-conduta/conduta-de-players-com-privilegios.md)
   * [Denúncias](termos-e-normas-de-conduta/denuncias.md)
   * [Informações Gerais](termos-e-normas-de-conduta/regras-e-normas-de-conduta.md)
-
-## 📕 \| Regras dos Servidores <a id="regras-dos-servidores"></a>
-
-* [Todos Servidores](regras-dos-servidores/todos-servidores.md)
-* [Servidores Competitivo](regras-dos-servidores/servidores-competitivo.md)
-* [Servidores Arena 1v1](regras-dos-servidores/servidores-arena-1v1.md)
-* [Servidores AWP Only](regras-dos-servidores/servidores-awp-only.md)
-* [Servidores Surf PvP](regras-dos-servidores/servidores-surf-pvp.md)
-* [Servidores JailBreak](regras-dos-servidores/servidores-jailbreak.md)
 
 ## 🙋 \| SUPORTE <a id="suporte"></a>
 
