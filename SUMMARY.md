@@ -12,8 +12,9 @@
 ---
 
 * [❓ \| F.A.Q - Base de Conhecimento](f.a.q-base-de-conhecimento/README.md)
-  * [Coleção de mapas que usamos em nossos servidores](f.a.q-base-de-conhecimento/colecao-de-mapas-que-usamos-em-nossos-servidores.md)
   * [Como deixar o Perfil Steam público](f.a.q-base-de-conhecimento/como-deixar-o-perfil-steam-publico.md)
+  * [Guia Steam](f.a.q-base-de-conhecimento/guia-steam.md)
+  * [Coleção de mapas que usamos em nossos servidores](f.a.q-base-de-conhecimento/colecao-de-mapas-que-usamos-em-nossos-servidores.md)
 
 ## 📕 \| Regras dos Servidores <a id="regras-dos-servidores"></a>
 
