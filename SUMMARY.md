@@ -9,6 +9,11 @@
 * [Dicas para players com privilégios](adquira-vip/dicas-para-players-com-privilegios.md)
 * [Comandos disponíveis nos servidores](adquira-vip/comandos-disponiveis-nos-servidores.md)
 
+---
+
+* [❓ \| F.A.Q - Base de Conhecimento](f.a.q-base-de-conhecimento/README.md)
+  * [Como deixar o Perfil Steam público](f.a.q-base-de-conhecimento/como-deixar-o-perfil-steam-publico.md)
+
 ## 📕 \| Regras dos Servidores <a id="regras-dos-servidores"></a>
 
 * [Regras Gerais](regras-dos-servidores/regras-gerais.md)
@@ -20,8 +25,6 @@
 
 ---
 
-* [F.A.Q - Base de Conhecimento](f.a.q-base-de-conhecimento/README.md)
-  * [Como deixar o Perfil Steam público](f.a.q-base-de-conhecimento/como-deixar-o-perfil-steam-publico.md)
 * [📕Termos & Normas de Conduta](termos-e-normas-de-conduta/README.md)
   * [Finalidade](termos-e-normas-de-conduta/finalidade.md)
   * [Legislação Brasileira](termos-e-normas-de-conduta/legislacao-brasileira.md)
