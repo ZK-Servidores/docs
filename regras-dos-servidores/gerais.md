@@ -1,4 +1,4 @@
-# Regras Gerais
+# Gerais
 
 Bom senso sempre.
 

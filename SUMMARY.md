@@ -18,7 +18,7 @@
 
 ## 📕 \| Regras dos Servidores <a id="regras-dos-servidores"></a>
 
-* [Regras Gerais](regras-dos-servidores/regras-gerais.md)
+* [Gerais](regras-dos-servidores/gerais.md)
 * [Servidores Competitivo](regras-dos-servidores/servidores-competitivo.md)
 * [Servidores Arena 1v1](regras-dos-servidores/servidores-arena-1v1.md)
 * [Servidores AWP Only](regras-dos-servidores/servidores-awp-only.md)
