@@ -8,5 +8,3 @@
 
 **Servidores Surf PvP:** [**https://steamcommunity.com/sharedfiles/filedetails/?id=2040704562**](https://steamcommunity.com/sharedfiles/filedetails/?id=2040704562)\*\*\*\*
 
-**Servidores JailBreak:** [**https://steamcommunity.com/sharedfiles/filedetails/?id=2067458415**](https://steamcommunity.com/sharedfiles/filedetails/?id=2067458415)\*\*\*\*
-

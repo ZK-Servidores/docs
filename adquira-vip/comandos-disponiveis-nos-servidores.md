@@ -9,12 +9,13 @@ description: Segue a lista de comandos disponíveis em nossos servidores.
 * **`!ws`** - Abre o menu de Skins de Armas;
 * **`!knife`** - Abre o menu de Facas;
 * **`!gloves`** - Abre o menu de Luvas;
-* **`!lvl`** - Abre o menu do Rank;
-* **`!vip`** - Abre o menu VIP;
+* **`!lvl`** - Abre o menu de Rank;
+* **`!vip`** - Abre o menu do VIP;
 * **`!steam`** - Informa o link de nosso Grupo Steam;
 * **`!discord`** - Informa o link de nosso Discord;
 * **`!youtube`** - Informa o link de nosso Youtube;
 * **`!whatsapp`** - Informa o link de nosso WhatsApp;
+* **`!twitter`**- Informa o link de nosso Twitter;
 
 **E muitos outros comandos...**
 
@@ -31,22 +32,21 @@ Segue a lista de comandos que nossa administração pode usar para controlar os 
 * **`!slap "NICK" "DANO"`** - Comando para dar tapa no player, se não informar um numero não tira danos;
 * **`!votemap "MAP1" "MAP2" "MAP3"`** - Comando para criar uma votação de mapas, sugerimos sempre incluir 3 mapas para que os players possam ter uma variedade para escolher.
 
-Todos esses comandos estão no **Menu Administrativo**, para acessar basta digitar no chat **\`!admin\`** para abrir o menu.
+Todos esses comandos estão no **Menu Administrativo**, para acessar basta digitar no chat **`!admin`** para abrir o menu.
 
 _**OBS: Alguns desses comandos exigem o cargo de ADMIN e/ou MOD para serem usados.**_
 
-Lembramos que estes comandos só devem ser usado caso um player quebre nossas [**Regras & Normas de Conduta**](https://zkservidores.com/regras.pdf), ****qualquer tipo de abuso o player esta sujeito a perde os privilégios.
+Lembramos que estes comandos só devem ser usado caso um player quebre nossas [**Regras**](https://docs.zkservidores.com/regras-dos-servidores), ****qualquer tipo de abuso o player esta sujeito a perde os privilégios.
 
 ## PRIVILÉGIOS EM TODOS SERVIDORES
 
 Segue a lista de comandos que nossos players com privilégios tem acesso.
 
 * **`!sprays`** - Acesso ao menu de Sprays, use a tecla **"E"** depois de escolher um spray para usar;
-* **`!music`** - Acesso ao menu de Music Kit oficial Valve;
+* **`!music`** - Acesso ao menu de Music Kit oficial da Valve;
 * **`!agents`** - Acesso ao menu de Skins de Agents do CSGO;
 * **`!mm`** - Acesso ao menu de Patentes;
 * **`!coins`** - Acesso ao menu de Coins;
-* **`!profile`** - Acesso ao menu de Profile Level;
 
 ## **PRIVILÉGIOS NOS SERVIDORES COMPETITIVO**
 
@@ -63,8 +63,8 @@ Segue a lista de comandos que nossos players com privilégios tem acesso.
 * **`!cw`** - Acesso ao menu Custom Weapons;
 * **`!paraquedas`** - Acesso ao menu de Paraquedas;
 * **`!emotes`** - Acesso ao menu de Danças & Emotes do Fortnite;
-* **`!fov`** - Acesso a opção de trocar o FOV;
 * **`!mvp`** - Acesso ao menu de Músicas de MVP;
+* **`!fov`** - Acesso a opção de trocar o FOV;
 * **`!tp`** - Acesso a visão de terceira pessoa;
 
 ## **PRIVILÉGIOS NOS SERVIDORES SURF PVP**
@@ -72,16 +72,7 @@ Segue a lista de comandos que nossos players com privilégios tem acesso.
 * **`!hats`** **-** Acesso ao menu de Máscaras & Acessórios;
 * **`!cw`** - Acesso ao menu Custom Weapons;
 * **`!emotes`** - Acesso ao menu de Danças & Emotes do Fortnite;
+* **`!mvp`** - Acesso ao menu de Músicas de MVP;
 * **`!fov`** - Acesso a opção de trocar o FOV;
-* **`!mvp`** - Acesso ao menu de Músicas de MVP;
-* **`!tp`** - Acesso a visão de terceira pessoa;
-
-## **PRIVILÉGIOS NOS SERVIDORES JAILBREAK**
-
-* **`!hats`** **-** Acesso ao menu de Máscaras & Acessórios;
-* **`!cw`** - Acesso ao menu Custom Weapons;
-* **`!paraquedas`** - Acesso ao menu de Paraquedas;
-* **`!emotes`** - Acesso ao menu de Danças & Emotes do Fortnite;
-* **`!mvp`** - Acesso ao menu de Músicas de MVP;
 * **`!tp`** - Acesso a visão de terceira pessoa;
 

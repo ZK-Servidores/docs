@@ -18,5 +18,5 @@ Saiba que sem você hoje não estaríamos aqui, obrigado por contribuir com noss
 * Sempre que for aplicar alguma punição veja se não tem nenhum player com cargo superior já verificando o ocorrido;
 * Nossos servidores tem hierarquias, então siga elas, tendo qualquer problema procure um player com cargo maior que o seu para que possa resolver;
 
-Quaisquer players que quebrarem nossas [**Regras & Normas de Conduta**](https://zkservidores.com/regras.pdf) estão sujeitos a receber punições e podendo perder até os privilégios! 
+Quaisquer players que quebrarem nossas [**Regras**](https://docs.zkservidores.com/regras-dos-servidores) estão sujeitos a receber punições e podendo perder até os privilégios! 
 
