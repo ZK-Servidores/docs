@@ -1,2 +1,2 @@
-# ❓ \| F.A.Q - Base de Conhecimento
+# ❓ \| F.A.Q - BASE DE CONHECIMENTO
 
