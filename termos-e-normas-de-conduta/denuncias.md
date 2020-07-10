@@ -1,16 +1,16 @@
 # Denúncias
 
-Se está com suspeita de algum player, ou gostaria de denunciar alguém por quebrar as nossas **Termos & Normas de Conduta**, basta enviar um [report](https://www.zkservidores.com/sourcebans/index.php?p=submit) para que possamos verificar.
+Se está com suspeita de algum player, ou gostaria de denunciar alguém por quebrar nossos **Termos & Normas de Conduta**, basta enviar um [report](https://www.zkservidores.com/sourcebans/index.php?p=submit) para que possamos verificar.
 
 #### Para realizar um report basta [clicar aqui](https://www.zkservidores.com/sourcebans/index.php?p=submit).
 
 Para que possamos verificar o report nos enviem as seguintes informações:
 
-* **Steam Suspeito;**
-* **Nick do Suspeito:**
-* **Motivo da Denúncia;**
-* **Provas;** _**\(Vídeos/Imagens\)**_
-* **Servidor**_**;**_
+* **Steam Suspeito**
+* **Nick do Suspeito**
+* **Motivo da Denúncia**
+* **Provas** _**\(Vídeos/Imagens\)**_
+* **Servidor**
 
 Lembre-se de fornece o máximo de informações, assim o processo de verificação é mais rápido.
 
@@ -18,11 +18,11 @@ Válido ressaltar que toda denúncia deve ser feita com no máximo 48hs do ocorr
 
 Tempo para que possamos verificar a denúncia é de 1 a 3 dias úteis, dependo do grau da denúncia tendo um tempo maior.
 
-Feito a denúncia basta aguarda, se comprovado que ele esteja quebrando as **Termos & Normas de Conduta** o mesmo sofrerá punição adequada.
+Feito a denúncia basta aguarda, se comprovado que ele esteja quebrando os **Termos & Normas de Conduta** o mesmo sofrerá punição adequada.
 
 A decisão sobre ser _**“culpado/banido”**_, deve ser unânime entre os administradores.
 
-Players banidos permanentemente por uso de qualquer programa, não terão direito a remoção de banimento em hipótese alguma como previsto nas **Termos & Normas de Conduta.**
+Players banidos permanentemente por uso de qualquer programa, não terão direito a remoção de banimento em hipótese alguma como previsto nos **Termos & Normas de Conduta.**
 
 Denúncias falsas, com o intuito de prejudicar outros players apenas, não serão toleradas, e o denunciante será punido.
 
