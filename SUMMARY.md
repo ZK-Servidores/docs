@@ -12,7 +12,7 @@
 ---
 
 * [❓ \| F.A.Q - BASE DE CONHECIMENTO](f.a.q-base-de-conhecimento/README.md)
-  * [Como deixar o Perfil Steam público](f.a.q-base-de-conhecimento/como-deixar-o-perfil-steam-publico.md)
+  * [Como deixar o Perfil Steam & Horas do Jogo público](f.a.q-base-de-conhecimento/como-deixar-o-perfil-steam-publico.md)
   * [Guia Steam](f.a.q-base-de-conhecimento/guia-steam.md)
 
 ## 📕 \| Regras dos Servidores <a id="regras-dos-servidores"></a>

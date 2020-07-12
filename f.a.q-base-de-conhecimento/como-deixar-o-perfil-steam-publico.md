@@ -1,4 +1,4 @@
-# Como deixar o Perfil Steam público
+# Como deixar o Perfil Steam & Horas do Jogo público
 
 Clique para `Editar perfil` em seu Perfil Steam.
 
