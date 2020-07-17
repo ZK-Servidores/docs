@@ -4,19 +4,19 @@ description: Segue as alterações feita em nossos Servidores & Site
 
 # ⚙️ \| Changelogs
 
-## 15.0.0 - 2042-12-03
+## 2020
 
-### Fixed
+### XX-XX
 
-* Removed humans, they weren't doing fine with animals.
+#### ✔️ \| Adicionado
 
-### Changed
+#### ♻️ \| Modificado
 
-* Animals are now super cute, all of them.
+#### 🔨 \| Corrigido
 
-## 14.0.0 - 2042-10-06
+#### **❌ \| Removido**
 
-### Added
+\*\*\*\*
 
 * Introduced animals into the world, we believe they're going to be a neat addition.
 
