@@ -15,6 +15,7 @@
   * [Guia Steam](f.a.q-base-de-conhecimento/guia-steam.md)
   * [Como deixar o Perfil Steam & Horas do Jogo público](f.a.q-base-de-conhecimento/como-deixar-o-perfil-steam-publico.md)
   * [Corrigindo erro Missing Map](f.a.q-base-de-conhecimento/corrigindo-erro-missing-map.md)
+  * [Corrigindo o erro Host\_error recursively entered](f.a.q-base-de-conhecimento/corrigindo-o-erro-host_error-recursively-entered.md)
 
 ## 📕 \| Regras dos Servidores <a id="regras-dos-servidores"></a>
 
