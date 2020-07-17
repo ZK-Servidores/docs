@@ -1,2 +1,2 @@
-# 📕Termos & Normas de Conduta
+# 📕TERMOS & NORMAS DE CONDUTA
 

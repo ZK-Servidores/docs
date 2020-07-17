@@ -28,7 +28,7 @@
 
 ---
 
-* [📕Termos & Normas de Conduta](termos-e-normas-de-conduta/README.md)
+* [📕TERMOS & NORMAS DE CONDUTA](termos-e-normas-de-conduta/README.md)
   * [Finalidade](termos-e-normas-de-conduta/finalidade.md)
   * [Legislação Brasileira](termos-e-normas-de-conduta/legislacao-brasileira.md)
   * [Anti-Cheats](termos-e-normas-de-conduta/anti-cheats.md)
@@ -43,10 +43,7 @@
   * [Conduta de Players com Privilégios](termos-e-normas-de-conduta/conduta-de-players-com-privilegios.md)
   * [Denúncias](termos-e-normas-de-conduta/denuncias.md)
   * [Informações Gerais](termos-e-normas-de-conduta/regras-e-normas-de-conduta.md)
-
-## ⚙️ \| Changelogs
-
-* [Changelogs](or-changelogs/changelogs.md)
+* [⚙️ \| Changelogs](changelogs.md)
 
 ## 🙋 \| SUPORTE <a id="suporte"></a>
 
