@@ -44,6 +44,10 @@
   * [Denúncias](termos-e-normas-de-conduta/denuncias.md)
   * [Informações Gerais](termos-e-normas-de-conduta/regras-e-normas-de-conduta.md)
 
+## ⚙️ \| Changelogs
+
+* [Changelogs](or-changelogs/changelogs.md)
+
 ## 🙋 \| SUPORTE <a id="suporte"></a>
 
 ---
