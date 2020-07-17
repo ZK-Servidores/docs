@@ -1,3 +1,7 @@
+---
+description: Segue as alterações feita em nossos Servidores & Site
+---
+
 # ⚙️ \| Changelogs
 
 ## 15.0.0 - 2042-12-03
