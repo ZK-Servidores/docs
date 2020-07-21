@@ -28,7 +28,7 @@
 
 ---
 
-* [⚙️ \| Changelogs](changelogs.md)
+* [⚙️ \| CHANGELOGS](changelogs.md)
 
 ## 🙋 \| SUPORTE <a id="suporte"></a>
 
@@ -37,7 +37,7 @@
 * [Discord](https://discord.gg/SQ9eVqq)
 * [Email](mailto:contato@zkservidores.com)
 * [WhatsApp](https://wa.me/551146756442)
-* [📕TERMOS & NORMAS DE CONDUTA](termos-e-normas-de-conduta/README.md)
+* [📚 \| TERMOS & NORMAS DE CONDUTA](termos-e-normas-de-conduta/README.md)
   * [Finalidade](termos-e-normas-de-conduta/finalidade.md)
   * [Legislação Brasileira](termos-e-normas-de-conduta/legislacao-brasileira.md)
   * [Anti-Cheats](termos-e-normas-de-conduta/anti-cheats.md)

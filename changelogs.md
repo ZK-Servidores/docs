@@ -2,7 +2,7 @@
 description: Segue as alterações feita em nossos Servidores & Site
 ---
 
-# ⚙️ \| Changelogs
+# ⚙️ \| CHANGELOGS
 
 ## 2020
 
