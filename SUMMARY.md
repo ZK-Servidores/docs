@@ -11,20 +11,25 @@
 
 ---
 
-* [❓ \| F.A.Q - BASE DE CONHECIMENTO](f.a.q-base-de-conhecimento/README.md)
-  * [Guia Steam](f.a.q-base-de-conhecimento/guia-steam.md)
-  * [Como deixar o Perfil Steam & Horas do Jogo público](f.a.q-base-de-conhecimento/como-deixar-o-perfil-steam-publico.md)
-  * [Corrigindo erro Missing Map](f.a.q-base-de-conhecimento/corrigindo-erro-missing-map.md)
-  * [Corrigindo o erro Host\_error recursively entered](f.a.q-base-de-conhecimento/corrigindo-o-erro-host_error-recursively-entered.md)
+* [📕 \| Regras dos Servidores](or-regras-dos-servidores/README.md)
+  * [Gerais](or-regras-dos-servidores/gerais.md)
 
 ## 📕 \| Regras dos Servidores <a id="regras-dos-servidores"></a>
 
-* [Gerais](regras-dos-servidores/gerais.md)
 * [Servidores Competitivo](regras-dos-servidores/servidores-competitivo.md)
 * [Servidores Arena 1v1](regras-dos-servidores/servidores-arena-1v1.md)
 * [Servidores AWP Only](regras-dos-servidores/servidores-awp-only.md)
 * [Servidores Surf PvP](regras-dos-servidores/servidores-surf-pvp.md)
 * [Servidores JailBreak](regras-dos-servidores/servidores-jailbreak.md)
+
+---
+
+* [❓ \| F.A.Q - BASE DE CONHECIMENTO](f.a.q-base-de-conhecimento/README.md)
+  * [Guia Steam](f.a.q-base-de-conhecimento/guia-steam.md)
+  * [Como deixar o Perfil Steam & Horas do Jogo público](f.a.q-base-de-conhecimento/como-deixar-o-perfil-steam-publico.md)
+  * [Corrigindo erro Missing Map](f.a.q-base-de-conhecimento/corrigindo-erro-missing-map.md)
+  * [Corrigindo o erro Host\_error recursively entered](f.a.q-base-de-conhecimento/corrigindo-o-erro-host_error-recursively-entered.md)
+* [⚙️ \| CHANGELOGS](changelogs.md)
 
 ## 🙋 \| SUPORTE <a id="suporte"></a>
 
@@ -34,7 +39,6 @@
 
 ---
 
-* [⚙️ \| CHANGELOGS](changelogs.md)
 * [📚 \| TERMOS & NORMAS DE CONDUTA](termos-e-normas-de-conduta/README.md)
   * [Finalidade](termos-e-normas-de-conduta/finalidade.md)
   * [Legislação Brasileira](termos-e-normas-de-conduta/legislacao-brasileira.md)
