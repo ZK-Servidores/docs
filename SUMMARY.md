@@ -24,15 +24,6 @@
   * [Corrigindo erro Missing Map](f.a.q-base-de-conhecimento/corrigindo-erro-missing-map.md)
   * [Corrigindo o erro Host\_error recursively entered](f.a.q-base-de-conhecimento/corrigindo-o-erro-host_error-recursively-entered.md)
 * [⚙️ \| CHANGELOGS](changelogs.md)
-
-## 🙋 \| SUPORTE <a id="suporte"></a>
-
-* [Discord](https://discord.gg/SQ9eVqq)
-* [Email](mailto:contato@zkservidores.com)
-* [WhatsApp](https://wa.me/551146756442)
-
----
-
 * [📚 \| TERMOS & NORMAS DE CONDUTA](termos-e-normas-de-conduta/README.md)
   * [Finalidade](termos-e-normas-de-conduta/finalidade.md)
   * [Legislação Brasileira](termos-e-normas-de-conduta/legislacao-brasileira.md)
@@ -48,4 +39,10 @@
   * [Conduta de Players com Privilégios](termos-e-normas-de-conduta/conduta-de-players-com-privilegios.md)
   * [Denúncias](termos-e-normas-de-conduta/denuncias.md)
   * [Informações Gerais](termos-e-normas-de-conduta/regras-e-normas-de-conduta.md)
+
+## 🙋 \| SUPORTE <a id="suporte"></a>
+
+* [Discord](https://discord.gg/SQ9eVqq)
+* [Email](mailto:contato@zkservidores.com)
+* [WhatsApp](https://wa.me/551146756442)
 
