@@ -11,16 +11,15 @@
 
 ---
 
-* [📕 \| Regras dos Servidores](or-regras-dos-servidores/README.md)
+* [📕 \| REGRAS DOS SERVIDORES](or-regras-dos-servidores/README.md)
   * [Gerais](or-regras-dos-servidores/gerais.md)
+  * [Servidores Competitivo](or-regras-dos-servidores/servidores-competitivo.md)
+  * [Servidores Arena 1v1](or-regras-dos-servidores/servidores-arena-1v1.md)
+  * [Servidores AWP Only](or-regras-dos-servidores/servidores-awp-only.md)
+  * [Servidores Surf PvP](or-regras-dos-servidores/servidores-surf-pvp.md)
+  * [Servidores JailBreak](or-regras-dos-servidores/servidores-jailbreak.md)
 
 ## 📕 \| Regras dos Servidores <a id="regras-dos-servidores"></a>
-
-* [Servidores Competitivo](regras-dos-servidores/servidores-competitivo.md)
-* [Servidores Arena 1v1](regras-dos-servidores/servidores-arena-1v1.md)
-* [Servidores AWP Only](regras-dos-servidores/servidores-awp-only.md)
-* [Servidores Surf PvP](regras-dos-servidores/servidores-surf-pvp.md)
-* [Servidores JailBreak](regras-dos-servidores/servidores-jailbreak.md)
 
 ---
 

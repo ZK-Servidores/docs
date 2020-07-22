@@ -1,2 +1,2 @@
-# 📕 \| Regras dos Servidores
+# 📕 \| REGRAS DOS SERVIDORES
 
