@@ -9,13 +9,10 @@
 * [Dicas para players com privilégios](adquira-vip/dicas-para-players-com-privilegios.md)
 * [Comandos disponíveis nos servidores](adquira-vip/comandos-disponiveis-nos-servidores.md)
 
-## TESTE
-
-* [Guia Steam](teste/guia-steam.md)
-
 ---
 
 * [❓ \| F.A.Q - BASE DE CONHECIMENTO](f.a.q-base-de-conhecimento/README.md)
+  * [Guia Steam](f.a.q-base-de-conhecimento/guia-steam.md)
   * [Como deixar o Perfil Steam & Horas do Jogo público](f.a.q-base-de-conhecimento/como-deixar-o-perfil-steam-publico.md)
   * [Corrigindo erro Missing Map](f.a.q-base-de-conhecimento/corrigindo-erro-missing-map.md)
   * [Corrigindo o erro Host\_error recursively entered](f.a.q-base-de-conhecimento/corrigindo-o-erro-host_error-recursively-entered.md)
@@ -28,6 +25,12 @@
 * [Servidores AWP Only](regras-dos-servidores/servidores-awp-only.md)
 * [Servidores Surf PvP](regras-dos-servidores/servidores-surf-pvp.md)
 * [Servidores JailBreak](regras-dos-servidores/servidores-jailbreak.md)
+
+## 🙋 \| SUPORTE <a id="suporte"></a>
+
+* [Discord](https://discord.gg/SQ9eVqq)
+* [Email](mailto:contato@zkservidores.com)
+* [WhatsApp](https://wa.me/551146756442)
 
 ---
 
@@ -47,12 +50,4 @@
   * [Conduta de Players com Privilégios](termos-e-normas-de-conduta/conduta-de-players-com-privilegios.md)
   * [Denúncias](termos-e-normas-de-conduta/denuncias.md)
   * [Informações Gerais](termos-e-normas-de-conduta/regras-e-normas-de-conduta.md)
-
-## 🙋 \| SUPORTE <a id="suporte"></a>
-
----
-
-* [Discord](https://discord.gg/SQ9eVqq)
-* [Email](mailto:contato@zkservidores.com)
-* [WhatsApp](https://wa.me/551146756442)
 
