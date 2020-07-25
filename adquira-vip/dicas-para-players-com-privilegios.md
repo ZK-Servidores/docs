@@ -20,3 +20,5 @@ Saiba que sem você hoje não estaríamos aqui, obrigado por contribuir com noss
 
 Quaisquer players que quebrarem nossas [**Regras**](https://docs.zkservidores.com/regras-dos-servidores) estão sujeitos a receber punições e podendo perder até os privilégios! 
 
+Caso precise aqui tem uma lista de todos comandos em nossos servidores: [https://docs.zkservidores.com/f.a.q-base-de-conhecimento/comandos-disponiveis-nos-servidores](https://docs.zkservidores.com/f.a.q-base-de-conhecimento/comandos-disponiveis-nos-servidores)
+
