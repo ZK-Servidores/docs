@@ -12,13 +12,11 @@ Saiba que sem você hoje não estaríamos aqui, obrigado por contribuir com noss
 
 **Segue algumas dicas para os players que possuem privilégios:**
 
-* Lembre-se, use sempre o bom-senso;
-* Sempre antes de aplicar qualquer punição em um player, fale com o mesmo antes, isso na maioria dos caso já resolve o problema;
-* Sempre que aplicar alguma punição informe o motivo junto, caso contrário é desconsiderado e removido a punição;
-* Sempre que for aplicar alguma punição veja se não tem nenhum player com cargo superior já verificando o ocorrido;
+* Lembre-se, use sempre o bom-senso, trate os outros como gostaria de ser tratado;
+* Caso precise [**clique aqui**](https://docs.zkservidores.com/f.a.q-base-de-conhecimento/comandos-disponiveis-nos-servidores) para ver a lista de todos comandos em nossos servidores;
 * Nossos servidores tem hierarquias, então siga elas, tendo qualquer problema procure um player com cargo maior que o seu para que possa resolver;
 
 Quaisquer players que quebrarem nossas [**Regras**](https://docs.zkservidores.com/regras-dos-servidores) estão sujeitos a receber punições e podendo perder até os privilégios! 
 
-Caso precise aqui tem uma lista de todos comandos em nossos servidores: [https://docs.zkservidores.com/f.a.q-base-de-conhecimento/comandos-disponiveis-nos-servidores](https://docs.zkservidores.com/f.a.q-base-de-conhecimento/comandos-disponiveis-nos-servidores)
+
 
