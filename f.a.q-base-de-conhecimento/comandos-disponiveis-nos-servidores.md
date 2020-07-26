@@ -1,7 +1,3 @@
----
-description: Segue a lista de comandos disponíveis em nossos servidores.
----
-
 # Comandos disponíveis nos servidores
 
 ## COMANDOS LIBERADO PARA TODOS PLAYERS
