@@ -6,12 +6,15 @@
 * **`!knife`** - Abre o menu de Facas;
 * **`!gloves`** - Abre o menu de Luvas;
 * **`!lvl`** - Abre o menu de Rank;
+* **`!sparys`** - Abre o menu de Sprays
 * **`!vip`** - Abre o menu do VIP;
 * **`!steam`** - Informa o link de nosso Grupo Steam;
 * **`!discord`** - Informa o link de nosso Discord;
+* **`!ts`** - Informa o link de nosso TeamSpeak 3;
 * **`!youtube`** - Informa o link de nosso Youtube;
-* **`!whatsapp`** - Informa o link de nosso WhatsApp;
 * **`!twitter`**- Informa o link de nosso Twitter;
+* **`!email`** - Informa nosso Email para contato;
+* **`!whatsapp`** - Informa nosso número de WhatsApp;
 
 **E muitos outros comandos...**
 
@@ -25,15 +28,15 @@ Segue a lista de comandos que nossa administração pode usar para controlar os 
 * **`!gag`** - Comando para mutar CHAT do player;
 * **`!silence`** - Comando para mutar MIC & CHAT do player;
 * **`!slay "NICK"`** - Comando para dar kill no player;
-* **`!slap "NICK" "DANO"`** - Comando para dar tapa no player, se não informar um numero não tira danos;
+* **`!slap "NICK" "DANO"`** - Comando para dar tapa no player, se não informar um numero não tira dano;
 * **`!votemap "MAP1" "MAP2" "MAP3"`** - Comando para criar uma votação de mapas, sugerimos sempre incluir 3 mapas para que os players possam ter uma variedade para escolher.
 * **`!swapteam <NICK>`** - Troca o player para o time oposto imediatamente;
-* **`!swapteam_death <NICK>`** - Muda o player para o time oposto quando ele morre;
-* **`!swapteam_d <NICK>`** - Muda o player para o time oposto quando a rodada terminar;
-* **`!spec <NICK>`** - Muda o player para o espectador imediatamente;
+* **`!swapteam_death <NICK>`** - Muda o player para o time oposto quando ele morrer;
+* **`!swapteam_d <NICK>`** - Muda o player para o time oposto quando o round terminar;
+* **`!spec <NICK>`** - Muda o player para spectador imediatamente;
 * **`!team <NICK> <TIME - 1/2/3>`** - Permite que movam os players para qualquer time especificado;
 
-Todos esses comandos estão no **Menu Administrativo**, para acessar basta digitar no chat **`!admin`** para abrir o menu.
+Todos esses comandos estão no **Menu Administrativo**, para acessar basta digitar no chat **`!admin`**.
 
 _**OBS: Alguns desses comandos exigem o cargo de ADMIN e/ou MOD para serem usados.**_
 
@@ -43,37 +46,35 @@ Lembramos que estes comandos só devem ser usado caso um player quebre nossas [*
 
 Segue a lista de comandos que nossos players com privilégios tem acesso.
 
-* **`!sprays`** - Acesso ao menu de Sprays, use a tecla **"E"** depois de escolher um spray para usar;
 * **`!music`** - Acesso ao menu de Music Kit oficial da Valve;
 * **`!agents`** - Acesso ao menu de Skins de Agents do CSGO;
-* **`!mm`** - Acesso ao menu de Patentes;
 * **`!coins`** - Acesso ao menu de Coins;
 
 ## **PRIVILÉGIOS NOS SERVIDORES COMPETITIVO**
 
+* Imune NotReady Kick;
+* Acesso ao Team Selec Kicker; _**\(Basta escolher o time e entrar, player aleatório é kickado automaticamente\)**_
+* Acesso **`!pause`** & **`!unpause`**;
+
 ## **PRIVILÉGIOS NOS SERVIDORES ARENA 1V1**
 
-* **`!hats`** **-** Acesso ao menu de Máscaras & Acessórios;
-* **`!cw`** - Acesso ao menu Custom Weapons;
-* **`!emotes`** - Acesso ao menu de Danças & Emotes do Fortnite;
-* **`!mvp`** - Acesso ao menu de Músicas de MVP;
+* Imune ao Fall Damage; _**\(Não sofre danos de queda\)**_ 
+* Acesso **`!rs`**;
+* Acesso **`!fov`**;
+* Acesso **`!mvp`**;
 
 ## **PRIVILÉGIOS NOS SERVIDORES** AWP ONLY
 
-* **`!hats`** **-** Acesso ao menu de Máscaras & Acessórios;
-* **`!cw`** - Acesso ao menu Custom Weapons;
-* **`!paraquedas`** - Acesso ao menu de Paraquedas;
-* **`!emotes`** - Acesso ao menu de Danças & Emotes do Fortnite;
-* **`!mvp`** - Acesso ao menu de Músicas de MVP;
-* **`!fov`** - Acesso a opção de trocar o FOV;
-* **`!tp`** - Acesso a visão de terceira pessoa;
+* Imune ao Fall Damage; _**\(Não sofre danos de queda\)**_ 
+* Acesso **`!rs`**;
+* Acesso **`!fov`**;
+* Acesso **`!mvp`**;
+* Acesso **`!parachute`**;
 
 ## **PRIVILÉGIOS NOS SERVIDORES SURF PVP**
 
-* **`!hats`** **-** Acesso ao menu de Máscaras & Acessórios;
-* **`!cw`** - Acesso ao menu Custom Weapons;
-* **`!emotes`** - Acesso ao menu de Danças & Emotes do Fortnite;
-* **`!mvp`** - Acesso ao menu de Músicas de MVP;
-* **`!fov`** - Acesso a opção de trocar o FOV;
-* **`!tp`** - Acesso a visão de terceira pessoa;
+* Acesso **`!rs`**;
+* Acesso **`!fov`**;
+* Acesso **`!mvp`**;
+* Acesso **`!respawn`**; _**\(1 Respawn por round\)**_
 
