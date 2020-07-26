@@ -1,5 +1,7 @@
 # Servidores AWP Only
 
+Players que não realizarem o objetivo do game estarão levando slay, caso continue levaram ban.
+
 Torna-se proibido:
 
 1. Camperar; _**\(+15 segundos\)**_
@@ -8,6 +10,4 @@ Torna-se proibido:
 
 2. Atrapalhar ou trolhar o game de outros players;
 3. Sendo os últimos players vivos enrolar para fazer o objetivo do game;
-
-Players que não realizarem o objetivo do game estarão levando slay, caso continue levaram ban.
 
