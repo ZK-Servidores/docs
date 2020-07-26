@@ -6,6 +6,8 @@ Quando for falar com alguém lembre-se de ter respeito e educação, trate os ou
 
 Fazer sempre o objetivo do mapa/modo de jogo.
 
+Tolerância zero com discurso de ódio, comportamentos racistas ou preconceituoso,  tolerância zero em, todos avisados.
+
 Torna-se proibido:
 
 1. Utilizar qualquer tipo de BUG e/ou Glicthes nos servidores;

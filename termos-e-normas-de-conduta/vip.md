@@ -14,7 +14,7 @@ VIP tem prazo de **1 mês** _**\(30 dias\)**_ ou de acordo com o plano contratad
 
 Qualquer pagamento acima ou abaixo do valor especificado nos planos existentes, sem aviso prévio ou combinado, será considerado como uma doação.
 
-Prazo de ativação dos privilégios é de até 12 horas úteis. _**\(Não incluso Finais de Semana ou Feriados\)**_
+Prazo de ativação dos privilégios é de até 12 horas úteis. _**\(Não incluso finais de semana ou feriados\)**_
 
 VIPS depois de ativado em uma Steam não poderão ser transferidos para outra conta Steam em hipótese alguma.
 

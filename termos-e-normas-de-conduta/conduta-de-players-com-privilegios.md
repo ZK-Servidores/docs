@@ -6,7 +6,7 @@ Proibido mutar, kickar, banir ou qualquer tipo de punição em players que não 
 
 Qualquer briga, desavença entre players não serão toleradas, e ambos serão punidos caso ocorra qualquer problema.
 
-Extremamente proibido alterar qualquer configuração dos servidores sob qualquer hipótese;
+Extremamente proibido alterar qualquer configuração dos servidores, em qualquer hipótese;
 
 Players com privilégios advertidos pela administração por quebrarem os **Termos & Normas de Conduta** devem apenas aceitar, caso retruque ou provoque mais intrigas sofrerão punições ou até mesmo perder seus privilégios.
 

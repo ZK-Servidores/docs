@@ -18,8 +18,6 @@ Válido ressaltar que toda denúncia deve ser feita com no máximo 48hs do ocorr
 
 Tempo para que possamos verificar a denúncia é de 1 a 3 dias úteis, dependo do grau da denúncia tendo um tempo maior.
 
-Feito a denúncia basta aguarda, se comprovado que ele esteja quebrando os **Termos & Normas de Conduta** o mesmo sofrerá punição adequada.
-
 A decisão sobre ser _**“culpado/banido”**_, deve ser unânime entre os administradores.
 
 Players banidos permanentemente por uso de qualquer programa, não terão direito a remoção de banimento em hipótese alguma como previsto nos **Termos & Normas de Conduta.**
