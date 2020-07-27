@@ -61,7 +61,6 @@ Segue a lista de comandos que nossos players com privilégios tem acesso.
 * Imune ao Fall Damage; _**\(Não sofre danos de queda\)**_ 
 * Acesso **`!rs`**;
 * Acesso **`!fov`**;
-* Acesso **`!mvp`**;
 
 ## **PRIVILÉGIOS NOS SERVIDORES** AWP ONLY
 
