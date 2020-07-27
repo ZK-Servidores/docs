@@ -23,7 +23,6 @@
   * [Como deixar o Perfil Steam & Horas do Jogo público](f.a.q-base-de-conhecimento/como-deixar-o-perfil-steam-publico.md)
   * [Corrigindo erro Missing Map](f.a.q-base-de-conhecimento/corrigindo-erro-missing-map.md)
   * [Corrigindo o erro Host\_error recursively entered](f.a.q-base-de-conhecimento/corrigindo-o-erro-host_error-recursively-entered.md)
-* [⚙️ \| CHANGELOGS](changelogs.md)
 * [📚 \| TERMOS & NORMAS DE CONDUTA](termos-e-normas-de-conduta/README.md)
   * [Finalidade](termos-e-normas-de-conduta/finalidade.md)
   * [Legislação Brasileira](termos-e-normas-de-conduta/legislacao-brasileira.md)
