@@ -61,12 +61,14 @@ Segue a lista de comandos que nossos players com privilégios tem acesso.
 * Imune ao Fall Damage; _**\(Não sofre danos de queda\)**_ 
 * Acesso **`!rs`**;
 * Acesso **`!fov`**;
+* Acesso **`!emotes`**;
 
 ## **PRIVILÉGIOS NOS SERVIDORES** AWP ONLY
 
 * Imune ao Fall Damage; _**\(Não sofre danos de queda\)**_ 
 * Acesso **`!rs`**;
 * Acesso **`!fov`**;
+* Acesso **`!emotes`**;
 * Acesso **`!mvp`**;
 * Acesso **`!parachute`**;
 
@@ -74,6 +76,7 @@ Segue a lista de comandos que nossos players com privilégios tem acesso.
 
 * Acesso **`!rs`**;
 * Acesso **`!fov`**;
+* Acesso **`!emotes`**;
 * Acesso **`!mvp`**;
 * Acesso **`!respawn`**; _**\(1 Respawn por round\)**_
 
