@@ -6,5 +6,5 @@ Seguimos a seguinte tabela com [**Advertências & Tempo de Banimentos**](http://
 
 Lembre-se que em algumas circunstâncias o banimento pode ser aplicado direto dependendo da ocorrência ou gravidade da situação.
 
-Não temos obrigação nenhuma der fornecer provas de você estava quebrando qualquer um de nossos **Termos & Normas de Conduta**, se você foi banido pode ter certeza que violou alguma.
+Não temos obrigação nenhuma der fornecer provas de que você estava quebrando qualquer um de nossos **Termos & Normas de Conduta**, se você foi banido pode ter certeza que violou alguma. Lembre-se, nossos servidores não é um espaço público, você jogar neles é apenas uma cortesia nossa para a comunidade.
 

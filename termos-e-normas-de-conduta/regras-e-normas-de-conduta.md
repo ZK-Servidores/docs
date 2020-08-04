@@ -1,8 +1,8 @@
 # Informações Gerais
 
-Nossos servidores é um espaço público, contudo temos **Termos & Normas de Conduta** para seu uso e para todos terem um lugar agradável de se jogar, portanto sigam-nas e usem o bom senso.
+Nossos servidores não é um espaço público, , você jogar neles é apenas uma cortesia nossa para a comunidade. Então siga nossos **Termos & Normas de Conduta.**
 
-Qualquer usuário que quebrar os **Termos & Normas de Conduta** poderá sofrer advertência e até perde o direito de jogar em nossos servidores.
+Qualquer player que quebrar os **Termos & Normas de Conduta** poderá sofrer advertência e até perde o direito de jogar em nossos servidores.
 
 Você e só você é responsável pela sua conta, nunca empreste sua conta para ninguém.
 

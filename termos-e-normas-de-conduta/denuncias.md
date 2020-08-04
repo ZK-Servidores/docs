@@ -1,7 +1,5 @@
 # Denúncias
 
-Se está com suspeita de algum player, ou gostaria de denunciar alguém por quebrar nossos **Termos & Normas de Conduta**, basta enviar um [report](https://www.zkservidores.com/sourcebans/index.php?p=submit) para que possamos verificar.
-
 #### Para realizar um report basta [clicar aqui](https://www.zkservidores.com/sourcebans/index.php?p=submit).
 
 Para que possamos verificar o report nos enviem as seguintes informações:

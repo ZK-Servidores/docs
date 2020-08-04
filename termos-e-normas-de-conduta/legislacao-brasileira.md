@@ -8,5 +8,5 @@ Você não tem permissão para usar a **ZK Servidores™** para distribuir mater
 
 Qualquer tipo de preconceito, racismo, comportamento tóxico e etc, não é permitido em hipótese alguma.
 
-Se você infringir esses **Termos & Normas de Conduta**, será banido e se necessário até responder pelos seus atos perante a lei.
+Se você infringir esses **Termos & Normas de Conduta**, será banido e se necessário responder pelos seus atos perante a lei.
 

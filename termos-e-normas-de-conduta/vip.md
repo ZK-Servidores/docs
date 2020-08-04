@@ -1,6 +1,6 @@
 # VIP
 
-Únicos players autorizados a vender **VIP** são os DONOS e SUB-DONOS e pelos sites e redes sociais oficias da **ZK Servidores™**, qualquer outro player que lhe oferecer está tentando lhe enganar.
+Único player autorizado a vender **VIP** são os DONOS e SUB-DONOS e pelos sites e redes sociais oficias da **ZK Servidores™**, qualquer outro player que lhe oferecer está tentando lhe enganar.
 
 Recomendamos sempre entrar em contato pelo nosso [**Discord Oficial**](https://discord.gg/SQ9eVqq), assim podemos garantir a segurança em sua compra.
 
@@ -15,6 +15,4 @@ VIP tem prazo de **1 mês** _**\(30 dias\)**_ ou de acordo com o plano contratad
 Qualquer pagamento acima ou abaixo do valor especificado nos planos existentes, sem aviso prévio ou combinado, será considerado como uma doação.
 
 Prazo de ativação dos privilégios é de até 12 horas úteis. _**\(Não incluso finais de semana ou feriados\)**_
-
-VIPS depois de ativado em uma Steam não poderão ser transferidos para outra conta Steam em hipótese alguma.
 
