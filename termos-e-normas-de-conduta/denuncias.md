@@ -1,16 +1,17 @@
 # Denúncias
 
-#### Para realizar um report basta [clicar aqui](https://www.zkservidores.com/sourcebans/index.php?p=submit).
+Reports / Denúncias podem ser feitos em qualquer meio de comunicação, seja nosso Discord, Sites, Email e etc. 
 
-Para que possamos verificar o report nos enviem as seguintes informações:
+* _**Reports /Denúncias feitas em nosso Discord geralmente são atendidas e verificadas mais rapidamente, já que estamos sempre lá atendendo aos players;**_
+
+Para que possamos verificar um report / denúncia nos enviem as seguintes informações:
 
 * **Steam Suspeito**
 * **Nick do Suspeito**
 * **Motivo da Denúncia**
 * **Provas** _**\(Vídeos/Imagens\)**_
 * **Servidor**
-
-Lembre-se de fornece o máximo de informações, assim o processo de verificação é mais rápido.
+  * _**Lembre-se de fornece o máximo de informações, assim o processo de verificação é mais rápido.**_
 
 Válido ressaltar que toda denúncia deve ser feita com no máximo 48hs do ocorrido para ser analisada, a punição será definida através de uma decisão dos administradores e cabe somente aos administradores decidir se haverá uma punição.
 
