@@ -8,7 +8,7 @@ Fazer sempre o objetivo do mapa/modo de jogo.
 
 Tolerância zero com discursos de ódio, comportamentos racistas ou preconceituoso, tolerância zero, todos avisados.
 
-Tolerância zero com players usando qualquer programa que de vantagem em cima de outro players, tolerância zero, todos avisados.
+Tolerância zero com players usando qualquer programa que de vantagem em cima de outros players, tolerância zero, todos avisados.
 
 Torna-se proibido:
 
