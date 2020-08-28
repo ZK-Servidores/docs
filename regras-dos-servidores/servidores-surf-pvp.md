@@ -1,4 +1,4 @@
-# Servidores Surf PvP
+# Servidores Surf Classic
 
 Players que não realizarem o objetivo do game estarão levando slay, caso continue levaram ban.
 

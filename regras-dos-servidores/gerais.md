@@ -1,12 +1,12 @@
-# Gerais
+# Regras Gerais
 
 Bom senso sempre.
 
-Quando for falar com alguém lembre-se de ter respeito e educação, trate os outros como gostaria de ser tratado.
+Quando for falar com alguém lembre-se de ter respeito, educação. Trate os outros como gostaria de ser tratado.
 
 Fazer sempre o objetivo do mapa/modo de jogo.
 
-Tolerância zero com discurso de ódio, comportamentos racistas ou preconceituoso,  tolerância zero em, todos avisados.
+Tolerância zero com discurso de ódio, comportamentos racistas ou preconceituoso, tolerância zero, todos avisados.
 
 Torna-se proibido:
 
