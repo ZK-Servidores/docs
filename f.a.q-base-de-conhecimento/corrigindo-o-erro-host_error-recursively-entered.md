@@ -1,5 +1,7 @@
 # Corrigindo o erro Host\_error recursively entered
 
+![Erro Host\_error recursively entered](../.gitbook/assets/image%20%289%29.png)
+
 Vamos por parte, tente um por vez e veja se resolve o problema.  
   
 Primeiro, desligue o roteador / modem da tomada por alguns minutos e ligue-o novamente. Feito isso tente entrar novamente no servidor.
