@@ -21,6 +21,7 @@
   * [Guia Steam](f.a.q-base-de-conhecimento/guia-steam.md)
   * [Comandos disponíveis nos servidores](f.a.q-base-de-conhecimento/comandos-disponiveis-nos-servidores.md)
   * [Como deixar o Perfil Steam & Horas do Jogo público](f.a.q-base-de-conhecimento/como-deixar-o-perfil-steam-publico.md)
+  * [Download dos arquivos personalizados em nossos servidores](f.a.q-base-de-conhecimento/download-dos-arquivos-personalizados-em-nossos-servidores.md)
   * [Habilitando download dos Materials & Models](f.a.q-base-de-conhecimento/habilitando-download-dos-materials-and-models.md)
   * [Corrigindo erro Missing Map](f.a.q-base-de-conhecimento/corrigindo-erro-missing-map.md)
   * [Corrigindo o erro Host\_error recursively entered](f.a.q-base-de-conhecimento/corrigindo-o-erro-host_error-recursively-entered.md)
