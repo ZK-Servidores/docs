@@ -4,7 +4,7 @@ Download dos arquivos personalizados em nossos servidores, tais como **Materials
 
 Porém, como sempre, CSGO gosta de trolar os players então optamos por postar o link de todos os arquivos personalizados que usamos para que possam fazer download manualmente e enviar para o CSGO. Feito o download basta enviar para sua pasta do CSGO.
 
-**Link para Download:** [**https://drive.google.com/file/d/1MmHjHW-1IxDB-swtOqrS4iXRy-4Ai2fD/view**](https://drive.google.com/file/d/1MmHjHW-1IxDB-swtOqrS4iXRy-4Ai2fD/view)
+**Link para Download:** [**https://drive.google.com/file/d/1PfZ6FcI1kcUk7FMDceOGtg1JCLPj\_Zty/view**](https://drive.google.com/file/d/1PfZ6FcI1kcUk7FMDceOGtg1JCLPj_Zty/view)\*\*\*\*
 
 ![](../.gitbook/assets/image%20%2810%29.png)
 
