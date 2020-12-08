@@ -12,3 +12,5 @@ _**Lembre-se de deixar as duas caixas de seleção desmarcadas para deixar as Ho
 
 Feito isso basta se conectar nos servidores, depois que jogar um mapa por completo seu Perfil Steam pode ser colocado no **Privado** novamente.
 
+Qualquer dúvida não hesite em nos contatar!
+

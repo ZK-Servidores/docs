@@ -14,5 +14,5 @@ Feito isso vai até a pasta **maps, `csgo/maps`**localiza o mapa que esta dando 
 
 Depois basta se conectar no servidor novamente e o download do mapa é feito por ele direto. Feito seu problema esta resolvido.
 
-Caso o problema persista basta entrar em contato conosco para que possamos ajudar!
+Qualquer dúvida não hesite em nos contatar!
 

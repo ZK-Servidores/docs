@@ -29,5 +29,5 @@ Feito isso redefina sua steam, para isso basta digitar ****`steam://flushconfig`
 
 Depois basta reinicia seu windows e veja se seu problema foi resolvido.
 
-Caso o problema persista entre em contato conosco.
+Qualquer dúvida não hesite em nos contatar!
 
