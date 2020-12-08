@@ -18,6 +18,7 @@
   * [Servidores Surf Classic](regras-dos-servidores/servidores-surf-classic.md)
   * [Servidores JailBreak](regras-dos-servidores/servidores-jailbreak.md)
 * [❓ \| F.A.Q - BASE DE CONHECIMENTO](f.a.q-base-de-conhecimento/README.md)
+  * [Habilitando download dos Materials & Models](f.a.q-base-de-conhecimento/habilitando-download-dos-materials-and-models.md)
   * [Guia Steam](f.a.q-base-de-conhecimento/guia-steam.md)
   * [Comandos disponíveis nos servidores](f.a.q-base-de-conhecimento/comandos-disponiveis-nos-servidores.md)
   * [Como deixar o Perfil Steam & Horas do Jogo público](f.a.q-base-de-conhecimento/como-deixar-o-perfil-steam-publico.md)
