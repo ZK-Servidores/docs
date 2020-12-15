@@ -12,9 +12,10 @@ Tolerância zero com players usando qualquer programa que de vantagem em cima de
 
 Torna-se proibido:
 
-1. Utilizar qualquer tipo de BUG e/ou Glicthes nos servidores;
-2. Passar-se por qualquer player com privilégios;
-3. Abuso de MIC e/ou CHAT nos servidores;
+1. Qualquer tipo de anti-jogo;
+2. Utilizar qualquer tipo de BUG e/ou Glicthes nos servidores;
+3. Passar-se por qualquer player com privilégios;
+4. Abuso de MIC e/ou CHAT nos servidores;
 
 
 
