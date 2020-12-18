@@ -2,7 +2,9 @@
 
 Download dos arquivos personalizados em nossos servidores, tais como **Materials, Models, Sounds e etc** são feitos automaticamente assim que você se conecta em nosso servidores.
 
-Porém, como sempre, CSGO gosta de trolar os players então optamos por postar o link de todos os arquivos personalizados que usamos para que possam fazer download manualmente e enviar para o CSGO. Feito o download basta enviar para sua pasta do CSGO.
+Porém, como sempre, CSGO gosta de trolar os players então optamos por postar o link de todos os arquivos personalizados que usamos para que possam fazer download manualmente e enviar para o CSGO.
+
+Feito o download basta enviar para sua pasta do CSGO.
 
 **Link para Download:** [**https://drive.google.com/file/d/1PfZ6FcI1kcUk7FMDceOGtg1JCLPj\_Zty/view**](https://drive.google.com/file/d/1PfZ6FcI1kcUk7FMDceOGtg1JCLPj_Zty/view)\*\*\*\*
 
