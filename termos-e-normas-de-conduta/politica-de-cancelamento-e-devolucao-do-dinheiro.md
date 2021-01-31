@@ -7,5 +7,5 @@ Temos a certeza que você irá gostar de nossos privilégios, e por isso oferece
    1. Em caso de chargeback forçado player é banido permanentemente de nossos servidores;
 3. Players banidos VAC não tem direito a reembolso em hipótese alguma;
 4. Players banidos nos servidores por quebrar as **Regras** ou **Termos & Normas de Conduta** não tem direito a reembolso em hipótese alguma;
-5. Players abusando dos privilégios serão banidos temporariamente e se necessário terão os privilégios removidos e sem direito a reembolso, sob hipótese alguma como previsto em nossos **Termos & Normas de Conduta;**
+5. Players abusando dos privilégios serão banidos temporariamente e se necessário terão os privilégios removidos e sem direito a reembolso, sob hipótese alguma, como previsto em nossos **Termos & Normas de Conduta;**
 
