@@ -10,7 +10,7 @@
 
 5º - Players com privilégios advertidos pela administração ou moderação por quebrarem **Regras** ou **Termos & Normas de Conduta** devem apenas aceitar, caso retruque ou provoque mais intrigas sofrerão punições ou até mesmo perder seus privilégios.
 
-* Caso acredite que a decisão tenha sido equivocada, um erro, basta entrar em contato com algum **DONO** ou **SUB-DONO** para que possamos verificar o ocorrido.
+1. Caso acredite que a decisão tenha sido equivocada, um erro, basta entrar em contato com algum **DONO** ou **SUB-DONO** para que possamos verificar o ocorrido.
 
 6º - Players com privilégios não estão salvos das **Regras** ou **Termos & Normas de Conduta**, caso venha quebrar qualquer regra sofrerá uma punição ou até mesmo perder seus privilégios e não terão devolução do dinheiro sob hipótese alguma como previsto nos **Termos & Normas de Conduta.**
 
