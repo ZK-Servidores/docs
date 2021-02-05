@@ -19,7 +19,7 @@
   * [Servidores JailBreak](regras-dos-servidores/servidores-jailbreak.md)
 * [❓ \| F.A.Q - BASE DE CONHECIMENTO](f.a.q-base-de-conhecimento/README.md)
   * [Guia Steam](f.a.q-base-de-conhecimento/guia-steam.md)
-  * [Comandos disponíveis nos servidores](f.a.q-base-de-conhecimento/comandos-disponiveis-nos-servidores.md)
+  * [Comandos de administração](f.a.q-base-de-conhecimento/comandos-disponiveis-nos-servidores.md)
   * [Como deixar o Perfil Steam & Horas do Jogo público](f.a.q-base-de-conhecimento/como-deixar-o-perfil-steam-publico.md)
   * [Download dos arquivos personalizados em nossos servidores](f.a.q-base-de-conhecimento/download-dos-arquivos-personalizados-em-nossos-servidores.md)
   * [Habilitando download dos Materials & Models](f.a.q-base-de-conhecimento/habilitando-download-dos-materials-and-models.md)
@@ -44,6 +44,6 @@
 ## 🙋 \| SUPORTE <a id="suporte"></a>
 
 * [Discord](https://discord.gg/SQ9eVqq)
-* [Email](mailto:contato@zkservidores.com)
+* [Email](mailto:suporte@zkservidores.com)
 * [WhatsApp](https://wa.me/551146756442)
 

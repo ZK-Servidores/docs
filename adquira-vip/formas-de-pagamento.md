@@ -9,6 +9,7 @@ description: Saiba as formas de pagamentos que aceitamos.
 * Cartões de Crédito & Débito;
 * Boleto;
 * Transferência & Depósito Bancário;
+* Mercado Pago, PayPal, PagSeguro, Pix;
 * Gift Card Steam, Skins & Chaves;
   * _**Acréscimo de 15% devido as Taxas do Mercado Steam;**_
   * _**SteamGuard ativado para evitar trocas retidas;**_
