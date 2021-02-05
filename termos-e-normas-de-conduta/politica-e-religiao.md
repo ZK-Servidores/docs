@@ -1,4 +1,4 @@
 # Política & Religião
 
-Proibido discutir qualquer tema sobre política ou religião nos servidores, sob qualquer hipótese. Estamos aqui para jogar.
+1º - Proibido discutir qualquer tema sobre política ou religião nos servidores, sob qualquer hipótese, estamos aqui para jogar.
 

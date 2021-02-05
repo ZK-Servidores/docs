@@ -13,7 +13,6 @@ Saiba que sem você hoje não estaríamos aqui, obrigado por contribuir com noss
 **Segue algumas dicas para que não tenhamos problemas no futuro:**
 
 * Lembre-se, use sempre o bom-senso, trate os outros como gostaria de ser tratado;
-* \*\*\*\*[**Clique aqui**](https://docs.zkservidores.com/f.a.q-base-de-conhecimento/comandos-disponiveis-nos-servidores) para ver a lista de todos comandos em nossos servidores;
 * Nossos servidores tem hierarquias, então siga elas, tendo qualquer problema procure um player com cargo maior que o seu para que possa resolver;
 * Precisando de suporte basta entrar em contato, teremos o imenso prazer em lhe responder.
 * Tolerância zero com discursos de ódio, comportamentos racistas ou preconceituoso, tolerância zero, todos avisados.
