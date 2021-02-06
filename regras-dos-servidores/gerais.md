@@ -2,7 +2,7 @@
 
 1º - Bom senso sempre.
 
-2º - Quando for falar com alguém lembre-se de ter respeito, educação. Trate os outros como gostaria de ser tratado.
+2º - Quando for falar com alguém lembre-se de ter respeito e educação. Trate os outros como gostaria de ser tratado.
 
 3º - Fazer sempre o objetivo do mapa/modo de jogo.
 
