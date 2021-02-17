@@ -44,5 +44,4 @@
 
 * [Discord](https://discord.gg/SQ9eVqq)
 * [Email](mailto:suporte@zkservidores.com)
-* [WhatsApp](https://wa.me/551146756442)
 
