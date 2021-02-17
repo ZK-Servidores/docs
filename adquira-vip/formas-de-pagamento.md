@@ -17,7 +17,7 @@ description: Saiba as formas de pagamentos que aceitamos.
 
 Compras com cartões de crédito podem ser parceladas. ****_**\(Taxas pagas pelo comprador\)**_
 
-![Formas de Pagamento](../.gitbook/assets/formas-de-pagamento.png)
+![Formas de Pagamento](../.gitbook/assets/formas-de-pagamento%20%281%29.png)
 
 **AVISO IMPORTANTE**
 
