@@ -9,7 +9,7 @@ description: Saiba as formas de pagamentos que aceitamos.
 * Cartões de Crédito & Débito;
 * Boleto;
 * Transferência & Depósito Bancário; _**\(Banco do Brasil & Banco Inter\)**_
-* Mercado Pago, PayPal, PagSeguro, PicPay & Pix;
+* Mercado Pago, PayPal, PagSeguro, PicPay, Bitcoin & Pix;
 * Gift Card Steam, Skins & Chaves;
   * _**Acréscimo de 15% devido as Taxas do Mercado Steam;**_
   * _**SteamGuard ativado para evitar trocas retidas;**_
@@ -17,7 +17,7 @@ description: Saiba as formas de pagamentos que aceitamos.
 
 Compras com cartões de crédito podem ser parceladas. ****_**\(Taxas pagas pelo comprador\)**_
 
-![Formas de Pagamento](../.gitbook/assets/formas-de-pagamento%20%282%29.png)
+![Formas de Pagamento](../.gitbook/assets/formas-de-pagamento%20%284%29.png)
 
 **AVISO IMPORTANTE**
 
