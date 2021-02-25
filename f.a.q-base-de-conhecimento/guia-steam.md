@@ -4,5 +4,5 @@ Da uma passadinha em nosso **Guia Steam**, não esqueça de **curtir e adicionar
 
 {% embed url="https://steamcommunity.com/sharedfiles/filedetails/?id=2067409354" %}
 
-![](../.gitbook/assets/image%20%282%29.png)
+![Guia Steam](../.gitbook/assets/image%20%2811%29.png)
 
