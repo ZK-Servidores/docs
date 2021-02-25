@@ -23,7 +23,6 @@
   * [Download dos arquivos personalizados em nossos servidores](f.a.q-base-de-conhecimento/download-dos-arquivos-personalizados-em-nossos-servidores.md)
   * [Habilitando download dos Materials & Models](f.a.q-base-de-conhecimento/habilitando-download-dos-materials-and-models.md)
   * [Corrigindo erro Missing Map](f.a.q-base-de-conhecimento/corrigindo-erro-missing-map.md)
-  * [Corrigindo o erro Host\_error recursively entered](f.a.q-base-de-conhecimento/corrigindo-o-erro-host_error-recursively-entered.md)
 * [📚 \| TERMOS & NORMAS DE CONDUTA](termos-e-normas-de-conduta/README.md)
   * [Finalidade](termos-e-normas-de-conduta/finalidade.md)
   * [Legislação Brasileira](termos-e-normas-de-conduta/legislacao-brasileira.md)
