@@ -10,9 +10,9 @@ Basta ir na pasta do seu CSGO, para isso basta ir no jogo **Counter-Strike: Glob
 
 ![](../.gitbook/assets/image%20%285%29.png)
 
-Feito isso vai até a pasta **maps, `csgo/maps`**localiza o mapa que esta dando este erro e delete ele, delete também todo arquivo na pasta que tenha o mesmo nome do mapa.
+Feito isso vai até a pasta **maps, `csgo/maps`**localiza o mapa que esta dando este erro e delete ele, delete também todos arquivos na pasta que tenha o mesmo nome do mapa.
 
-Depois basta se conectar no servidor novamente e o download do mapa é feito por ele direto. Feito seu problema esta resolvido.
+Depois basta se conectar no servidor novamente e o download do mapa é feito direto. Feito seu problema esta resolvido.
 
 Qualquer dúvida não hesite em nos contatar!
 
