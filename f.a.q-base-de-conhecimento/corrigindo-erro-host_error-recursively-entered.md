@@ -69,11 +69,11 @@ _**NOTA: Comando Winsock Reset irá essencialmente redefinir configurações de 
 3. Depois de certificar-se de que todos os comandos foram processados ​​com êxito, feche o Prompt de Comando.
 4. Em seguida, reinicie o PC e depois que ele inicializar, abra o CS:GO novamente e teste-o para ver se o erro **Host\_Error Recursively Entered** ainda ocorre.
 
-#### **Limpando Cache Steam** 
+### **Limpando Cache Steam** 
 
 Lembre-se de limpar o cache steam também, para isso siga estas etapas:
 
-* Pressione a **tecla Windows + R** para abrir uma caixa de diálogo **Executar**. Depois disso, digite na caixa**`steam://flushconfig`** e pressione **Enter** para prosseguir com a ação.
+* Pressione a **tecla Windows + R** para abrir uma caixa de diálogo **Executar**. Depois disso, digite na caixa**`steam://flushconfig`**e pressione **Enter** para prosseguir com a ação.
 
 ![](../.gitbook/assets/image%20%2815%29.png)
 
