@@ -24,7 +24,7 @@
   * [Como fazer parte da Moderação](f.a.q-base-de-conhecimento/como-fazer-parte-da-moderacao.md)
   * [Corrigindo o erro Retrying Public](f.a.q-base-de-conhecimento/corrigindo-o-erro-retrying-public.md)
   * [Corrigindo o erro Host\_Error Recursively Entered](f.a.q-base-de-conhecimento/corrigindo-erro-host_error-recursively-entered.md)
-  * [Corrigindo o erro Missing Map](f.a.q-base-de-conhecimento/corrigindo-erro-missing-map.md)
+  * [Corrigindo o erro Missing Map](f.a.q-base-de-conhecimento/corrigindo-o-erro-missing-map.md)
 * [📚 \| TERMOS & NORMAS DE CONDUTA](termos-e-normas-de-conduta/README.md)
   * [Finalidade](termos-e-normas-de-conduta/finalidade.md)
   * [Legislação Brasileira](termos-e-normas-de-conduta/legislacao-brasileira.md)
