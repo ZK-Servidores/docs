@@ -9,9 +9,9 @@ Lembrando que não temos controle quanto a esses casos, quando o problema é no 
 Para tentar resolver o problema você tem duas opções:
 
 * Reiniciar seu modem e/ou roteador;
-* Atribuir o comando**`+clientport`** nas opções de arranque do CSGO;
+* Atribuir o comando**`+clientport`** nas opções de inicialização do CSGO;
 
-Para adicionar o comando nas opções de arranque do CSGO, siga este exemplo:
+Para adicionar o comando nas opções de inicialização do CSGO, siga este exemplo:
 
 ![Op&#xE7;&#xF5;es de inicializa&#xE7;&#xE3;o CSGO](../.gitbook/assets/corrigindo-o-erro-retrying-public.gif)
 
