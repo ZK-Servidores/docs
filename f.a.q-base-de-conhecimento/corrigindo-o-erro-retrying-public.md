@@ -1,4 +1,4 @@
-# Corrigindo o erro "Retrying Public"
+# Corrigindo o erro Retrying Public
 
 Isso acontece por conta das operadoras que utilizam o sistema de **CGNAT** _**\(compartilhamento de IPs\)**_. Seria como se estivesse em uma lan house e todos estivessem tentando conectar na mesma partida, o server barraria os outros 9 players por utilizarem o mesmo IP de alguém que já está lá, já esta conectado.
 

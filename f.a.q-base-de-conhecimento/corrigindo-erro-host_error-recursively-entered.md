@@ -1,4 +1,4 @@
-# Corrigindo erro Host\_Error Recursively Entered
+# Corrigindo o erro Host\_Error Recursively Entered
 
 Depois de investigar esse problema específico completamente, descobrimos que existem vários cenários diferentes em potencial que podem acionar esse código de erro específico:
 

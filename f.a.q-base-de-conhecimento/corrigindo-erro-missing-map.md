@@ -1,4 +1,4 @@
-# Corrigindo erro Missing Map
+# Corrigindo o erro Missing Map
 
 Ao tentar se conectar em nossos servidores esta recebendo o erro **Missing Map.**
 
