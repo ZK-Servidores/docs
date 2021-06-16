@@ -2,7 +2,7 @@
 
 Isso acontece por conta das operadoras que utilizam o sistema de **CGNAT** _**\(compartilhamento de IPs\)**_. Seria como se estivesse em uma lan house e todos estivessem tentando conectar na mesma partida, o server barraria os outros 9 players por utilizarem o mesmo IP de alguém que já está lá, já esta conectado.
 
- Caso o tutorial não resolva tente contatar sua provedora e verifique a possibilidade de remoção do CGNAT ou abertura de pedido para um IP fixo na residência.
+Caso o tutorial não resolva tente contatar sua provedora e verifique a possibilidade de remoção do CGNAT ou abertura de pedido para um IP fixo na residência.
 
 Lembrando que não temos controle quanto a esses casos, quando o problema é no servidor, nenhum jogador consegue se conectar à partida.
 
