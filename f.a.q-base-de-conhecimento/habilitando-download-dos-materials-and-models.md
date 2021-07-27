@@ -4,9 +4,9 @@ Em nossos servidores utilizamos **Maps, Materials & Models personalizados**, par
 
 * **cl\_allowdownload 1; cl\_allowupload 1; cl\_downloadfilter all;**
 
-Com essas configurações, seu CSGO permite a instalação de arquivos dos servidores.
+Com essas configurações, seu CSGO permite a instalação de arquivos dos servidores da comunidade.
 
-Também existem programas de terceiros que podem bloquear o download de arquivos **\(por exemplo, AC GAMERS CLUB, AC FACEIT, e outros\)**. Desconecte-os e feche antes de conectar ao servidor. Se o problema persistir, você precisará fazer o seguinte: _**Desligar o PC e reiniciar o roteador**_. 
+Também existem programas de terceiros que podem bloquear o download de arquivos **\(por exemplo, AC GAMERS CLUB, AC FACEIT, e outros\)**. Desconecte-os e feche antes de conectar ao servidor. Se o problema persistir, você precisará _**desligar o PC e reiniciar o roteador**_. 
 
 Após reiniciar o roteador, ligue o PC e reconecte ao servidor.  
   
