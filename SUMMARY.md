@@ -32,7 +32,6 @@
   * [Programas Proibidos](termos-e-normas-de-conduta/programas-proibidos.md)
   * [Trocas & Negociações](termos-e-normas-de-conduta/trocas-e-negociacoes.md)
   * [Publicidade & Propaganda](termos-e-normas-de-conduta/publicidade-e-propaganda.md)
-  * [Política & Religião](termos-e-normas-de-conduta/politica-e-religiao.md)
   * [Nomes, Nicks & Tags](termos-e-normas-de-conduta/nomes-nicks-e-tags.md)
   * [Política de Advertências & Banimentos](termos-e-normas-de-conduta/politica-de-advertencias-e-banimentos.md)
   * [Política de Cancelamento & Devolução do Dinheiro](termos-e-normas-de-conduta/politica-de-cancelamento-e-devolucao-do-dinheiro.md)
