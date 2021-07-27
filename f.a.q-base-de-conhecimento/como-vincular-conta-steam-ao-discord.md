@@ -4,3 +4,7 @@ Basta acessar a configurações de seu Discord, depois ir na opção **Conexões
 
 ![](../.gitbook/assets/image%20%2819%29.png)
 
+Feito isso só seguir os passos que vai pedir e sua conta steam vai estar vinculada ao Discord.
+
+Tendo qualquer dúvida não hesite em nos contatar!
+
