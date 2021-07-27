@@ -22,7 +22,6 @@
   * [Como deixar o Perfil Steam & Horas do Jogo público](f.a.q-base-de-conhecimento/como-deixar-o-perfil-steam-publico.md)
   * [Como vincular conta Steam ao Discord](f.a.q-base-de-conhecimento/como-vincular-conta-steam-ao-discord.md)
   * [Habilitando download dos Maps, Materials & Models](f.a.q-base-de-conhecimento/habilitando-download-dos-materials-and-models.md)
-  * [Como fazer parte da Moderação](f.a.q-base-de-conhecimento/como-fazer-parte-da-moderacao.md)
   * [Corrigindo o erro Retrying Public](f.a.q-base-de-conhecimento/corrigindo-o-erro-retrying-public.md)
   * [Corrigindo o erro Host\_Error Recursively Entered](f.a.q-base-de-conhecimento/corrigindo-o-erro-host_error-recursively-entered.md)
   * [Corrigindo o erro Missing Map](f.a.q-base-de-conhecimento/corrigindo-o-erro-missing-map.md)
