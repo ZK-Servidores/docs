@@ -4,7 +4,7 @@
 
 ## 🌟 \| ADQUIRA VIP <a id="adquira-vip"></a>
 
-* [Adquira VIP](https://discord.gg/SQ9eVqq)
+* [Adquira VIP](https://zkservidores.com/discord)
 * [Formas de Pagamento](adquira-vip/formas-de-pagamento.md)
 * [Dicas para players com privilégios](adquira-vip/dicas-para-players-com-privilegios.md)
 
@@ -42,6 +42,6 @@
 
 ## 🙋 \| SUPORTE <a id="suporte"></a>
 
-* [Discord](https://discord.gg/SQ9eVqq)
+* [Discord](https://zkservidores.com/discord)
 * [Email](mailto:suporte@zkservidores.com)
 
