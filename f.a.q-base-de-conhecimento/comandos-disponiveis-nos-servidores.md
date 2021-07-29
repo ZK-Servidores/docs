@@ -1,4 +1,4 @@
-# Comandos de administração
+# Comandos de Administração
 
 Segue a lista de comandos que nossa administração pode usar para controlar os servidores:
 
