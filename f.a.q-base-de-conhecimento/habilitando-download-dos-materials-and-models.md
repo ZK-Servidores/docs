@@ -1,8 +1,10 @@
 # Habilitando download dos Maps, Materials & Models
 
-Em nossos servidores utilizamos **Maps, Materials & Models personalizados**, para que não haja erros em seu CSGO quando for se conectar em nossos servidores você deve ter habilitado os seguintes comandos no console do seu jogo:
+Em nossos servidores utilizamos **Maps, Materials & Models personalizados**, para que não haja erros em seu CSGO quando for se conectar em nossos servidores você deve ter habilitado os seguintes comandos no console do seu jogo **\(**_**Digite um por um desses comandos em seu console do jogo**_**\)**:
 
-* **cl\_allowdownload 1; cl\_allowupload 1; cl\_downloadfilter all;**
+* **cl\_allowdownload 1;**
+* **cl\_allowupload 1;**
+* **cl\_downloadfilter all;**
 
 Com essas configurações, seu CSGO permite a instalação de arquivos dos servidores da comunidade.
 
