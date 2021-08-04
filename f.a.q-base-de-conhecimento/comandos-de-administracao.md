@@ -18,6 +18,7 @@ Segue a lista de comandos que nossa administração pode usar para controlar os 
   * **1 = SPEC**
   * **2 = TERRORISTA**
   * **3 = CONTRA-TERRORISTA**
+* **`!pw "SENHA"`** - Colocar senha no servidor; **\(Senha sempre será removida automaticamente quando alterar o mapa\)**
 
 Todos esses comandos estão no **Menu Administrativo**, para acessar basta digitar no chat **`!admin`**.
 
