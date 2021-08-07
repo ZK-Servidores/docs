@@ -1,14 +1,14 @@
 # VIP & PREMIUM
 
-1º - Único player autorizado a vender **VIP** são os **DONO & MANAGER** e pelos sites e redes sociais oficias da **ZK Servidores™**, qualquer outro player que lhe oferecer está tentando lhe enganar.
+1º - Único player autorizado a vender **VIP & PREMIUM** são os **DONO & MANAGER** e pelos sites e redes sociais oficias da **ZK Servidores™**, qualquer outro player que lhe oferecer está tentando lhe enganar.
 
 1. Recomendamos sempre entrar em contato pelo nosso [**Discord Oficial**](https://zkservidores.com/discord), assim podemos garantir a segurança em sua compra.
 2. Para identificar um **DONO ou MANAGER** basta verificar se o mesmo tem umas das TAGS em nossos servidores.
-3. Caso aconteça de alguém está se passando por um **DONO** ou **MANAGER**, ou vendendo VIP sem autorização ou permissão entre em contato conosco e nos informem para que possamos aplicar a punição adequada ao player.
+3. Caso aconteça de alguém está se passando por um **DONO** ou **MANAGER**, ou vendendo **VIP & PREMIUM** sem autorização ou permissão entre em contato conosco e nos informem para que possamos aplicar a punição adequada ao player.
 
-2º - Nos reservamos no direito de fazer qualquer alteração/remoção nos privilégios do VIP se acharmos necessário.
+2º - Nos reservamos no direito de fazer qualquer alteração/remoção nos privilégios do **VIP & PREMIUM** se acharmos necessário.
 
-3º - VIP tem prazo de **1 mês** _**\(30 dias\)**_ ou de acordo com o plano contratado pelo player, depois disso deve ser adquirido novamente ou terão seus privilégios removidos.
+3º - **VIP & PREMIUM** tem prazo de **1 mês** _**\(30 dias\)**_ ou de acordo com o plano contratado pelo player, depois disso deve ser adquirido novamente ou terão seus privilégios removidos.
 
 4º - Qualquer pagamento acima ou abaixo do valor especificado nos planos existentes, sem aviso prévio ou combinado, será considerado como uma doação.
 
