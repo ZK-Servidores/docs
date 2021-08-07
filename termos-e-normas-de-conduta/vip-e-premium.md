@@ -1,10 +1,10 @@
-# VIP
+# VIP & PREMIUM
 
-1º - Único player autorizado a vender **VIP** são os DONOS e SUB-DONOS e pelos sites e redes sociais oficias da **ZK Servidores™**, qualquer outro player que lhe oferecer está tentando lhe enganar.
+1º - Único player autorizado a vender **VIP** são os **DONO & MANAGER** e pelos sites e redes sociais oficias da **ZK Servidores™**, qualquer outro player que lhe oferecer está tentando lhe enganar.
 
 1. Recomendamos sempre entrar em contato pelo nosso [**Discord Oficial**](https://zkservidores.com/discord), assim podemos garantir a segurança em sua compra.
-2. Para identificar um DONO ou SUB-DONO basta verificar se o mesmo tem umas das TAGS em nossos servidores.
-3. Caso aconteça de alguém está se passando por um DONO ou SUB-DONO, ou vendendo VIP sem autorização ou permissão entre em contato conosco e nos informem para que possamos aplicar a punição adequada ao player.
+2. Para identificar um **DONO ou MANAGER** basta verificar se o mesmo tem umas das TAGS em nossos servidores.
+3. Caso aconteça de alguém está se passando por um **DONO** ou **MANAGER**, ou vendendo VIP sem autorização ou permissão entre em contato conosco e nos informem para que possamos aplicar a punição adequada ao player.
 
 2º - Nos reservamos no direito de fazer qualquer alteração/remoção nos privilégios do VIP se acharmos necessário.
 

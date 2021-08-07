@@ -36,7 +36,7 @@
   * [Nomes, Nicks & Tags](termos-e-normas-de-conduta/nomes-nicks-e-tags.md)
   * [Política de Advertências & Banimentos](termos-e-normas-de-conduta/politica-de-advertencias-e-banimentos.md)
   * [Política de Cancelamento & Devolução do Dinheiro](termos-e-normas-de-conduta/politica-de-cancelamento-e-devolucao-do-dinheiro.md)
-  * [VIP](termos-e-normas-de-conduta/vip.md)
+  * [VIP & PREMIUM](termos-e-normas-de-conduta/vip-e-premium.md)
   * [Conduta de Players com Privilégios](termos-e-normas-de-conduta/conduta-de-players-com-privilegios.md)
   * [Denúncias](termos-e-normas-de-conduta/denuncias.md)
   * [Considerações Finais](termos-e-normas-de-conduta/consideracoes-finais.md)
