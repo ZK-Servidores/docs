@@ -46,5 +46,5 @@
 ## 🙋 \| SUPORTE <a id="suporte"></a>
 
 * [Discord](https://zkservidores.com/discord)
-* [Email](mailto:suporte@zkservidores.com)
+* [Email](mailto:contato@zkservidores.com)
 
