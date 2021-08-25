@@ -21,7 +21,7 @@ Compras com cartões de crédito podem ser parceladas. ****_**\(Taxas pagas pelo
 
 **AVISO IMPORTANTE**
 
-Depois de efetuar o pagamento basta entrar em contato com algum **DONO** ou **SUB-DONO** para ativação dos privilégios. 
+Depois de efetuar o pagamento basta entrar em contato com algum **DONO** ou **MANAGER** para ativação dos privilégios. 
 
 Lembre-se de enviar o comprovante de pagamento, sem ele a ativação dos privilégios não é feita em hipótese alguma.
 
