@@ -1,4 +1,4 @@
-# Corrigindo erro Retrying Public
+# Corrigindo erro Host\_Error: recursively entered
 
 Depois de investigar esse problema específico completamente, descobrimos que existem vários cenários diferentes em potencial que podem acionar esse código de erro específico:
 

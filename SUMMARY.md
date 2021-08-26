@@ -27,7 +27,7 @@
   * [Corrigindo erro de download de mapas](f.a.q-base-de-conhecimento/corrigindo-erro-de-download-de-mapas.md)
   * [Corrigindo erro Missing Map](f.a.q-base-de-conhecimento/corrigindo-erro-missing-map.md)
   * [Corrigindo erro Retrying Public](f.a.q-base-de-conhecimento/corrigindo-erro-retrying-public.md)
-  * [Corrigindo erro Retrying Public](f.a.q-base-de-conhecimento/corrigindo-erro-retrying-public-1.md)
+  * [Corrigindo erro Host\_Error: recursively entered](f.a.q-base-de-conhecimento/corrigindo-erro-host-error-recursively-entered.md)
 * [📚 \| TERMOS & NORMAS DE CONDUTA](termos-e-normas-de-conduta/README.md)
   * [Finalidade](termos-e-normas-de-conduta/finalidade.md)
   * [Legislação Brasileira](termos-e-normas-de-conduta/legislacao-brasileira.md)
