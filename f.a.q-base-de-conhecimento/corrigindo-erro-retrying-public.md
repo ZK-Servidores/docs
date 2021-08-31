@@ -16,6 +16,6 @@ Para adicionar o comando nas opções de inicialização do CSGO, siga este exem
 ![Op&#xE7;&#xF5;es de inicializa&#xE7;&#xE3;o CSGO](../.gitbook/assets/corrigindo-o-erro-retrying-public.gif)
 
 * Abra a biblioteca de jogos na Steam e clique com o botão direito no **Counter-Strike: Global Offensive** e escolha a opção **Propriedades,** depois vá em **Opções de inicialização**.
-* Adicione o comando **`+clientport XX0YY`** no lugar do **XX** coloque um numero entre 20 e 50 e no lugar do **YY** coloque um numero entre 0 e 99.
+* Adicione o comando **`+clientport XX0YY`** no lugar do **XX** coloque um numero entre 20 e 50 e no lugar do **YY** coloque um numero entre 0 e 99. **Exemplo: `+clientport 27085`**
 * Depois abra o CSGO e tente novamente se conectar no servidor.
 
