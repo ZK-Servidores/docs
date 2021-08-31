@@ -4,7 +4,7 @@ Caso esteja tendo problemas de Loos & Choke alto nos servidores primeiro de tudo
   
 Para isso basta ir em **Configurações em seu CSGO,** opção **Jogo** e na opção de **Largura de banda máxima aceitável** configurei como **Irrestrita**
 
-![Configurando largura de banda m&#xE1;xima aceit&#xE1;vel como Irrestrita](../../.gitbook/assets/image%20%2822%29.png)
+![Configurando largura de banda m&#xE1;xima aceit&#xE1;vel como Irrestrita](../.gitbook/assets/image%20%2822%29.png)
 
 Caso o problema continue pedimos que entre em contato conosco para que possamos pegar mais informações com você e realizar testes junto com a host para verificar sua conexão com nossos servidores.
 
