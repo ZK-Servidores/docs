@@ -14,6 +14,6 @@
 
 5º - Caso acredite que a decisão tenha sido equivocada, um erro seu banimento, entre em contato conosco**,** assim podemos verificar o ocorrido e corrigir se necessário.
 
-* Lembre-se, você esta entrando em contato para que possamos verificar o banimento, então trate os outros como gostaria de ser tratado;
-* Qualquer tipo de ofensa, ameaças o contato é desconsiderado na hora e seu banimento continua;
+1. Lembre-se, você esta entrando em contato para que possamos verificar o banimento, então trate os outros como gostaria de ser tratado;
+2. Qualquer tipo de ofensa, ameaças o contato é desconsiderado na hora e seu banimento continua;
 
