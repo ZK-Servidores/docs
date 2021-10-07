@@ -4,13 +4,16 @@
 
 2º - Seguimos a seguinte tabela com [**Advertências & Tempo de Banimentos**](http://bit.ly/337uhTG) quando players não seguem as regras.
 
-![](../.gitbook/assets/image%20%2821%29.png)
+![](../.gitbook/assets/image%20%2824%29.png)
 
 3º - Lembre-se, em algumas circunstâncias o banimento pode ser aplicado direto dependendo da ocorrência ou gravidade da situação.
 
-4º - Não temos obrigação nenhuma der fornecer provas de que você estava quebrando qualquer uma de nossas regras, se você foi banido pode ter certeza que violou alguma. Lembre-se, nossos servidores não é um espaço público, você jogar neles é apenas uma cortesia nossa para a comunidade.
+4º - Não fornecemos provas de que você estava quebrando qualquer uma de nossas regras, se você foi banido pode ter certeza que violou alguma.
 
-1. Caso acredite que a decisão tenha sido equivocada, um erro, basta entrar em contato conosco**,** assim podemos verificar o ocorrido e corrigir se necessário;
-2. Lembre-se, você esta entrando em contato para que possa verificar o banimento, então trate os outros como gostaria de ser tratado;
-3. Qualquer tipo de ofensa, ameaças o contato é desconsiderado na hora e seu banimento continua;
+1. Caso tenha privilégios em nossos servidores e foi banido entre em contato conosco, fornaceremos mais informações sobre seu banimento. Tendo privilégios você tem o direito de saber o motivo e em caso de ser banido por hacker ver uma prova disso.
+
+5º - Caso acredite que a decisão tenha sido equivocada, um erro seu banimento, entre em contato conosco**,** assim podemos verificar o ocorrido e corrigir se necessário.
+
+* Lembre-se, você esta entrando em contato para que possamos verificar o banimento, então trate os outros como gostaria de ser tratado;
+* Qualquer tipo de ofensa, ameaças o contato é desconsiderado na hora e seu banimento continua;
 
