@@ -18,11 +18,10 @@ Segue a lista de comandos que nossa administração pode usar para controlar os 
   * **1 = SPEC**
   * **2 = TERRORISTA**
   * **3 = CONTRA-TERRORISTA**
-* **`!pw "SENHA"`** - Coloca senha no servidor; **\(Senha sempre será removida automaticamente quando alterar o mapa\)**
+* **`!pw "SENHA"` **- Coloca senha no servidor; **(Senha sempre será removida automaticamente quando alterar o mapa)**
 
 Todos esses comandos estão no **Menu Administrativo**, para acessar basta digitar no chat **`!admin`**.
 
 _**OBS: Alguns desses comandos exigem o cargo de ADMIN e/ou MOD para serem usados.**_
 
-Lembramos que estes comandos só devem ser usado caso um player quebre nossas [**Regras**](https://docs.zkservidores.com/regras-dos-servidores), ****qualquer tipo de abuso o player está sujeito a perder os privilégios.
-
+Lembramos que estes comandos só devem ser usado caso um player quebre nossas [**Regras**](https://docs.zkservidores.com/regras-dos-servidores),** **qualquer tipo de abuso o player está sujeito a perder os privilégios.

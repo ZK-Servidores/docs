@@ -4,6 +4,5 @@
 
 2º - Torna-se proibido:
 
-1. Usar qualquer meio de comunicação para passar informações do game _**- CALL**_;
+1. Usar qualquer meio de comunicação para passar informações do game_** - CALL**_;
 2. Atrapalhar, trolar o game dos demais players;
-

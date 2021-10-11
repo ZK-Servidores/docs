@@ -37,7 +37,7 @@
   * [Trocas & Negociações](termos-e-normas-de-conduta/trocas-e-negociacoes.md)
   * [Publicidade & Propaganda](termos-e-normas-de-conduta/publicidade-e-propaganda.md)
   * [Nomes, Nicks & Tags](termos-e-normas-de-conduta/nomes-nicks-e-tags.md)
-  * [Contas Smurf & Perfil Privado](termos-e-normas-de-conduta/contas-smurf-and-perfil-privados.md)
+  * [Contas Smurf & Perfil Privado](termos-e-normas-de-conduta/contas-smurf-and-perfil-privado.md)
   * [Política de Advertências & Banimentos](termos-e-normas-de-conduta/politica-de-advertencias-e-banimentos.md)
   * [Política de Cancelamento & Devolução do Dinheiro](termos-e-normas-de-conduta/politica-de-cancelamento-e-devolucao-do-dinheiro.md)
   * [VIP & PREMIUM](termos-e-normas-de-conduta/vip-e-premium.md)
