@@ -1,10 +1,9 @@
-# Contas Smurf & Perfil Privados
+# Contas Smurf & Perfil Privado
 
-1º - Se você está em uma conta smurf ou em uma conta com perfil privado sem privilégios, você não está salvo de ser banido sem ter provas.
+1º - Se você está em uma conta smurf ou jogando em uma conta de perfil privado sem privilégios em nossos servidores, você não está seguro de ser banido sem uma prova.
 
-1. Apenas por ser suspeito de trapaça, você pode ser banido por um administrador. Não estamos gastando nosso tempo para coletar evidências para essas contas smurf ou com perfil privados.
+2º - Apenas por ser suspeito de trapaça, você pode ser banido por um administrador. Não estamos gastando nosso tempo para coletar evidências para essas contas.
 
-3º -  Se você foi banido e sua conta é privada, você pode solicitar unban depois de deixar seu perfil público ou se tiver privilégios em nossos servidores.
+3º - Se você foi banido e sua conta é privada, você pode solicitar a verificação do ban depois que deixar público seu perfil steam ou se tem privilégios em nossos servidores.
 
-4º -  Como os players com privilégios ajudam financeiramente os servidores, eles podem jogar em contas smurf ou com perfil privado. No entanto, eles não estão isentos de receber um ban, desde que tenhamos provas completas de trapaça.
-
+4º - Como os players com privilégios contribuiem para manter os servidores online, eles podem jogar em contas smurfs ou com perfil privado. No entanto, eles não estão isentos de receber uma punição, desde que tenhamos provas completas de trapaça ou que esteja quebrando nossas Regras.
