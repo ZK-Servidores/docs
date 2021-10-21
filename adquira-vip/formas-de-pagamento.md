@@ -4,6 +4,8 @@ description: Saiba as formas de pagamentos que aceitamos.
 
 # Formas de Pagamento
 
+![](<../.gitbook/assets/image (25).png>)
+
 **Aceitamos as seguintes formas de pagamento:**
 
 * Cartões de Crédito & Débito;
@@ -17,11 +19,9 @@ description: Saiba as formas de pagamentos que aceitamos.
 
 Compras com cartões de crédito podem ser parceladas.** **_**(Taxas pagas pelo comprador)**_
 
-![Formas de Pagamento](<../.gitbook/assets/formas-de-pagamento (4).png>)
+### **AVISO IMPORTANTE**
 
-**AVISO IMPORTANTE**
-
-Depois de efetuar o pagamento basta entrar em contato com algum **DONO** ou **MANAGER** para ativação dos privilégios. 
+Depois de efetuar o pagamento basta entrar em contato com algum **DONO** ou **MANAGER** para ativação dos privilégios.&#x20;
 
 Lembre-se de enviar o comprovante de pagamento, sem ele a ativação dos privilégios não é feita em hipótese alguma.
 

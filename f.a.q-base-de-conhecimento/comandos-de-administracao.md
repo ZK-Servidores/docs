@@ -19,6 +19,7 @@ Segue a lista de comandos que nossa administração pode usar para controlar os 
   * **2 = TERRORISTA**
   * **3 = CONTRA-TERRORISTA**
 * **`!pw "SENHA"` **- Coloca senha no servidor; **(Senha sempre será removida automaticamente quando alterar o mapa)**
+* **`!hide` - **Player fica invisivel no modo spectador para tela players;&#x20;
 
 Todos esses comandos estão no **Menu Administrativo**, para acessar basta digitar no chat **`!admin`**.
 

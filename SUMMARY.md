@@ -11,23 +11,23 @@
 ***
 
 * [📕 | REGRAS DOS SERVIDORES](regras-dos-servidores/README.md)
-  * [Regras Gerais](regras-dos-servidores/regras-gerais.md)
   * [Servidores Competitivo](regras-dos-servidores/servidores-competitivo.md)
   * [Servidores Retake](regras-dos-servidores/servidores-retake.md)
   * [Servidores DeathMatch FFA](regras-dos-servidores/servidores-deathmatch-ffa.md)
   * [Servidores Arena 1v1](regras-dos-servidores/servidores-arena-1v1.md)
   * [Servidores AWP Only](regras-dos-servidores/servidores-awp-only.md)
   * [Servidores Surf Classic](regras-dos-servidores/servidores-surf-classic.md)
+  * [Servidores JailBreak](regras-dos-servidores/servidores-jailbreak.md)
 * [❓ | F.A.Q - BASE DE CONHECIMENTO](f.a.q-base-de-conhecimento/README.md)
   * [Guia Steam](f.a.q-base-de-conhecimento/guia-steam.md)
   * [Comandos de Administração](f.a.q-base-de-conhecimento/comandos-de-administracao.md)
   * [Como deixar o Perfil Steam & Horas do Jogo público](f.a.q-base-de-conhecimento/como-deixar-o-perfil-steam-e-horas-do-jogo-publico.md)
   * [Como vincular conta Steam ao Discord](f.a.q-base-de-conhecimento/como-vincular-conta-steam-ao-discord.md)
   * [Habilitando download dos Maps, Materials & Models](f.a.q-base-de-conhecimento/habilitando-download-dos-materials-e-models.md)
-  * [Corrigindo erro de download de mapas](f.a.q-base-de-conhecimento/corrigindo-erro-de-download-de-mapas.md)
+  * [Corrigindo erro de download de mapas grandes](f.a.q-base-de-conhecimento/corrigindo-erro-de-download-de-mapas.md)
   * [Corrigindo erro Missing Map](f.a.q-base-de-conhecimento/corrigindo-erro-missing-map.md)
   * [Corrigindo erro Retrying Public](f.a.q-base-de-conhecimento/corrigindo-erro-retrying-public.md)
-  * [Corrigindo erro Host_Error: recursively entered](f.a.q-base-de-conhecimento/corrigindo-erro-host-error-recursively-entered.md)
+  * [Corrigindo erro Host\_Error: recursively entered](f.a.q-base-de-conhecimento/corrigindo-erro-host-error-recursively-entered.md)
   * [Corrigindo problemas de Loos & Choke alto nos servidores](f.a.q-base-de-conhecimento/corrigindo-problemas-de-loos-and-choke-alto-nos-servidores.md)
 * [📚 | TERMOS & NORMAS DE CONDUTA](termos-e-normas-de-conduta/README.md)
   * [Finalidade](termos-e-normas-de-conduta/finalidade.md)
@@ -48,4 +48,5 @@
 ## 🙋 | SUPORTE <a href="suporte" id="suporte"></a>
 
 * [Discord](https://zkservidores.com/discord)
+* [WhatsApp](https://zkservidores.com/whatsapp)
 * [Email](mailto:contato@zkservidores.com)

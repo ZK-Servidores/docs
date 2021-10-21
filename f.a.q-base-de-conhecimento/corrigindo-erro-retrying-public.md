@@ -13,7 +13,7 @@ Para tentar resolver o problema você tem duas opções:
 
 Para adicionar o comando nas opções de inicialização do CSGO, siga este exemplo:
 
-![Opções de inicialização CSGO](../.gitbook/assets/corrigindo-o-erro-retrying-public.gif)
+![Opções de inicialização CSGO](<../.gitbook/assets/Corrigindo o erro Retrying Public.gif>)
 
 * Abra a biblioteca de jogos na Steam e clique com o botão direito no **Counter-Strike: Global Offensive** e escolha a opção **Propriedades, **depois vá em **Opções de inicialização**.
 * Adicione o comando **`+clientport XX0YY`** no lugar do **XX** coloque um numero entre 20 e 50 e no lugar do **YY** coloque um numero entre 0 e 99. **Exemplo: `+clientport 27085`**
