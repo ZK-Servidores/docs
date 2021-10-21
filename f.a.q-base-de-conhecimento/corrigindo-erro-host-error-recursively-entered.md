@@ -7,7 +7,7 @@ Depois de investigar esse problema específico completamente, descobrimos que ex
 * **Dados TCP / IP inconsistentes** - Um cache DNS mal armazenado ou um problema com os dados TCP ou IP também pode produzir esse erro específico quando você tenta ingressar em jogos online fora de sua rede local. Nesse caso, você deve ser capaz de resolver o problema realizando uma redefinição do Winsock e liberando os flushing DNS.
 * **Dados de cache do Steam mal armazenados** - De acordo com alguns usuários afetados, esse problema também pode aparecer se você estiver lidando com um caso de dados mal armazenados em cache atualmente armazenados pela Steam. Nesse caso, limpar a configuração da Steam permitirá que você resolva o problema na maioria dos casos.
 
-Agora que você está ciente dos cenários possíveis, aqui está uma lista de métodos que podem ajudá-lo a corrigir o **Host\_Error: recursively entered** ao iniciar o Counter-Strike: Global Offensive:
+Agora que você está ciente dos cenários possíveis, aqui está uma lista de métodos que podem ajudá-lo a corrigir o **Host\_Error: recursively entered** ao iniciar o Counter-Strike: Global Offensive.
 
 ### **Método 1 - Verificar integridade dos arquivos CSGO via Steam**
 
@@ -41,7 +41,7 @@ Aqui estão as etapas para excluir o mapa dos arquivos do jogo:
 ![](<../.gitbook/assets/image (16).png>)
 
 * Acesse a pasta de mapas e, nessa lista de mapas, pesquise o mapa específico que está no servidor ao qual você está tentando ingressar.
-* Depois de localizar o mapa, exclua-o clicando com o botão direito no arquivo e escolhendo **Excluir** no menu de contexto.
+* Depois de localizar o mapa delete o mesmo da pasta. _**(Recomendamos deletar todos arquivos que tenham o nome do mapa na pasta)**_
 * Em seguida, abra o CS:GO e tente entrar no servidor novamente para ver se ainda encontra o erro.
 
 Se esta solução também não resolveu o seu problema, verifique abaixo o próximo.
@@ -72,11 +72,11 @@ _**NOTA: Comando Winsock Reset irá essencialmente redefinir configurações de 
 
 Lembre-se de limpar o cache steam também, para isso siga estas etapas:
 
-* Pressione a tecla **Windows + R** para abrir uma caixa de diálogo **Executar**. Depois disso, digite na caixa**`steam://flushconfig`**e pressione **Enter** para prosseguir com a ação.
+* Pressione a tecla **Windows + R** para abrir uma caixa de diálogo **Executar**. Depois disso, digite na caixa **`steam://flushconfig` **e pressione **Enter** para prosseguir com a ação.
 
 ![](<../.gitbook/assets/image (17).png>)
 
-* Depois que a janela **Limpar cache de download **for** **exibida na tela, clique em **OK** para limpar o cache de download local.
+* Depois que a janela **Steam - Limpar dados de download **for** **exibida na tela, clique em **OK** para limpar o cache de download local.
 
 ![](<../.gitbook/assets/image (18).png>)
 
