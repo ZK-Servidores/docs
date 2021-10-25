@@ -20,7 +20,6 @@
   * [Servidores JailBreak](regras-dos-servidores/servidores-jailbreak.md)
 * [❓ | F.A.Q - BASE DE CONHECIMENTO](f.a.q-base-de-conhecimento/README.md)
   * [Guia Steam](f.a.q-base-de-conhecimento/guia-steam.md)
-  * [Comandos de Administração](f.a.q-base-de-conhecimento/comandos-de-administracao.md)
   * [Como deixar o Perfil Steam & Horas do Jogo público](f.a.q-base-de-conhecimento/como-deixar-o-perfil-steam-e-horas-do-jogo-publico.md)
   * [Como vincular conta Steam ao Discord](f.a.q-base-de-conhecimento/como-vincular-conta-steam-ao-discord.md)
   * [Habilitando download dos Maps, Materials & Models](f.a.q-base-de-conhecimento/habilitando-download-dos-materials-e-models.md)
