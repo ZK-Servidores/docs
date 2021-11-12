@@ -17,11 +17,11 @@ description: Saiba as formas de pagamentos que aceitamos.
   * _**SteamGuard ativado para evitar trocas retidas;**_
   * _**Máximo de 5 skins por trade;**_
 
-Compras com cartões de crédito podem ser parceladas.** **_**(Taxas pagas pelo comprador)**_
+Compras com cartões de crédito podem ser parceladas._**(Taxas pagas pelo comprador)**_
 
 ### **AVISO IMPORTANTE**
 
-Depois de efetuar o pagamento basta entrar em contato com algum **DONO** ou **MANAGER** para ativação dos privilégios.&#x20;
+Depois de efetuar o pagamento basta entrar em contato com algum **DONO** ou **MANAGER** para ativação dos privilégios.
 
 Lembre-se de enviar o comprovante de pagamento, sem ele a ativação dos privilégios não é feita em hipótese alguma.
 
