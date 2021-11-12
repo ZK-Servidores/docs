@@ -6,5 +6,5 @@
 
 1. Camperar; _**(+15 segundos)**_
 2. Matar na área de buyzone ou áreas consideradas buyzone;
-3. Usar qualquer meio de comunicação para passar informações do game_** - CALL**_;
+3. Usar qualquer meio de comunicação para passar informações do game -** CALL**;
 4. Atrapalhar, trolar o game dos demais players;

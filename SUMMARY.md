@@ -29,7 +29,6 @@
   * [Corrigindo erro Host\_Error: recursively entered](f.a.q-base-de-conhecimento/corrigindo-erro-host-error-recursively-entered.md)
   * [Corrigindo problemas de Loos & Choke alto nos servidores](f.a.q-base-de-conhecimento/corrigindo-problemas-de-loos-and-choke-alto-nos-servidores.md)
 * [📚 | TERMOS & NORMAS DE CONDUTA](termos-e-normas-de-conduta/README.md)
-  * [Finalidade](termos-e-normas-de-conduta/finalidade.md)
   * [Legislação Brasileira](termos-e-normas-de-conduta/legislacao-brasileira.md)
   * [Anti-Cheats](termos-e-normas-de-conduta/anti-cheats.md)
   * [Programas Proibidos](termos-e-normas-de-conduta/programas-proibidos.md)
