@@ -9,12 +9,12 @@ Lembrando que não temos controle quanto a esses casos, quando o problema é no 
 Para tentar resolver o problema você tem duas opções:
 
 * Reiniciar seu modem e/ou roteador;
-* Atribuir o comando**`+clientport`** nas opções de inicialização do CSGO;
+* Atribuir o comando **`+clientport`** nas opções de inicialização do CSGO;
 
 Para adicionar o comando nas opções de inicialização do CSGO, siga este exemplo:
 
 ![Opções de inicialização CSGO](<../.gitbook/assets/Corrigindo o erro Retrying Public.gif>)
 
-* Abra a biblioteca de jogos na Steam e clique com o botão direito no **Counter-Strike: Global Offensive** e escolha a opção **Propriedades, **depois vá em **Opções de inicialização**.
+* Abra a biblioteca de jogos na Steam e clique com o botão direito no **Counter-Strike: Global Offensive** e escolha a opção **Propriedades**, depois vá em **Opções de inicialização**.
 * Adicione o comando **`+clientport XX0YY`** no lugar do **XX** coloque um numero entre 20 e 50 e no lugar do **YY** coloque um numero entre 0 e 99. **Exemplo: `+clientport 27085`**
 * Depois abra o CSGO e tente novamente se conectar no servidor.
