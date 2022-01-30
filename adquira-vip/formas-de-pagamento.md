@@ -10,7 +10,7 @@ description: Saiba as formas de pagamentos que aceitamos.
 
 * Cartões de Crédito & Débito;
 * Boleto;
-* Transferência & Depósito Bancário; _**(Banco do Brasil & Banco Inter)**_
+* Transferência & Depósito Bancário;
 * Mercado Pago, PayPal, PagSeguro, PicPay, Bitcoin & Pix;
 * Gift Card Steam, Skins & Chaves;
   * _**Acréscimo de 15% devido as Taxas do Mercado Steam;**_
@@ -21,7 +21,7 @@ Compras com cartões de crédito podem ser parceladas._**(Taxas pagas pelo compr
 
 ### **AVISO IMPORTANTE**
 
-Depois de efetuar o pagamento basta entrar em contato com algum **DONO** ou **MANAGER** para ativação dos privilégios.
+Depois de efetuar o pagamento basta entrar em contato com algum **DONO** ou **SUB-DONO** para ativação dos privilégios.
 
 Lembre-se de enviar o comprovante de pagamento, sem ele a ativação dos privilégios não é feita em hipótese alguma.
 

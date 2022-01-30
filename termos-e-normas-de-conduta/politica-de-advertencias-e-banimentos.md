@@ -10,7 +10,7 @@
 
 4º - Não fornecemos provas de que você estava quebrando qualquer uma de nossas regras, se você foi banido pode ter certeza que violou alguma.
 
-1. Caso tenha privilégios em nossos servidores e foi banido entre em contato conosco, fornaceremos mais informações sobre seu banimento. Tendo privilégios você tem o direito de saber o motivo e em caso de ser banido por hacker ver uma prova disso.
+1. Caso tenha privilégios em nossos servidores e foi banido entre em contato conosco, forneceremos mais informações sobre seu banimento. Tendo privilégios você tem o direito de saber o motivo e em caso de ser banido por hack ver uma prova disso.
 
 5º - Caso acredite que a decisão tenha sido equivocada, um erro seu banimento, entre em contato conosco, assim podemos verificar o ocorrido e corrigir se necessário.
 

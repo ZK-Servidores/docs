@@ -10,7 +10,4 @@
 
 5º - Players com privilégios advertidos pela administração ou moderação por quebrarem regras devem apenas aceitar, caso retruque ou provoque mais intrigas sofrerão punições ou até mesmo perder seus privilégios. Temos hierarquias, respeite e pronto.
 
-1. Caso acredite que a decisão tenha sido equivocada, um erro, basta entrar em contato conosco, assim podemos verificar o ocorrido e corrigir se necessário;
-2. Lembre-se, trate os outros como gostaria de ser tratado, qualquer tipo de ofensa, ameaças o contato é desconsiderado na hora;
-
-6º - Players com privilégios não estão salvos regras, caso venha quebrar qualquer regra sofrerá uma punição ou até mesmo perder seus privilégios e não terão devolução do dinheiro sob hipótese alguma como previsto nos **Termos & Normas de Conduta.**
+6º - Players com privilégios não estão salvos das regras, caso venha quebrar qualquer regra sofrerá uma punição ou até mesmo perder seus privilégios e não terão devolução do dinheiro sob hipótese alguma como previsto nos **Termos & Normas de Conduta.**

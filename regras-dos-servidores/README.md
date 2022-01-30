@@ -8,11 +8,13 @@
 
 4º - Tolerância zero com discursos de ódio, comportamentos racistas ou preconceituoso, tolerância zero, todos avisados.
 
+1. Linguagem obscenas são permitidas, de forma não ofensiva.
+
 5º - Tolerância zero com players usando qualquer programa que de vantagem em cima de outros players, tolerância zero, todos avisados.
 
 6º - Torna-se proibido:
 
 1. Qualquer tipo de anti-jogo;
 2. Abusar de qualquer tipo de BUG e/ou glicthes nos servidores;
-3. Passar-se por qualquer player com privilégios ou de nossa administração;
+3. Passar-se por qualquer player com privilégios ou de nossa administração e/ou moderação;
 4. Abuso de MIC e/ou CHAT nos servidores;
