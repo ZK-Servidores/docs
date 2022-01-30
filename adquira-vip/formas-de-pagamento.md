@@ -4,7 +4,7 @@ description: Saiba as formas de pagamentos que aceitamos.
 
 # Formas de Pagamento
 
-![](<../.gitbook/assets/image (25).png>)
+![](<../.gitbook/assets/image (25) (1).png>)
 
 **Aceitamos as seguintes formas de pagamento:**
 

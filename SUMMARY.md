@@ -2,7 +2,7 @@
 
 * [ZK Servidores™](README.md)
 
-## 🌟 | ADQUIRA VIP <a href="adquira-vip" id="adquira-vip"></a>
+## 🌟 | ADQUIRA VIP <a href="#adquira-vip" id="adquira-vip"></a>
 
 * [Adquira VIP](https://zkservidores.com/discord)
 * [Formas de Pagamento](adquira-vip/formas-de-pagamento.md)
@@ -13,10 +13,10 @@
 * [📕 | REGRAS DOS SERVIDORES](regras-dos-servidores/README.md)
   * [Servidores Competitivo](regras-dos-servidores/servidores-competitivo.md)
   * [Servidores Retake](regras-dos-servidores/servidores-retake.md)
-  * [Servidores DeathMatch FFA](regras-dos-servidores/servidores-deathmatch-ffa.md)
+  * [Servidores DeathMatch](regras-dos-servidores/servidores-deathmatch-ffa.md)
   * [Servidores Arena 1v1](regras-dos-servidores/servidores-arena-1v1.md)
   * [Servidores AWP Only](regras-dos-servidores/servidores-awp-only.md)
-  * [Servidores Surf Classic](regras-dos-servidores/servidores-surf-classic.md)
+  * [Servidores Surf Combate](regras-dos-servidores/servidores-surf-combate.md)
   * [Servidores JailBreak](regras-dos-servidores/servidores-jailbreak.md)
 * [❓ | F.A.Q - BASE DE CONHECIMENTO](f.a.q-base-de-conhecimento/README.md)
   * [Guia Steam](f.a.q-base-de-conhecimento/guia-steam.md)
@@ -27,7 +27,8 @@
   * [Corrigindo erro Missing Map](f.a.q-base-de-conhecimento/corrigindo-erro-missing-map.md)
   * [Corrigindo erro Retrying Public](f.a.q-base-de-conhecimento/corrigindo-erro-retrying-public.md)
   * [Corrigindo erro Host\_Error: recursively entered](f.a.q-base-de-conhecimento/corrigindo-erro-host-error-recursively-entered.md)
-  * [Corrigindo problemas de Loos & Choke alto nos servidores](f.a.q-base-de-conhecimento/corrigindo-problemas-de-loos-and-choke-alto-nos-servidores.md)
+  * [Corrigindo problemas de Loss & Choke alto nos servidores](f.a.q-base-de-conhecimento/corrigindo-problemas-de-loos-and-choke-alto-nos-servidores.md)
+  * [Ping alto ou loss nos servidores (Teste de Rota - WinMTR)](f.a.q-base-de-conhecimento/ping-alto-ou-loss-nos-servidores-teste-de-rota-winmtr.md)
 * [📚 | TERMOS & NORMAS DE CONDUTA](termos-e-normas-de-conduta/README.md)
   * [Legislação Brasileira](termos-e-normas-de-conduta/legislacao-brasileira.md)
   * [Anti-Cheats](termos-e-normas-de-conduta/anti-cheats.md)
@@ -43,7 +44,7 @@
   * [Denúncias](termos-e-normas-de-conduta/denuncias.md)
   * [Considerações Finais](termos-e-normas-de-conduta/consideracoes-finais.md)
 
-## 🙋 | SUPORTE <a href="suporte" id="suporte"></a>
+## 🙋 | SUPORTE <a href="#suporte" id="suporte"></a>
 
 * [Discord](https://zkservidores.com/discord)
 * [WhatsApp](https://zkservidores.com/whatsapp)

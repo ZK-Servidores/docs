@@ -1,10 +1,10 @@
 # Como deixar o Perfil Steam & Horas do Jogo público
 
-Clique para `Editar perfil` em seu Perfil Steam.
+Clique para **`Editar perfil`** em seu perfil Steam.
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (25).png>)
 
-Depois clique em `Config. privacidade` e deixe todas as opções marcada como `Pública`, como na print abaixo.
+Depois clique em **`Config. privacidade`** e deixe todas as opções marcada como **`Pública`**, como na print abaixo.
 
 ![](<../.gitbook/assets/image (2).png>)
 

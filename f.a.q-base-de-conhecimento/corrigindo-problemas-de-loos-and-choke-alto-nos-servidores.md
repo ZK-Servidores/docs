@@ -1,8 +1,8 @@
-# Corrigindo problemas de Loos & Choke alto nos servidores
+# Corrigindo problemas de Loss & Choke alto nos servidores
 
-Caso esteja tendo problemas de Loos & Choke alto nos servidores primeiro de tudo vamos tentar mudar a **Largura de banda máxima aceitável** em seu CSGO.\
+Caso esteja tendo problemas de Loss & Choke alto nos servidores primeiro de tudo vamos tentar mudar a **Largura de banda máxima aceitável** em seu CSGO.\
 \
-Para isso basta ir em **Configurações em seu CSGO,** opção **Jogo** e na opção de **Largura de banda máxima aceitável **configurei como** Irrestrita**
+Para isso basta ir em **Configurações em seu CSGO,** opção **Jogo** e na opção de **Largura de banda máxima aceitável configurei como Irrestrita**
 
 ![Configurando largura de banda máxima aceitável como Irrestrita](<../.gitbook/assets/image (23).png>)
 

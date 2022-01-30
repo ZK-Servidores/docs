@@ -4,7 +4,7 @@
 
 2º - Seguimos a seguinte tabela com [**Advertências & Tempo de Banimentos**](http://bit.ly/337uhTG) quando players não seguem as regras.
 
-![Recomendamos sempre ficar de olho nesta tabala pelo link, atualizamos constantemente](<../.gitbook/assets/image (24).png>)
+![](<../.gitbook/assets/image (26).png>)
 
 3º - Lembre-se, em algumas circunstâncias o banimento pode ser aplicado direto dependendo da ocorrência ou gravidade da situação.
 
