@@ -6,10 +6,11 @@ Reports/Denúncias podem ser feito em nosso **Discord & Servidores CSGO**.
 
 Para que possamos verificar um report/denúncia nos enviem as seguintes informações:
 
-* **Link Steam Suspeito**
+* **Link Steam do Player**
 * **Motivo da Denúncia**
 * **Provas **_**(Vídeos/Imagens)**_
-* **Servidor**
+
+****
 
 _**Lembre-se de fornece o máximo de informações, assim o processo de verificação é mais rápido.**_
 
