@@ -13,7 +13,7 @@
 * [📕 | REGRAS DOS SERVIDORES](regras-dos-servidores/README.md)
   * [Servidores Competitivo](regras-dos-servidores/servidores-competitivo.md)
   * [Servidores Retake](regras-dos-servidores/servidores-retake.md)
-  * [Servidores DeathMatch](regras-dos-servidores/servidores-deathmatch-ffa.md)
+  * [Servidores DeathMatch](regras-dos-servidores/servidores-deathmatch.md)
   * [Servidores Arena 1v1](regras-dos-servidores/servidores-arena-1v1.md)
   * [Servidores AWP Only](regras-dos-servidores/servidores-awp-only.md)
   * [Servidores Surf Combate](regras-dos-servidores/servidores-surf-combate.md)
