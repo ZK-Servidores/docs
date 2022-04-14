@@ -2,7 +2,9 @@
 
 Reports/Denúncias podem ser feito em nosso **Discord & Servidores CSGO**.
 
-* _**Reports/Denúncias feitas em nosso Discord geralmente são atendidos e verificados mais rápido, já que estamos sempre lá atendendo aos players;**_
+{% hint style="warning" %}
+_<mark style="color:yellow;">**Reports/Denúncias feitas em nosso Discord geralmente são atendidos e verificados mais rápido, já que estamos sempre lá atendendo aos players;**</mark>_
+{% endhint %}
 
 Para que possamos verificar um report/denúncia nos enviem as seguintes informações:
 
