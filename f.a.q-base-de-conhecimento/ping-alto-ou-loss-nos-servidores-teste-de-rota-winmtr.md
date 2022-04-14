@@ -34,6 +34,10 @@ As outras 4 colunas informam:
 
 A alta variação de valores nessas colunas também podem indicar uma instabilidade em sua rota!
 
+{% hint style="warning" %}
 <mark style="color:yellow;">**OBS: Se você enfrentar o erro “unknown hostname” verifique se o endereço de IP no campo host está correto. Geralmente isso acontece quando há espaços ou barras no IP.**</mark>
 
+<mark style="color:yellow;">****</mark>
+
 <mark style="color:yellow;">**Se não funcionar, tente desativar o Anti-Vírus, Windows Defender e o Firewall, depois reiniciar o programa WinMTR.**</mark>
+{% endhint %}
