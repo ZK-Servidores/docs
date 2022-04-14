@@ -10,8 +10,6 @@ Para que possamos verificar um report/denúncia nos enviem as seguintes informa�
 * **Motivo da Denúncia**
 * **Provas **_**(Vídeos/Imagens)**_
 
-****
-
 _**Lembre-se de fornece o máximo de informações, assim o processo de verificação é mais rápido.**_
 
 Vale ressaltar que toda denúncia deve ser feita com no **máximo 48hs do ocorrido** para ser analisada, a punição será definida através de uma decisão dos administradores e moderadores e cabe somente a eles decidir se haverá uma punição.

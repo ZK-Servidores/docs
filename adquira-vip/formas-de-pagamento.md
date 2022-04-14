@@ -19,8 +19,6 @@ description: Saiba as formas de pagamentos que aceitamos.
 
 Compras com cartões de crédito podem ser parceladas._**(Taxas pagas pelo comprador)**_
 
-<mark style="color:red;">****</mark>
-
 {% hint style="danger" %}
 ### <mark style="color:red;">**AVISO IMPORTANTE**</mark>
 
