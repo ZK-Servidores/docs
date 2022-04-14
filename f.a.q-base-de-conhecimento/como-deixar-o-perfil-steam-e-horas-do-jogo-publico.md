@@ -8,7 +8,7 @@ Depois clique em **`Config. privacidade`** e deixe todas as opções marcada com
 
 ![](<../.gitbook/assets/image (2).png>)
 
-_**Lembre-se de deixar as duas caixas de seleção desmarcadas para deixar as Horas do Jogo visível e o Inventário Steam também.**_
+_<mark style="color:yellow;">**Lembre-se de deixar as duas caixas de seleção desmarcadas para deixar as Horas do Jogo visível e o Inventário Steam também.**</mark>_
 
 Feito isso basta se conectar nos servidores, depois que jogar um mapa por completo seu Perfil Steam pode ser colocado no **Privado** novamente.
 
