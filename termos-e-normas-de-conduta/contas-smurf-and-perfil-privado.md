@@ -6,3 +6,9 @@
 
 1. Se você foi banido e sua conta é privada, você pode solicitar a verificação do ban depois que deixar público seu perfil steam e/ou se tiver privilégios em nossos servidores.
 2. Como os players com privilégios contribuem para manter os servidores online, eles podem jogar em contas smurfs ou com perfil privado. No entanto, eles não estão isentos de receber uma punição, desde que tenhamos provas completas de trapaça ou que esteja quebrando nossas Regras.
+
+3º - Para uma segurança maior em nossos servidores temos alguns requisitos para jogar neles, sendo eles:
+
+1. **120 horas de CSGO** para jogar nos servidores **COMPETITIVO**;
+2. **45 horas de CSGO** para jogar nos servidores **CASUAIS**;
+   * _**VIP & PREMIUM são imunes a estes requisitos;**_
