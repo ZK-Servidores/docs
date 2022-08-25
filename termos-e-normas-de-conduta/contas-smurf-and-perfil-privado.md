@@ -12,3 +12,9 @@
 1. **120 horas de CSGO** para jogar nos servidores **COMPETITIVO**;
 2. **45 horas de CSGO** para jogar nos servidores **CASUAIS**;
    * _**VIP & PREMIUM são imunes a estes requisitos;**_
+
+{% hint style="danger" %}
+Atualmente estamos testando a imunidade para players com privilégios que receberam Game Bans em outros jogos. Ou seja, sendo VIP e tem Game Ban em outro jogo você ainda pode jogar em nossos servidores.\
+\
+Este privilégios esta sendo testado ainda e veremos como vai ficar no futuro, qualquer problema será removido esta imunidade.
+{% endhint %}
