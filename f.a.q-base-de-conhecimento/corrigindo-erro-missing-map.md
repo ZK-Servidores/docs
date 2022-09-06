@@ -8,7 +8,7 @@ Isso é porque a versão do mapa que você tem em seu PC é diferente da que usa
 
 Basta ir na pasta do seu CSGO, para isso basta ir no jogo **Counter-Strike: Global Offensive na Steam,** clicar em **Propriedades** com mouse direto no game, depois na aba **ARQUIVOS LOCAIS** e **NAVEGAR PELOS ARQUIVOS LOCAIS...**
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (1).png>)
 
 Feito isso vai até a pasta **maps, `csgo/maps`** localiza o mapa que esta dando este erro e delete ele, delete também todos arquivos na pasta que tenha o mesmo nome do mapa.
 
