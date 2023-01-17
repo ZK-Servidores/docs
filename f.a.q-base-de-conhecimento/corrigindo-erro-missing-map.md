@@ -2,7 +2,7 @@
 
 Ao tentar se conectar em nossos servidores esta recebendo o erro **Missing Map.**
 
-![Erro Missing Map](<../.gitbook/assets/image (4).png>)
+![Erro Missing Map](<../.gitbook/assets/image (4) (1).png>)
 
 Isso é porque a versão do mapa que você tem em seu PC é diferente da que usamos em nossos servidores, para corrigir é simples.
 
