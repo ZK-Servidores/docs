@@ -29,6 +29,7 @@
   * [Corrigindo erro Retrying Public](f.a.q-base-de-conhecimento/corrigindo-erro-retrying-public.md)
   * [Corrigindo erro Host\_Error: recursively entered](f.a.q-base-de-conhecimento/corrigindo-erro-host-error-recursively-entered.md)
   * [Corrigindo problemas de Loss & Choke alto nos servidores](f.a.q-base-de-conhecimento/corrigindo-problemas-de-loos-and-choke-alto-nos-servidores.md)
+  * [Como fazer um traceroute](f.a.q-base-de-conhecimento/como-fazer-um-traceroute.md)
   * [Ping alto ou loss nos servidores (Teste de Rota - WinMTR)](f.a.q-base-de-conhecimento/ping-alto-ou-loss-nos-servidores-teste-de-rota-winmtr.md)
 * [📚 | TERMOS & NORMAS DE CONDUTA](termos-e-normas-de-conduta/README.md)
   * [Legislação Brasileira](termos-e-normas-de-conduta/legislacao-brasileira.md)

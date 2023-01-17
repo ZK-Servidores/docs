@@ -8,10 +8,9 @@ Para identificarmos onde está o problema e verificar se há solução, é neces
 
 *   Faça o download do programa [**WinMTR**](https://winmtr.br.uptodown.com/windows), depois coloque o endereço de IP do servidor que esta tendo problema no campo **`host` ** e clique em start.
 
-    ```
-    177.54.144.126
-    ```
-* Após 5 minutos, clique em "**STOP**", e nos encaminhe a print do programa, como exibido a seguir.
+    <pre><code><strong>Exemplo de IP: 177.54.144.126
+    </strong></code></pre>
+* Após 5 minutos, clique em "**STOP**", e nos encaminhe a print do programa, como exibido a seguir. _**(Se preferir pode usar a opção**** ****`Export HTML`**** ****e nos enviar o arquivo gerado também)**_
 
 #### **Para entender como interpretar os testes, leia as informações a baixo.**
 
@@ -36,8 +35,6 @@ A alta variação de valores nessas colunas também podem indicar uma instabilid
 
 {% hint style="warning" %}
 <mark style="color:yellow;">**OBS: Se você enfrentar o erro “unknown hostname” verifique se o endereço de IP no campo host está correto. Geralmente isso acontece quando há espaços ou barras no IP.**</mark>
-
-<mark style="color:yellow;">****</mark>
 
 <mark style="color:yellow;">**Se não funcionar, tente desativar o Anti-Vírus, Windows Defender e o Firewall, depois reiniciar o programa WinMTR.**</mark>
 {% endhint %}
