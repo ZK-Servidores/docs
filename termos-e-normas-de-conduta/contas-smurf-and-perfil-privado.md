@@ -9,6 +9,7 @@
 
 3º - Para uma segurança maior em nossos servidores temos alguns requisitos para jogar neles, sendo eles:
 
-1. **120 horas de CSGO** para jogar nos servidores **COMPETITIVO**;
-2. **45 horas de CSGO** para jogar nos servidores **CASUAIS**;
-   * _**VIP & PREMIUM são imunes a estes requisitos;**_
+* **120 horas de CSGO** para jogar nos servidores **COMPETITIVO**;
+* **45 horas de CSGO** para jogar nos servidores **CASUAIS**;
+* **Status Prime** para jogar nos servidores;
+  * _**VIP & PREMIUM são imunes a estes requisitos;**_
