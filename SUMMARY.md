@@ -17,7 +17,6 @@
   * [Servidores Arena 1v1](regras-dos-servidores/servidores-arena-1v1.md)
   * [Servidores AWP Only](regras-dos-servidores/servidores-awp-only.md)
   * [Servidores Surf Combate](regras-dos-servidores/servidores-surf-combate.md)
-  * [Servidores JailBreak](regras-dos-servidores/servidores-jailbreak.md)
 * [❓ | F.A.Q - BASE DE CONHECIMENTO](f.a.q-base-de-conhecimento/README.md)
   * [Guia Steam](f.a.q-base-de-conhecimento/guia-steam.md)
   * [Solicitação de Parcerias](f.a.q-base-de-conhecimento/solicitacao-de-parcerias.md)
