@@ -17,7 +17,7 @@
 
 6º - Torna-se proibido:
 
-* Qualquer tipo de anti-jogo;
-* Abusar de qualquer tipo de BUG e/ou glicthes nos servidores;
-* Passar-se por qualquer player com privilégios ou de nossa administração e/ou moderação;
-* Abuso de MIC e/ou CHAT nos servidores;
+1. Qualquer tipo de anti-jogo;
+2. Abusar de qualquer tipo de BUG e/ou glicthes nos servidores;
+3. Passar-se por qualquer player com privilégios ou de nossa administração e/ou moderação;
+4. Abuso de MIC e/ou CHAT nos servidores;

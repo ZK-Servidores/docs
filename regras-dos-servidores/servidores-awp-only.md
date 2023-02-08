@@ -4,6 +4,6 @@
 
 2º - Torna-se proibido:
 
-* Camperar; _**(+15 segundos)**_
-* Usar qualquer meio de comunicação para passar informações do game - **CALL**;
-* Atrapalhar, trolar o game dos demais players;
+1. Camperar; _**(+15 segundos)**_
+2. Usar qualquer meio de comunicação para passar informações do game - **CALL**\_;
+3. Atrapalhar, trolar o game dos demais players;

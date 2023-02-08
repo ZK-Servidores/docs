@@ -12,4 +12,4 @@
 * **120 horas de CSGO** para jogar nos servidores **COMPETITIVO**;
 * **45 horas de CSGO** para jogar nos servidores **CASUAIS**;
 * **Status Prime** para jogar nos servidores;
-  * _**VIP & PREMIUM são imunes a estes requisitos;**_
+  * _**VIP & PREMIUM** são imunes a estes requisitos**;**_
